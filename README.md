@@ -15,12 +15,12 @@
     </a>
 </p>
 <p align=center>
-    <!--- Organize Tracker ---->
-    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/Organize>
-        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/Organize?logo=symantec&label=Organize>
+    <!--- Bug Tracker ---->
+    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/bug>
+        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/bug?logo=symantec&label=Bugs>
     </a>
     <!--- Help Wanted Tracker ---->
-    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/Help%20Wanted>
+    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/help%20wanted>
         <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/Help%20Wanted?logo=symantec&label=Help%20Wanted>
     </a>
     <!--- To-Do Tracker ---->
