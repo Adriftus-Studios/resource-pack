@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/clock_00"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/seasonal/thanksgiving/thanksgiving_hat" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "item/seasonal/thanksgiving/thanksgiving_hat_lmao" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "item/seasonal/christmas/santa_hat" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "item/seasonal/christmas/elf_hat_green" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "item/seasonal/christmas/elf_hat_purple" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "item/seasonal/christmas/elf_hat_blue" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "item/seasonal/halloween/franks_bolts" }
+  ]
+}

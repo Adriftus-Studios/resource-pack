@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/dried_kelp"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/food/roll_cod" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/food/roll_salmon" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/food/roll_pufferfish" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/food/roll_tropical" },
+    { "predicate": { "custom_model_data": 5 }, "model": "item/food/roll_mushroom_red" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "item/food/roll_mushroom_brown" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "item/food/roll_veggie" }
+  ]
+}

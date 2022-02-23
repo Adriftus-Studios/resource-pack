@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+	"gui_light": "front",
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/weapons/legendary_item_bee_stinger"}
+
+    ]
+}

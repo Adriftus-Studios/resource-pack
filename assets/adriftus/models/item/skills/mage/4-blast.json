@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adriftus:custom/skills/mage/4-blast"
+  }
+}

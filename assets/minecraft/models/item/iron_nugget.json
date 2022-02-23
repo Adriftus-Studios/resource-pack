@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+  { "predicate": { "custom_model_data": 1 }, "model": "item/coins/copper_coin" },
+  { "predicate": { "custom_model_data": 2 }, "model": "item/coins/iron_coin" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "item/coins/gold_coin" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "item/coins/diamond_coin" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "item/coins/netherite_coin" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/skills/mage/1-magic_missile"},
+	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/skills/mage/2-blink"},
+	{ "predicate": { "custom_model_data": 8 }, "model": "adriftus:item/skills/mage/3-shield"},
+	{ "predicate": { "custom_model_data": 9 }, "model": "adriftus:item/skills/mage/4-blast"},
+	{ "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/skills/warrior/5-bash"},
+	{ "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/skills/warrior/6-charge"},
+	{ "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/skills/warrior/7-second_wind"},
+	{ "predicate": { "custom_model_data": 13 }, "model": "adriftus:item/skills/warrior/8-sword_spin"},
+	{ "predicate": { "custom_model_data": 14 }, "model": "adriftus:item/skills/rogue/9-backstab"},
+	{ "predicate": { "custom_model_data": 15 }, "model": "adriftus:item/skills/rogue/10-sprint"},
+	{ "predicate": { "custom_model_data": 16 }, "model": "adriftus:item/skills/rogue/11-recover"},
+	{ "predicate": { "custom_model_data": 17 }, "model": "adriftus:item/skills/rogue/12-poison_dagger"},
+	{ "predicate": { "custom_model_data": 18 }, "model": "adriftus:item/skills/ranger/13-piercing_shot"},
+	{ "predicate": { "custom_model_data": 19 }, "model": "adriftus:item/skills/ranger/14-disengage"},
+	{ "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/skills/ranger/15-explosive_shot"},
+	{ "predicate": { "custom_model_data": 21 }, "model": "adriftus:item/skills/ranger/16-sick_em"}
+  ]
+}

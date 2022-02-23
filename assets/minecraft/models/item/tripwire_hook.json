@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/tripwire_hook"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/keys/daily_vote" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/keys/weekly_vote" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "item/misc_items/grappling_hook" }
+  ]
+}
