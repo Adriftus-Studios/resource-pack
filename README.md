@@ -2,11 +2,11 @@
     <h1 align=center> Adriftus Studios - Resource Pack </h1>
 </p>
 <p align=center>
-    <img src=https://img.shields.io/badge/Minecraft%20Version-1.16-success>
+    <img src=https://img.shields.io/badge/Minecraft%20Version-1.18-success>
 </p>
 <p align=center>
     <!--- Discord Activity ---->
-    <a href=https://discord.gg/MjXemPr>
+    <a href=https://discord.gg/adriftus>
         <img src=https://img.shields.io/discord/481711026962694146?logo=discord>
     </a>
 	<!--- Commit Activity ---->
