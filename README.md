@@ -10,26 +10,26 @@
         <img src=https://img.shields.io/discord/481711026962694146?logo=discord>
     </a>
 	<!--- Commit Activity ---->
-    <a href=https://github.com/Adriftus-Studios/adriftus-resources/pulse>
-        <img src=https://img.shields.io/github/commit-activity/m/Adriftus-Studios/adriftus-resources?logo=read-the-docs>
+    <a href=https://github.com/Adriftus-Studios/resource-pack/pulse>
+        <img src=https://img.shields.io/github/commit-activity/m/Adriftus-Studios/resource-pack?logo=read-the-docs>
     </a>
 </p>
 <p align=center>
     <!--- Organize Tracker ---->
-    <a href=https://github.com/Adriftus-Studios/adriftus-resources/labels/Organize>
-        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/adriftus-resources/Organize?logo=symantec&label=Organize>
+    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/Organize>
+        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/Organize?logo=symantec&label=Organize>
     </a>
     <!--- Help Wanted Tracker ---->
-    <a href=https://github.com/Adriftus-Studios/adriftus-resources/labels/Help%20Wanted>
-        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/adriftus-resources/Help%20Wanted?logo=symantec&label=Help%20Wanted>
+    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/Help%20Wanted>
+        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/Help%20Wanted?logo=symantec&label=Help%20Wanted>
     </a>
     <!--- To-Do Tracker ---->
     <a href=https://github.com/Adriftus-Studios/adriftus-resources/labels/To-Do>
-        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/adriftus-resources/To-Do?logo=symantec&label=To-Do>
+        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/To-Do?logo=symantec&label=To-Do>
     </a>
     <!--- Feature Request Tracker ---->
-    <a href=https://github.com/Adriftus-Studios/adriftus-resources/labels/Feature%20Request>
-        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/adriftus-resources/Feature%20Request?logo=symantec&label=Feature%20Request>
+    <a href=https://github.com/Adriftus-Studios/resource-pack/labels/Feature%20Request>
+        <img src=https://img.shields.io/github/issues-raw/Adriftus-Studios/resource-pack/Feature%20Request?logo=symantec&label=Feature%20Request>
     </a>
 </p>
 
