@@ -9,12 +9,13 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:font/gui_template.png",
+            "file": "adriftus:custom_gui/gui_template.png",
             "accent": 0,
-            "height": 256,
+            "height": 0,
             "chars": [
               "a"
             ]
         }
     ]
 }
+
