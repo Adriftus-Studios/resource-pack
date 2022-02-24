@@ -24,6 +24,10 @@
 	{ "predicate": { "custom_model_data": 18 }, "model": "adriftus:item/skills/ranger/13-piercing_shot"},
 	{ "predicate": { "custom_model_data": 19 }, "model": "adriftus:item/skills/ranger/14-disengage"},
 	{ "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/skills/ranger/15-explosive_shot"},
-	{ "predicate": { "custom_model_data": 21 }, "model": "adriftus:item/skills/ranger/16-sick_em"}
+	{ "predicate": { "custom_model_data": 21 }, "model": "adriftus:item/skills/ranger/16-sick_em"},
+	{ "predicate": { "custom_model_data": 22 }, "model": "adriftus:item/classes/mage"},
+	{ "predicate": { "custom_model_data": 23 }, "model": "adriftus:item/classes/warrior"},
+	{ "predicate": { "custom_model_data": 24 }, "model": "adriftus:item/classes/rogue"},
+	{ "predicate": { "custom_model_data": 25 }, "model": "adriftus:item/classes/ranger"}
   ]
 }
