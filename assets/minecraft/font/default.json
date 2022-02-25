@@ -1,0 +1,83 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/0_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6911"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/45_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6912"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/90_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6913"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/135_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6914"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/180_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6915"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/225_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6916"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/270_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6909"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:direction/315_degree",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u6910"
+            ]
+        },
+    ]
+}

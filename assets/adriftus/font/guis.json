@@ -90,7 +90,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/warps_menu.png",
+            "file": "adriftus:custom_gui/hub_warp_gui.png",
             "ascent": 13.75,
             "height": 256,
             "chars": [
