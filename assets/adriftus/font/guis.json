@@ -1,0 +1,101 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "adriftus:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/letter_large.png",
+            "ascent": 0,
+            "height": 200,
+            "chars": [
+                "\u6900"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/icon/letter_small.png",
+            "ascent": 0,
+            "height": 64,
+            "chars": [
+                "\u6901"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/icon/plain_letter_large.png",
+            "ascent": 0,
+            "height": 450,
+            "chars": [
+                "\u6902"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/base/small.png",
+            "ascent": 0,
+            "height": 150,
+            "chars": [
+                "\u6903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/base/large.png",
+            "ascent": 0,
+            "height": 1198,
+            "chars": [
+                "\u6904"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/banners/large.png",
+            "ascent": 0,
+            "height": 857,
+            "chars": [
+                "\u6905"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/gui_template.png",
+            "ascent": 13.75,
+            "height": 256,
+            "chars": [
+                "\u6906"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/class_selector.png",
+            "ascent": 13.75,
+            "height": 256,
+            "chars": [
+                "\u6907"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/hot_key_bind.png",
+            "ascent": 13.75,
+            "height": 256,
+            "chars": [
+                "\u6908"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/warps_menu.png",
+            "ascent": 13.75,
+            "height": 256,
+            "chars": [
+                "\u6909"
+            ]
+        }
+    ]
+}
