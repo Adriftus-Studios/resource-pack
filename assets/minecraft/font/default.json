@@ -9,75 +9,75 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/0_degree.png",
+            "file": "minecraft:font/0_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6911"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/45_degree.png",
+            "file": "minecraft:font/45_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6912"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/90_degree.png",
+            "file": "minecraft:font/90_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6913"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/135_degree.png",
+            "file": "minecraft:font/135_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6914"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/180_degree.png",
+            "file": "minecraft:font/180_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6915"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/225_degree.png",
+            "file": "minecraft:font/225_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6916"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/270_degree.png",
+            "file": "minecraft:font/270_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6909"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:direction/315_degree.png",
+            "file": "minecraft:font/315_degree.png",
             "ascent": 0,
-            "height": 50,
+            "height": 48,
             "chars": [
                 "\u6910"
             ]
-        },
+        }
     ]
 }
