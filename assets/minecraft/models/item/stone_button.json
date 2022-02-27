@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "item/stone_button"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/holograms/potions" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/holograms/armory" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/holograms/books" }
+  ]
+}
