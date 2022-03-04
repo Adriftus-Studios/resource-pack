@@ -1,0 +1,21 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "adriftus:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/logo_large.png",
+            "ascent": 100,
+            "height": 500,
+            "width": 100,
+            "chars": [
+                "\u0001"
+            ]
+        }
+    ]
+}

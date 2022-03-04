@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/seasonal/christmas/christmas_ice_shard"
+	}
+}
