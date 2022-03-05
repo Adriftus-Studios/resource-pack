@@ -9,12 +9,20 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_chat/logo_large.png",
+            "file": "adriftus:holograms/logo_large.png",
             "ascent": 100,
             "height": 500,
-            "width": 100,
             "chars": [
                 "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/test.png",
+            "ascent": 10,
+            "height": 64,
+            "chars": [
+                "\u0002"
             ]
         }
     ]
