@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adriftus:custom/banner_designer/token_silver_small"
+  }
+}
