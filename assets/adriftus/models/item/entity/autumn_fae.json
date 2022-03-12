@@ -1,5 +1,6 @@
 {
 	"credit": "Made By SaphieNyako in the Feywild mod",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "adriftus:item/entity/autumn_fae"
 	},
