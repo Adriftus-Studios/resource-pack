@@ -6,6 +6,7 @@
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/morbs/basic_morb_empty" },
     { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/morbs/basic_morb_filled" },
-    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/inventory/blank" }
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/inventory/blank" },
+    { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/entity/autumn_fae"}
   ]
 }
