@@ -4,11 +4,11 @@
     "layer0": "minecraft:item/iron_nugget"
   },
   "overrides": [
-  { "predicate": { "custom_model_data": 1 }, "model": "item/coins/copper_coin" },
-  { "predicate": { "custom_model_data": 2 }, "model": "item/coins/iron_coin" },
-	{ "predicate": { "custom_model_data": 3 }, "model": "item/coins/gold_coin" },
-	{ "predicate": { "custom_model_data": 4 }, "model": "item/coins/diamond_coin" },
-	{ "predicate": { "custom_model_data": 5 }, "model": "item/coins/netherite_coin" },
+  { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/coins/copper_coin" },
+  { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/coins/iron_coin" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/coins/gold_coin" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/coins/diamond_coin" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/coins/netherite_coin" },
 	{ "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/skills/mage/1-magic_missile"},
 	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/skills/mage/2-blink"},
 	{ "predicate": { "custom_model_data": 8 }, "model": "adriftus:item/skills/mage/3-shield"},

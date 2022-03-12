@@ -4,12 +4,12 @@
       "layer0": "item/paper"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/misc_items/check" },
-    { "predicate": { "custom_model_data": 2 }, "model": "item/misc_items/minus" },
-    { "predicate": { "custom_model_data": 3 }, "model": "item/misc_items/letter_unsealed" },
-    { "predicate": { "custom_model_data": 4 }, "model": "item/misc_items/letter_sealed" },
-    { "predicate": { "custom_model_data": 5 }, "model": "item/misc_items/cross" },
-    { "predicate": { "custom_model_data": 6 }, "model": "item/misc_items/arrow_green" },
-    { "predicate": { "custom_model_data": 7 }, "model": "item/misc_items/arrow_blue" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/misc_items/check" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/misc_items/minus" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/misc_items/letter_unsealed" },
+    { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/misc_items/letter_sealed" },
+    { "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/misc_items/cross" },
+    { "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/misc_items/arrow_green" },
+    { "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/misc_items/arrow_blue" }
   ]
 }

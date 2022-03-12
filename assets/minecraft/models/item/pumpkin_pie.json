@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/pumpkin_pie"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/food/sweet_berry_pie" },
-    { "predicate": { "custom_model_data": 2 }, "model": "item/food/apple_pie" },
-	{ "predicate": { "custom_model_data": 3 }, "model": "item/food/glow_berry_pie" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/food/sweet_berry_pie" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/food/apple_pie" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/food/glow_berry_pie" }
   ]
 }

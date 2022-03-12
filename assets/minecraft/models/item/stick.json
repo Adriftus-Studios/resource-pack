@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/mounts/whimsicorn" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "item/mounts/inferna" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/mounts/whimsicorn" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/mounts/inferna" }
   ]
 }

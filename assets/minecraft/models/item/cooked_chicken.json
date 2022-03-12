@@ -4,16 +4,16 @@
     "layer0": "minecraft:item/cooked_chicken"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/seasonal/thanksgiving/thanksgiving_turkey" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_9" },
-	{ "predicate": { "custom_model_data": 3 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_8" },
-	{ "predicate": { "custom_model_data": 4 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_7" },
-	{ "predicate": { "custom_model_data": 5 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_6" },
-	{ "predicate": { "custom_model_data": 6 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_5" },
-	{ "predicate": { "custom_model_data": 7 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_4" },
-	{ "predicate": { "custom_model_data": 8 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_3" },
-	{ "predicate": { "custom_model_data": 9 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_2" },
-	{ "predicate": { "custom_model_data": 10 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_1" },
-	{ "predicate": { "custom_model_data": 11 }, "model": "item/seasonal/thanksgiving/cornucopia/cornucopia_10" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/seasonal/thanksgiving/thanksgiving_turkey" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_9" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_8" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_7" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_6" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_5" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_4" },
+	{ "predicate": { "custom_model_data": 8 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_3" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_2" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_1" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/seasonal/thanksgiving/cornucopia/cornucopia_10" }
   ]
 }

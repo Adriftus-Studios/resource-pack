@@ -4,21 +4,21 @@
     "layer0": "minecraft:item/cake"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/food/carrot_cake" },
-    { "predicate": { "custom_model_data": 2 }, "model": "item/food/chocolate_cake" },
-	{ "predicate": { "custom_model_data": 3 }, "model": "item/food/carrot_cake/carrot_cake_1" },
-	{ "predicate": { "custom_model_data": 4 }, "model": "item/food/carrot_cake/carrot_cake_2" },
-	{ "predicate": { "custom_model_data": 5 }, "model": "item/food/carrot_cake/carrot_cake_3" },
-	{ "predicate": { "custom_model_data": 6 }, "model": "item/food/carrot_cake/carrot_cake_4" },
-	{ "predicate": { "custom_model_data": 7 }, "model": "item/food/carrot_cake/carrot_cake_5" },
-	{ "predicate": { "custom_model_data": 8 }, "model": "item/food/carrot_cake/carrot_cake_6" },
-	{ "predicate": { "custom_model_data": 9 }, "model": "item/food/carrot_cake/carrot_cake_base" },
-	{ "predicate": { "custom_model_data": 10 }, "model": "item/food/chocolate_cake/chocolate_cake_1" },
-	{ "predicate": { "custom_model_data": 11 }, "model": "item/food/chocolate_cake/chocolate_cake_2" },
-	{ "predicate": { "custom_model_data": 12 }, "model": "item/food/chocolate_cake/chocolate_cake_3" },
-	{ "predicate": { "custom_model_data": 13 }, "model": "item/food/chocolate_cake/chocolate_cake_4" },
-	{ "predicate": { "custom_model_data": 14 }, "model": "item/food/chocolate_cake/chocolate_cake_5" },
-	{ "predicate": { "custom_model_data": 15 }, "model": "item/food/chocolate_cake/chocolate_cake_6" },
-	{ "predicate": { "custom_model_data": 16 }, "model": "item/food/chocolate_cake/chocolate_cake_base" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/food/carrot_cake" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/food/chocolate_cake" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_1" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_2" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_3" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_4" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_5" },
+	{ "predicate": { "custom_model_data": 8 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_6" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "adriftus:item/food/carrot_cake/carrot_cake_base" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_1" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_2" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_3" },
+	{ "predicate": { "custom_model_data": 13 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_4" },
+	{ "predicate": { "custom_model_data": 14 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_5" },
+	{ "predicate": { "custom_model_data": 15 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_6" },
+	{ "predicate": { "custom_model_data": 16 }, "model": "adriftus:item/food/chocolate_cake/chocolate_cake_base" }
   ]
 }

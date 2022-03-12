@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "adriftus:item/misc_items/fill"
+	},
+	"display": {
+		"gui": {
+			"scale": [1.125, 1.125, 1.125]
+		}
+	}
+}

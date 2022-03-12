@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/bread"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/food/honey_bun" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "item/food/candy_cane" },
-    { "predicate": { "custom_model_data": 3 }, "model": "item/food/fruit_cake" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/food/honey_bun" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/food/candy_cane" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/food/fruit_cake" }
   ]
 }

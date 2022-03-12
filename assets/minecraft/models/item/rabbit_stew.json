@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/rabbit_stew"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/food/beef_stew" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "item/food/mutton_stew" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/food/beef_stew" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/food/mutton_stew" }
   ]
 }

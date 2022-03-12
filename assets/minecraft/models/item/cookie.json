@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/cookie"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/food/sugar_cookie" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/food/sugar_cookie" }
   ]
 }
