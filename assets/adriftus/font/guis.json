@@ -105,6 +105,24 @@
             "chars": [
                 "\u6910"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/bowtrails.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6911"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/cosmetic.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6912"
+            ]
         }
     ]
 }
