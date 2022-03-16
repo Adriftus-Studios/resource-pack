@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_chat/fish_token.png",
+            "file": "adriftus:custom_chat/fish_coin.png",
             "ascent": 8,
             "height": 10,
             "chars": [
