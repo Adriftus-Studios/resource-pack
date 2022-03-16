@@ -32,6 +32,13 @@
 	{ "predicate": { "custom_model_data": 30 }, "model": "adriftus:item/banner_designer/banner_token_single"},
 	{ "predicate": { "custom_model_data": 31 }, "model": "adriftus:item/banner_designer/banner_token_personal"},
 	{ "predicate": { "custom_model_data": 32 }, "model": "adriftus:item/banner_designer/banner_token_town"},
-	{ "predicate": { "custom_model_data": 33 }, "model": "adriftus:item/banner_designer/banner_token_nation"}
+	{ "predicate": { "custom_model_data": 33 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 34 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 35 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 36 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 37 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 38 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 39 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
+	{ "predicate": { "custom_model_data": 40 }, "model": "adriftus:item/hub_fishing/fish_token"}
   ]
 }
