@@ -15,6 +15,15 @@
             "chars": [
                 "\u0044"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/fish_token.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u0045"
+            ]
         }
     ]
 }
