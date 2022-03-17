@@ -8,6 +8,12 @@
     { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/morbs/basic_morb_filled" },
     { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/inventory/blank" },
     { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/entity/autumn_fae"},
-    { "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/entity/dwarf_mage"}
+    { "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/entity/dwarf_mage"},
+    { "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/entity/bee_knight"},
+    { "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/entity/angry_bee_knight"},
+    { "predicate": { "custom_model_data": 8 }, "model": "adriftus:item/entity/winter_fae"},
+    { "predicate": { "custom_model_data": 9 }, "model": "adriftus:item/entity/summer_fae"},
+    { "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/block/dwarven_anvil"},
+    { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/block/fae_altar"}
   ]
 }
