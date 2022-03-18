@@ -1555,7 +1555,7 @@
 		"head": {
 			"rotation": [0, -90, 0],
 			"translation": [0, -24, -1.5],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
