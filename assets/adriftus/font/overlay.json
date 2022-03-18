@@ -9,7 +9,7 @@
     },
     {
         "type": "bitmap",
-        "file": "fade:images/white_25.png",
+        "file": "adriftus:images/white_25.png",
         "ascent": 128,
         "height": 256,
         "chars": [
@@ -18,7 +18,7 @@
     },
     {
         "type": "bitmap",
-        "file": "fade:images/white_50.png",
+        "file": "adriftus:images/white_50.png",
         "ascent": 128,
         "height": 256,
         "chars": [
@@ -27,7 +27,7 @@
     },
     {
         "type": "bitmap",
-        "file": "fade:images/white_75.png",
+        "file": "adriftus:images/white_75.png",
         "ascent": 128,
         "height": 256,
         "chars": [
@@ -36,7 +36,7 @@
     },
     {
         "type": "bitmap",
-        "file": "fade:images/white_100.png",
+        "file": "adriftus:images/white_100.png",
         "ascent": 128,
         "height": 256,
         "chars": [
