@@ -5,7 +5,8 @@
   },
   "overrides": [
         { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/mounts/whimsicorn" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/mounts/inferna" },
+        { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/mounts/inferna" },
+        { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/tools/wrench"},
         { "predicate": { "custom_model_data": 69420}, "model": "adriftus:item/mounts/nimbus_69420" }
   ]
 }
