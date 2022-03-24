@@ -123,6 +123,15 @@
             "chars": [
                 "\u6912"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/function_tool_trigger-block.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6913"
+            ]
         }
     ]
 }
