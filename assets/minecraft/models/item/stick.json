@@ -7,7 +7,11 @@
         { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/mounts/whimsicorn" },
         { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/mounts/inferna" },
         { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/tools/wrench"},
+        { "predicate": { "custom_model_data": 100 }, "model": "adriftus:item/accessory/light_quiver"},
+        { "predicate": { "custom_model_data": 200 }, "model": "adriftus:item/accessory/end_cape"},
+        { "predicate": { "custom_model_data": 210 }, "model": "adriftus:item/accessory/diamond_creeper_cape"},
         { "predicate": { "custom_model_data": 666 }, "model": "adriftus:item/weapons/death_weapon"},
+        { "predicate": { "custom_model_data": 667 }, "model": "adriftus:item/weapons/ender_knight_sword"},
         { "predicate": { "custom_model_data": 69420}, "model": "adriftus:item/mounts/nimbus_69420" }
   ]
 }

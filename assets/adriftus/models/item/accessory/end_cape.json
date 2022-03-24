@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/weapons/death_weapon"
+    "layer0": "adriftus:item/accessory/end_cape"
   },
   "display": {
 	"thirdperson_righthand": {
@@ -34,7 +34,7 @@
 	},
 	"head": {
 		"rotation": [0, 0, 0],
-		"translation": [0, -40, 8],
+		"translation": [0, -50, 5],
 		"scale": [3, 3, 3]
 	},
 	"fixed": {

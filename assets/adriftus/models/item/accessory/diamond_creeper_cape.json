@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/weapons/death_weapon"
+    "layer0": "adriftus:item/accessory/diamond_creeper_cape"
   },
   "display": {
 	"thirdperson_righthand": {
@@ -33,9 +33,9 @@
 		"scale": [0.6, 0.6, 0.6]
 	},
 	"head": {
-		"rotation": [0, 0, 0],
-		"translation": [0, -40, 8],
-		"scale": [3, 3, 3]
+		"rotation": [-25, 0, 0],
+		"translation": [0, -53, 9],
+		"scale": [1, 1.5, 1]
 	},
 	"fixed": {
 		"rotation": [0, 90, 0],

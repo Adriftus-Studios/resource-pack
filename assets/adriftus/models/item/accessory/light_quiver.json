@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/weapons/death_weapon"
+    "layer0": "adriftus:item/accessory/light_quiver"
   },
   "display": {
 	"thirdperson_righthand": {
@@ -34,8 +34,8 @@
 	},
 	"head": {
 		"rotation": [0, 0, 0],
-		"translation": [0, -40, 8],
-		"scale": [3, 3, 3]
+		"translation": [0, -50, 5],
+		"scale": [1.5, 1.5, 1.5]
 	},
 	"fixed": {
 		"rotation": [0, 90, 0],
