@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adriftus:logos/icon/letter_large"
+  },
+  "display": {
+	"thirdperson_righthand": {
+		"rotation": [90, 0, 0],
+		"translation": [-7, 0, -15],
+		"scale": [0.25, 0.25, 0.25]
+	},
+	"thirdperson_lefthand": {
+		"rotation": [90, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [0.25, 0.25, 0.25]
+	},
+	"firstperson_righthand": {
+		"rotation": [21.5, 0, 0],
+		"translation": [0, 2.75, 0],
+		"scale": [0.25, 0.25, 0.25]
+	},
+	"firstperson_lefthand": {
+		"rotation": [21.5, 0, 0],
+		"translation": [0, 2.75, 0],
+		"scale": [0.25, 0.25, 0.25]
+	},
+	"ground": {
+		"rotation": [21.5, 0, 0],
+		"translation": [0, 2.75, 0],
+		"scale": [0.4, 0.4, 0.4]
+	},
+	"gui": {
+		"rotation": [0, 0, 0],
+		"translation": [-0.5, 0.70, 0],
+		"scale": [0.6, 0.6, 0.6]
+	},
+	"head": {
+		"rotation": [0, 0, 0],
+		"translation": [0, -50, -5],
+		"scale": [3, 3, 3]
+	},
+	"fixed": {
+		"rotation": [0, 90, 0],
+		"translation": [-0.25, 1.75, 0],
+		"scale": [0.5, 0.5, 0.5]
+        }
+  }
+}
