@@ -1237,6 +1237,17 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 1.75, -0.25]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [-1.25, -23.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "pixie",
