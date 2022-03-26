@@ -78,6 +78,15 @@
             "chars": [
                 "\u6910"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/icon/letter_small.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\u6911"
+            ]
         }
     ]
 }
