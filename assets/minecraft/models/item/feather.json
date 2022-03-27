@@ -15,7 +15,7 @@
     { "predicate": { "custom_model_data": 9 }, "model": "adriftus:item/entity/summer_fae"},
     { "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/block/dwarven_anvil"},
     { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/block/fae_altar"},
-    { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/seasonal/easter/eggs"},
+    { "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/seasonal/easter/eggs"},
     
 
     { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/waystones/waystone"}
