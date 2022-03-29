@@ -1,0 +1,6 @@
+{
+	"parent": "adriftus:item/misc_items/crystal",
+	"textures": {
+		"1": "adriftus:item/misc_items/crystal_color_yellow"
+	}
+}

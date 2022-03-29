@@ -2,7 +2,6 @@
 	"credit": "Made by AdrfitusDrew, optimized by Eutherin",
 	"texture_size": [512, 512],
 	"textures": {
-                "1": "adriftus:item/misc_items/crystal_color_red",
 		"2": "adriftus:item/misc_items/crystal_base",
 		"particle": "adriftus:item/misc_items/crystal_base"
 	},
