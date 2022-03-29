@@ -5,6 +5,7 @@
   },
   "overrides": [
         { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/effects/totem_bad_omen" },
-        { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/effects/waystone" }
+        { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/effects/waystone" },
+        { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/misc_items/crystal" }
   ]
 }

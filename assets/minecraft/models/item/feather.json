@@ -18,6 +18,7 @@
     { "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/seasonal/easter/eggs"},
     
 
-    { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/waystones/waystone"}
+    { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/waystones/waystone"},
+    { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/misc_items/crystal" }
   ]
 }
