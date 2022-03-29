@@ -10,6 +10,26 @@
 	  { "predicate": { "custom_model_data": 4}, "model": "adriftus:item/seasonal/christmas/wrapping_paper" },
 	  { "predicate": { "custom_model_data": 5}, "model": "adriftus:item/seasonal/christmas/gift_box" },
 	  { "predicate": { "custom_model_data": 6}, "model": "adriftus:item/inventory/arrow_left" },
-	  { "predicate": { "custom_model_data": 7}, "model": "adriftus:item/inventory/arrow_right" }
+	  { "predicate": { "custom_model_data": 8}, "model": "adriftus:item/inventory/arrow_right" },
+
+
+      { "predicate": { "custom_model_data": 9}, "model": "modelengine:bunny/bone10" },
+      { "predicate": { "custom_model_data": 10}, "model": "modelengine:bunny/bone9" },
+      { "predicate": { "custom_model_data": 11}, "model": "modelengine:bunny/leg2" },
+      { "predicate": { "custom_model_data": 12}, "model": "modelengine:bunny/bone12" },
+      { "predicate": { "custom_model_data": 13}, "model": "modelengine:bunny/bone11" },
+      { "predicate": { "custom_model_data": 14}, "model": "modelengine:bunny/leg1" },
+      { "predicate": { "custom_model_data": 15}, "model": "modelengine:bunny/bone13" },
+      { "predicate": { "custom_model_data": 16}, "model": "modelengine:bunny/bone8" },
+      { "predicate": { "custom_model_data": 17}, "model": "modelengine:bunny/arm1" },
+      { "predicate": { "custom_model_data": 18}, "model": "modelengine:bunny/bone7" },
+      { "predicate": { "custom_model_data": 19}, "model": "modelengine:bunny/arm2" },
+      { "predicate": { "custom_model_data": 20}, "model": "modelengine:bunny/bone5" },
+      { "predicate": { "custom_model_data": 21}, "model": "modelengine:bunny/bone6" },
+      { "predicate": { "custom_model_data": 22}, "model": "modelengine:bunny/bone2" },
+      { "predicate": { "custom_model_data": 23}, "model": "modelengine:bunny/bone" },
+      { "predicate": { "custom_model_data": 24}, "model": "modelengine:bunny/bone4" },
+      { "predicate": { "custom_model_data": 25}, "model": "modelengine:bunny/bone3" },
+      { "predicate": { "custom_model_data": 26}, "model": "modelengine:bunny/body" }
     ]
 }
