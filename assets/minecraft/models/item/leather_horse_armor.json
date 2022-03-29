@@ -4,13 +4,13 @@
         "layer0": "item/leather_horse_armor"
   },
     "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/hats/wizard_hat" },
-	  { "predicate": { "custom_model_data": 2}, "model": "adriftus:item/seasonal/christmas/elf_hat_tint" },
-	  { "predicate": { "custom_model_data": 3}, "model": "adriftus:item/seasonal/christmas/reindeer_horns" },
-	  { "predicate": { "custom_model_data": 4}, "model": "adriftus:item/seasonal/christmas/wrapping_paper" },
-	  { "predicate": { "custom_model_data": 5}, "model": "adriftus:item/seasonal/christmas/gift_box" },
-	  { "predicate": { "custom_model_data": 6}, "model": "adriftus:item/inventory/arrow_left" },
-	  { "predicate": { "custom_model_data": 8}, "model": "adriftus:item/inventory/arrow_right" },
+    { "predicate": { "custom_model_data": 1000000}, "model": "adriftus:item/hats/wizard_hat" },
+	  { "predicate": { "custom_model_data": 1000002}, "model": "adriftus:item/seasonal/christmas/elf_hat_tint" },
+	  { "predicate": { "custom_model_data": 1000003}, "model": "adriftus:item/seasonal/christmas/reindeer_horns" },
+	  { "predicate": { "custom_model_data": 1000004}, "model": "adriftus:item/seasonal/christmas/wrapping_paper" },
+	  { "predicate": { "custom_model_data": 1000005}, "model": "adriftus:item/seasonal/christmas/gift_box" },
+	  { "predicate": { "custom_model_data": 1000006}, "model": "adriftus:item/inventory/arrow_left" },
+	  { "predicate": { "custom_model_data": 1000008}, "model": "adriftus:item/inventory/arrow_right" },
 
 
       { "predicate": { "custom_model_data": 9}, "model": "modelengine:bunny/bone10" },
