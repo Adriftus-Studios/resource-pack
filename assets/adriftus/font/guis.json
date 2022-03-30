@@ -126,7 +126,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/function_tool_trigger-block.png",
+            "file": "adriftus:custom_gui/function_tool_trigger_block.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
