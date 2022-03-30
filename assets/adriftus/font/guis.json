@@ -132,6 +132,15 @@
             "chars": [
                 "\u6913"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/mail_run_box.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6914"
+            ]
         }
     ]
 }
