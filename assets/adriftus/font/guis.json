@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/letter_large.png",
+            "file": "adriftus:logos/icon/letter_large.png",
             "ascent": 100,
             "height": 200,
             "chars": [
@@ -135,11 +135,38 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/mail_run_box.png",
+            "file": "adriftus:custom_gui/mail_run_minigame/mail_run_box.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
                 "\u6914"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_main.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6915"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_category.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6916"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_recipe.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6917"
             ]
         }
     ]
