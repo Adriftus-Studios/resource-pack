@@ -204,6 +204,24 @@
             "chars": [
                 "\u6921"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/fishing_leaderboard.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6922"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/fishing_start_menu.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6923"
+            ]
         }
     ]
 }
