@@ -23,13 +23,9 @@
     { "predicate": { "custom_model_data": 101}, "model": "adriftus:item/misc_items/crystal_blue" },
     { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/misc_items/crystal_green" },
     { "predicate": { "custom_model_data": 103}, "model": "adriftus:item/misc_items/crystal_yellow" },
-<<<<<<< HEAD
+    { "predicate": { "custom_model_data": 104}, "model": "adriftus:item/misc_items/pylon" },
+
     { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/misc_items/blue_scroll" },
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/red_scroll" }
-=======
-    { "predicate": { "custom_model_data": 104}, "model": "adriftus:item/misc_items/pylon" },
-    
-    { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/misc_items/blue_scroll" }
->>>>>>> a01a2a668e0327581599b04ab9fc7df68846e133
   ]
 }
