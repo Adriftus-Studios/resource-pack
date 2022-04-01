@@ -168,6 +168,42 @@
             "chars": [
                 "\u6917"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/bucket_1.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6918"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/bucket_2.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6919"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/bucket_3.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6920"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/bucket_4.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6921"
+            ]
         }
     ]
 }
