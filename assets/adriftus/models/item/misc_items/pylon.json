@@ -1,0 +1,125 @@
+{
+	"credit": "Made for Adriftus",
+	"parent": "crystal",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "adriftus:item/misc_items/pylon",
+		"particle": "adriftus:item/misc_items/pylon"
+	},
+	"elements": [
+		{
+			"name": "pylon",
+			"from": [6, 11.98252, -11.04219],
+			"to": [10, 15.48252, -10.04219],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 2.23956, 7.93771]},
+			"faces": {
+				"north": {"uv": [1.625, 7, 2.125, 7.375], "texture": "#0"},
+				"east": {"uv": [1.5, 7, 1.625, 7.375], "texture": "#0"},
+				"south": {"uv": [2.25, 7, 2.75, 7.375], "texture": "#0"},
+				"west": {"uv": [2.125, 7, 2.25, 7.375], "texture": "#0"},
+				"up": {"uv": [2.125, 7, 1.625, 6.875], "texture": "#0"},
+				"down": {"uv": [2.625, 6.875, 2.125, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pylon",
+			"from": [5.75, 12.50418, -5.86896],
+			"to": [10.25, 18.50418, -4.86896],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 2.23956, 7.93771]},
+			"faces": {
+				"north": {"uv": [2.625, 6.125, 3.125, 6.875], "texture": "#0"},
+				"east": {"uv": [2.5, 6.125, 2.625, 6.875], "texture": "#0"},
+				"south": {"uv": [3.25, 6.125, 3.75, 6.875], "texture": "#0"},
+				"west": {"uv": [3.125, 6.125, 3.25, 6.875], "texture": "#0"},
+				"up": {"uv": [3.125, 6.125, 2.625, 6], "texture": "#0"},
+				"down": {"uv": [3.625, 6, 3.125, 6.125], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pylon",
+			"from": [5.5, 14.00641, -0.88989],
+			"to": [10.5, 17.00641, 0.11011],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 2.23956, 7.93771]},
+			"faces": {
+				"north": {"uv": [5.375, 6.125, 6, 6.5], "texture": "#0"},
+				"east": {"uv": [5.25, 6.125, 5.375, 6.5], "texture": "#0"},
+				"south": {"uv": [6.125, 6.125, 6.75, 6.5], "texture": "#0"},
+				"west": {"uv": [6, 6.125, 6.125, 6.5], "texture": "#0"},
+				"up": {"uv": [6, 6.125, 5.375, 6], "texture": "#0"},
+				"down": {"uv": [6.625, 6, 6, 6.125], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pylon",
+			"from": [5.75, 8.48889, 4.28505],
+			"to": [10.25, 16.48889, 5.28505],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.23956, 7.93771]},
+			"faces": {
+				"north": {"uv": [2.875, 5, 3.375, 6], "texture": "#0"},
+				"east": {"uv": [2.75, 5, 2.875, 6], "texture": "#0"},
+				"south": {"uv": [3.5, 5, 4, 6], "texture": "#0"},
+				"west": {"uv": [3.375, 5, 3.5, 6], "texture": "#0"},
+				"up": {"uv": [3.375, 5, 2.875, 4.875], "texture": "#0"},
+				"down": {"uv": [3.875, 4.875, 3.375, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pylon",
+			"from": [6, 1.25646, 0.76626],
+			"to": [10, 2.25646, 6.76626],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 2.23956, 7.93771]},
+			"faces": {
+				"north": {"uv": [0.75, 2, 1.25, 2.125], "texture": "#0"},
+				"east": {"uv": [0, 2, 0.75, 2.125], "texture": "#0"},
+				"south": {"uv": [2, 2, 2.5, 2.125], "texture": "#0"},
+				"west": {"uv": [1.25, 2, 2, 2.125], "texture": "#0"},
+				"up": {"uv": [1.25, 2, 0.75, 1.25], "texture": "#0"},
+				"down": {"uv": [1.75, 1.25, 1.25, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [7, 21, -10],
+			"translation": [0.5, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [7, 21, -10],
+			"translation": [0.5, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [15, 19, 15],
+			"translation": [0, 0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [3, -31, -13],
+			"translation": [0, -4.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, -38, 0],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"rotation": [0, 45, 0],
+			"translation": [0, -5, -7.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "pylon",
+			"origin": [8, 2.23956, 7.93771],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
