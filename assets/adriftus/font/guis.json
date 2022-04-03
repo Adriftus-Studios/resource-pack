@@ -240,6 +240,15 @@
             "chars": [
                 "\u6925"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/chat_settings.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6926"
+            ]
         }
     ]
 }
