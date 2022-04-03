@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leahter_leggings"
+        "layer0": "item/leather_leggings"
   },
     "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "modelengine:bunny/bone10" },
