@@ -222,6 +222,24 @@
             "chars": [
                 "\u6923"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/fishing_bucket_sell_overlay.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6924"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/fishing_minigame/fishing_bucket_upgrade_overlay.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6925"
+            ]
         }
     ]
 }
