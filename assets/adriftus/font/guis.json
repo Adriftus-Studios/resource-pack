@@ -117,7 +117,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/cosmetic.png",
+            "file": "adriftus:custom_gui/masks.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
