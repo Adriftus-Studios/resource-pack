@@ -1,0 +1,128 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "adriftus:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_main.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_category.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_recipe.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/recipes_recipe.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_blocks.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_brewing.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_combat.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_decorations.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_foodstuff.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_gadgets.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_miscellany.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_travel.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/recipe_book/category_tools.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0012"
+            ]
+        }
+    ]
+}
