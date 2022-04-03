@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "adriftus:item/skins/diamond_axe/nordic_diamond_axe"
+  }
+}

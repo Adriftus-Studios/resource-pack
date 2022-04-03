@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+    "overrides": [
+    { "predicate": { "custom_model_data": 1000}, "model": "adriftus:item/skins/diamond_axe/celestial_diamond_axe" },
+    { "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/skins/diamond_axe/blue_diamond_axe" },
+    { "predicate": { "custom_model_data": 1002}, "model": "adriftus:item/skins/diamond_axe/bright_diamond_axe" },
+    { "predicate": { "custom_model_data": 1003}, "model": "adriftus:item/skins/diamond_axe/nordic_diamond_axe" },
+    { "predicate": { "custom_model_data": 1004}, "model": "adriftus:item/skins/diamond_axe/viking_diamond_axe" },
+    { "predicate": { "custom_model_data": 1005}, "model": "adriftus:item/skins/diamond_axe/wizard_diamond_axe" },
+    { "predicate": { "custom_model_data": 1006}, "model": "adriftus:item/skins/diamond_axe/bloody_diamond_axe" },
+    { "predicate": { "custom_model_data": 1007}, "model": "adriftus:item/skins/diamond_axe/double_diamond_axe" },
+    { "predicate": { "custom_model_data": 1008}, "model": "adriftus:item/skins/diamond_axe/glowing_diamond_axe" },
+    { "predicate": { "custom_model_data": 1009}, "model": "adriftus:item/skins/diamond_axe/black_handle_diamond_axe" },
+    { "predicate": { "custom_model_data": 1010}, "model": "adriftus:item/skins/diamond_axe/natural_diamond_axe" },
+    { "predicate": { "custom_model_data": 1011}, "model": "adriftus:item/skins/diamond_axe/shimmering_diamond_axe" },
+    { "predicate": { "custom_model_data": 1012}, "model": "adriftus:item/skins/diamond_axe/fireman_diamond_axe" },
+    { "predicate": { "custom_model_data": 1013}, "model": "adriftus:item/skins/diamond_axe/battle_diamond_axe" },
+    { "predicate": { "custom_model_data": 1014}, "model": "adriftus:item/skins/diamond_axe/christmas_diamond_axe" }
+    ]
+}
