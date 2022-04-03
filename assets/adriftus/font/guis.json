@@ -99,33 +99,6 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/titles.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u6910"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/bowtrails.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u6911"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/masks.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u6912"
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "adriftus:custom_gui/function_tool_trigger_block.png",
             "ascent": 17.75,
             "height": 256,
@@ -140,33 +113,6 @@
             "height": 256,
             "chars": [
                 "\u6914"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/recipe_book/recipes_main.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u6915"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/recipe_book/recipes_category.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u6916"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/recipe_book/recipes_recipe.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u6917"
             ]
         },
         {
