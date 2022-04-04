@@ -195,6 +195,15 @@
             "chars": [
                 "\u6926"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/main_menu.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6927"
+            ]
         }
     ]
 }
