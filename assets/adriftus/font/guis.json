@@ -72,7 +72,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/class_selector.png",
+            "file": "adriftus:custom_gui/herocraft/class_selector.png",
             "ascent": 13.75,
             "height": 256,
             "chars": [
@@ -81,7 +81,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/hot_key_bind.png",
+            "file": "adriftus:custom_gui/herocraft/hot_key_bind.png",
             "ascent": 13.75,
             "height": 256,
             "chars": [
@@ -90,7 +90,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/hub_warp_gui.png",
+            "file": "adriftus:custom_gui/network/hub_warp_gui.png",
             "ascent": 13.75,
             "height": 256,
             "chars": [
@@ -99,7 +99,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/function_tool_trigger_block.png",
+            "file": "adriftus:custom_gui/function_tool/function_tool_trigger_block.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
@@ -189,7 +189,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/chat_settings.png",
+            "file": "adriftus:custom_gui/network/chat_settings.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
