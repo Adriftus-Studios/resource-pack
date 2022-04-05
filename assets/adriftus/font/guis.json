@@ -117,6 +117,15 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:custom_gui/mail_run_minigame/mail_run_start.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6915"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_gui/fishing_minigame/bucket_1.png",
             "ascent": 17.75,
             "height": 256,
