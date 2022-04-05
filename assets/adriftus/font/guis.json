@@ -231,6 +231,15 @@
             "chars": [
                 "\u6929"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/adriftus_chest.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u6930"
+            ]
         }
     ]
 }
