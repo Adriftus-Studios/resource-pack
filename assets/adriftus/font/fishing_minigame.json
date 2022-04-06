@@ -1,0 +1,92 @@
+{
+  "providers": [
+      {
+          "type": "ttf",
+          "file": "adriftus:negative_spaces.ttf",
+          "shift": [0.0, 0.0],
+          "size": 10.0,
+          "oversample": 1.0
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/fishing_start_menu.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0001"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/fishing_stop_overlay.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0002"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/fishing_leaderboard.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0003"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/bucket_1.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0021"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/bucket_2.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0022"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/bucket_3.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0023"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/bucket_4.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0024"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/fishing_bucket_sell_overlay.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0031"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/fishing_bucket_upgrade_overlay.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0032"
+          ]
+      }
+  ]
+}
