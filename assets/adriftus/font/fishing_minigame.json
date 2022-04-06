@@ -9,7 +9,7 @@
       },
       {
           "type": "bitmap",
-          "file": "adriftus:custom_gui/fishing_minigame/fishing_start_menu.png",
+          "file": "adriftus:custom_gui/fishing_minigame/fishing_start.png",
           "ascent": 17.75,
           "height": 256,
           "chars": [
