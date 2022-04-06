@@ -42,6 +42,15 @@
             "chars": [
                 "\u0004"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/cosmetics/cosmetics_menu.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0005"
+            ]
         }
     ]
 }
