@@ -2,8 +2,8 @@
 	"credit": "Made by Aedia for Adriftus <3",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "adriftus:textures/item/mail_run/mailbox_default",
-		"particle": "adriftus:textures/item/mail_run/mailbox_default"
+		"0": "adriftus:item/mail_run/mailbox_default",
+		"particle": "adriftus:item/mail_run/mailbox_default"
 	},
 	"elements": [
 		{
