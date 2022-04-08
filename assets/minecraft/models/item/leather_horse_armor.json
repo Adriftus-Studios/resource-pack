@@ -11,13 +11,13 @@
     { "predicate": { "custom_model_data": 5}, "model": "adriftus:item/seasonal/christmas/gift_box" },
     { "predicate": { "custom_model_data": 6}, "model": "adriftus:item/inventory/arrow_left" },
     { "predicate": { "custom_model_data": 7}, "model": "adriftus:item/inventory/arrow_right" },
-	{ "predicate": { "custom_model_data": 11}, "model": "adriftus:item/inventory/crayons/crayon_1" },
-	{ "predicate": { "custom_model_data": 12}, "model": "adriftus:item/inventory/crayons/crayon_2" },
-	{ "predicate": { "custom_model_data": 13}, "model": "adriftus:item/inventory/crayons/crayon_3" },
-	{ "predicate": { "custom_model_data": 14}, "model": "adriftus:item/inventory/crayons/crayon_4" },
-	{ "predicate": { "custom_model_data": 15}, "model": "adriftus:item/inventory/crayons/crayon_5" },
-	{ "predicate": { "custom_model_data": 16}, "model": "adriftus:item/inventory/crayons/crayon_6" },
-	{ "predicate": { "custom_model_data": 17}, "model": "adriftus:item/inventory/crayons/crayon_7" },
-	{ "predicate": { "custom_model_data": 18}, "model": "adriftus:item/inventory/crayons/crayon_8" }
+	{ "predicate": { "custom_model_data": 11}, "model": "adriftus:item/misc_items/crayons/crayon_1" },
+	{ "predicate": { "custom_model_data": 12}, "model": "adriftus:item/misc_items/crayons/crayon_2" },
+	{ "predicate": { "custom_model_data": 13}, "model": "adriftus:item/misc_items/crayons/crayon_3" },
+	{ "predicate": { "custom_model_data": 14}, "model": "adriftus:item/misc_items/crayons/crayon_4" },
+	{ "predicate": { "custom_model_data": 15}, "model": "adriftus:item/misc_items/crayons/crayon_5" },
+	{ "predicate": { "custom_model_data": 16}, "model": "adriftus:item/misc_items/crayons/crayon_6" },
+	{ "predicate": { "custom_model_data": 17}, "model": "adriftus:item/misc_items/crayons/crayon_7" },
+	{ "predicate": { "custom_model_data": 18}, "model": "adriftus:item/misc_items/crayons/crayon_8" }
     ]
 }
