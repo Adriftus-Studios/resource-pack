@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adriftus:custom_gui/mail_run_minigame/mailbox_medallion_1"
+  }
+}

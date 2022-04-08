@@ -40,11 +40,11 @@
 	{ "predicate": { "custom_model_data": 38 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
 	{ "predicate": { "custom_model_data": 39 }, "model": "adriftus:item/banner_designer/banner_token_nation"},
 	{ "predicate": { "custom_model_data": 40 }, "model": "adriftus:item/hub_fishing/fish_token"},
-	{ "predicate": { "custom_model_data": 41 }, "model": "adriftus:textures/custom_gui/mail_run_minigame/mailbox_medallion_1"},
-	{ "predicate": { "custom_model_data": 42 }, "model": "adriftus:textures/custom_gui/mail_run_minigame/mailbox_medallion_2"},
-	{ "predicate": { "custom_model_data": 43 }, "model": "adriftus:textures/custom_gui/mail_run_minigame/mailbox_medallion_3"},
-	{ "predicate": { "custom_model_data": 44 }, "model": "adriftus:textures/custom_gui/mail_run_minigame/mailbox_medallion_4"},
-	{ "predicate": { "custom_model_data": 45 }, "model": "adriftus:textures/custom_gui/mail_run_minigame/mailbox_medallion_5"},
-	{ "predicate": { "custom_model_data": 46 }, "model": "adriftus:textures/custom_gui/mail_run_minigame/mailbox_medallion_6"}
+	{ "predicate": { "custom_model_data": 41 }, "model": "adriftus:item/mail_run/mailbox_medallion_1"},
+	{ "predicate": { "custom_model_data": 42 }, "model": "adriftus:item/mail_run/mailbox_medallion_2"},
+	{ "predicate": { "custom_model_data": 43 }, "model": "adriftus:item/mail_run/mailbox_medallion_3"},
+	{ "predicate": { "custom_model_data": 44 }, "model": "adriftus:item/mail_run/mailbox_medallion_4"},
+	{ "predicate": { "custom_model_data": 45 }, "model": "adriftus:item/mail_run/mailbox_medallion_5"},
+	{ "predicate": { "custom_model_data": 46 }, "model": "adriftus:item/mail_run/mailbox_medallion_6"}
   ]
 }
