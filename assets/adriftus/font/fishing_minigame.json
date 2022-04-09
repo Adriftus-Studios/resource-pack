@@ -96,6 +96,15 @@
           "chars": [
               "\u0040"
           ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/music_shop.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0050"
+          ]
       }
   ]
 }
