@@ -87,6 +87,15 @@
           "chars": [
               "\u0032"
           ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/pro_shop.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0040"
+          ]
       }
   ]
 }
