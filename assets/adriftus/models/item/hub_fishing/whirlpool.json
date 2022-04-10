@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:custom/fishing/whirlpool"
+    "layer0": "adriftus:custom/fishing/whirlpool_2"
   },
   "display": {
 	"thirdperson_righthand": {
