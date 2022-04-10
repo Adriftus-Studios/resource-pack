@@ -4,6 +4,6 @@
         "layer0": "minecraft:block/cyan_stained_glass"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "adriftus:item/hub_fishing/whirlpool_2"}
+        {"predicate": {"custom_model_data":1}, "model": "adriftus:item/hub_fishing/whirlpool"}
     ]
 }
