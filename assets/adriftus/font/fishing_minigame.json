@@ -105,6 +105,15 @@
           "chars": [
               "\u0050"
           ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/fishing_minigame/mp3_player.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0060"
+          ]
       }
   ]
 }

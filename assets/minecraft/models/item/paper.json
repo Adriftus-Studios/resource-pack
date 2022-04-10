@@ -10,6 +10,8 @@
     { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/misc_items/letter_sealed" },
     { "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/misc_items/cross" },
     { "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/misc_items/arrow_green" },
-    { "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/misc_items/arrow_blue" }
+    { "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/misc_items/arrow_blue" },
+    { "predicate": { "custom_model_data": 50}, "model": "adriftus:item/hub_fishing/play_button" },
+    { "predicate": { "custom_model_data": 51}, "model": "adriftus:item/hub_fishing/stop_button" }
   ]
 }
