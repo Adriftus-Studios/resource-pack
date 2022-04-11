@@ -1,6 +1,12 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "adriftus:item/seasonal/easter/dyed_egg"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0]
+		}
 	}
 }
