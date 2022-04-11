@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/prismarine_shard"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/seasonal/christmas/christmas_ice_shard" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/seasonal/christmas/christmas_ice_shard" },
+    { "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/seasonal/easter/dyed_egg" }
   ]
 }

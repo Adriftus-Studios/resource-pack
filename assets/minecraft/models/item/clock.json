@@ -10,6 +10,8 @@
 	{ "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/seasonal/christmas/elf_hat_green" },
 	{ "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/seasonal/christmas/elf_hat_purple" },
 	{ "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/seasonal/christmas/elf_hat_blue" },
-	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/seasonal/halloween/franks_bolts" }
+	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/seasonal/halloween/franks_bolts" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "adriftus:item/seasonal/easter/creme_egg" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/seasonal/easter/chocolate_bunny" }
   ]
 }
