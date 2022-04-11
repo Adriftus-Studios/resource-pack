@@ -1,6 +1,12 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "adriftus:item/seasonal/easter/chocolate_bunny"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0]
+		}
 	}
 }
