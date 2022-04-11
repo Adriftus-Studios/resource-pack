@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/seasonal/easter/dyed_egg"
+		"layer0": "adriftus:item/seasonal/easter/dyed_egg"
 	}
 }
