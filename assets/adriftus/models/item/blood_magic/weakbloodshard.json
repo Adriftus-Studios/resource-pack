@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"1": "adriftus:item/blood_magic/vengefulcrystal",
+		"layer1": "adriftus:item/blood_magic/vengefulcrystal",
 		"particle": "adriftus:item/blood_magic/vengefulcrystal"
 	}
 }
