@@ -27,12 +27,6 @@
     { "predicate": { "custom_model_data": 104}, "model": "adriftus:item/misc_items/pylon" },
 
     { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/misc_items/blue_scroll" },
-    { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/red_scroll" },
-
-    { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/blood_magic/array" },
-    { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/blood_magic/array2" },
-    { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/blood_magic/array3" },
-    { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/blood_magic/array4" },
-    { "predicate": { "custom_model_data": 304}, "model": "adriftus:item/blood_magic/array5" }
+    { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/red_scroll" }
   ]
 }
