@@ -5,6 +5,6 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/food/rice_seeds" },
-    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/misc/grass_seeds" }
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/misc_items/grass_seed" }
   ]
 }
