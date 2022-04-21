@@ -24,6 +24,15 @@
           "chars": [
               "\u0002"
           ]
+      },
+      {
+          "type": "bitmap",
+          "file": "adriftus:custom_gui/mail_run_minigame/mail_run_stop_overlay.png",
+          "ascent": 17.75,
+          "height": 256,
+          "chars": [
+              "\u0003"
+          ]
       }
   ]
 }
