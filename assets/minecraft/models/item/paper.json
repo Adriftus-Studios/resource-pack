@@ -15,6 +15,9 @@
     { "predicate": { "custom_model_data": 51}, "model": "adriftus:item/hub_fishing/stop_button" },
     { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/main_menu/new_mail_item" },
     { "predicate": { "custom_model_data": 101}, "model": "adriftus:item/main_menu/settings_gear" },
-    { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/main_menu/cosmetics_icon" }
+    { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/main_menu/cosmetics_icon" },
+    { "predicate": { "custom_model_data": 103}, "model": "adriftus:item/main_menu/recipes_icon" },
+    { "predicate": { "custom_model_data": 104}, "model": "adriftus:item/main_menu/controls_icon" },
+    { "predicate": { "custom_model_data": 105}, "model": "adriftus:item/main_menu/help_icon" }
   ]
 }
