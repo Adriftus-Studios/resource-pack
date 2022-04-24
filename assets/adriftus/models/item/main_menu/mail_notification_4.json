@@ -2,6 +2,6 @@
   "gui_light": "front",
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:custom_gui/network/new_mail_item"
+    "layer0": "adriftus:custom_gui/network/mail/mail_notification_4"
   }
 }

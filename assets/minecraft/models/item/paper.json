@@ -13,11 +13,20 @@
     { "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/misc_items/arrow_blue" },
     { "predicate": { "custom_model_data": 50}, "model": "adriftus:item/hub_fishing/play_button" },
     { "predicate": { "custom_model_data": 51}, "model": "adriftus:item/hub_fishing/stop_button" },
-    { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/main_menu/new_mail_item" },
+    { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/main_menu/new_item" },
     { "predicate": { "custom_model_data": 101}, "model": "adriftus:item/main_menu/settings_gear" },
     { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/main_menu/cosmetics_icon" },
     { "predicate": { "custom_model_data": 103}, "model": "adriftus:item/main_menu/recipes_icon" },
     { "predicate": { "custom_model_data": 104}, "model": "adriftus:item/main_menu/controls_icon" },
-    { "predicate": { "custom_model_data": 105}, "model": "adriftus:item/main_menu/help_icon" }
+    { "predicate": { "custom_model_data": 105}, "model": "adriftus:item/main_menu/help_icon" },
+    { "predicate": { "custom_model_data": 111}, "model": "adriftus:item/main_menu/mail_notification_1" },
+    { "predicate": { "custom_model_data": 112}, "model": "adriftus:item/main_menu/mail_notification_2" },
+    { "predicate": { "custom_model_data": 113}, "model": "adriftus:item/main_menu/mail_notification_3" },
+    { "predicate": { "custom_model_data": 114}, "model": "adriftus:item/main_menu/mail_notification_4" },
+    { "predicate": { "custom_model_data": 115}, "model": "adriftus:item/main_menu/mail_notification_5" },
+    { "predicate": { "custom_model_data": 116}, "model": "adriftus:item/main_menu/mail_notification_6" },
+    { "predicate": { "custom_model_data": 117}, "model": "adriftus:item/main_menu/mail_notification_7" },
+    { "predicate": { "custom_model_data": 118}, "model": "adriftus:item/main_menu/mail_notification_8" },
+    { "predicate": { "custom_model_data": 119}, "model": "adriftus:item/main_menu/mail_notification_9" }
   ]
 }
