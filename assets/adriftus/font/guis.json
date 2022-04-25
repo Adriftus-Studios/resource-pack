@@ -91,7 +91,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/hub_warp_gui.png",
-            "ascent": 13.75,
+            "ascent": 17.75,
             "height": 256,
             "chars": [
                 "\u6909"
