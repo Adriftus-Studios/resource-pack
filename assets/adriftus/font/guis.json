@@ -145,7 +145,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/adriftus_chest.png",
-            "ascent": 17.75,
+            "ascent": 25.75,
             "height": 256,
             "chars": [
                 "\u6930"
