@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/snowball"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/misc_items/confetti_ball" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/misc_items/confetti_ball"},
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/blood_magic/vengefulcrystal"},
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/blood_magic/weakbloodshard"}
   ]
 }

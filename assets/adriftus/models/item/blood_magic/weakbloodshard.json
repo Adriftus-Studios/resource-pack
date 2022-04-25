@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"particle": "adriftus:item/blood_magic/weakbloodshard",
+		"layer0": "adriftus:item/blood_magic/weakbloodshard"
+	}
+}
