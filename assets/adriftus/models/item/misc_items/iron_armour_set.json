@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "adriftus:item/misc_items/iron_armour_set",
-		"particle": "adriftus:item/misc_items/iron_armour_set"
+		"particle": "adriftus:item/misc_items/iron_armour_set",
+		"layer0": "adriftus:item/misc_items/iron_armour_set"
 	},
 	"display": {
 		"thirdperson_righthand": {
