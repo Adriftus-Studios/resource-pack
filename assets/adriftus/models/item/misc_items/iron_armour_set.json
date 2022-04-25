@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"0": "adriftus:item/misc_items/iron_armour_set",
+		"particle": "adriftus:item/misc_items/iron_armour_set"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
