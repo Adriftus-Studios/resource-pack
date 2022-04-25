@@ -5,7 +5,8 @@
     },
 	"gui_light": "front",
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "adriftus:item/weapons/legendary_item_bee_stinger"}
+        {"predicate": {"custom_model_data":1}, "model": "adriftus:item/weapons/legendary_item_bee_stinger"},
+        {"predicate": {"custom_model_data":2}, "model": "adriftus:item/weapons/red_stinger"}
 
     ]
 }

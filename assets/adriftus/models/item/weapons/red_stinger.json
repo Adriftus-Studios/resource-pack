@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "adriftus:item/weapons/red_stinger"
+  },
+  "display": {
+	"thirdperson_righthand": {
+		"rotation": [0, 90, 45],
+		"translation": [0, 8, 3],
+		"scale": [1.1, 1.1, 1.1]
+	},
+	"thirdperson_lefthand": {
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [1.1, 1.1, 1.1]
+	},
+	"firstperson_righthand": {
+		"rotation": [0, 90, 45],
+		"translation": [0, 0, 0],
+		"scale": [1.1, 1.1, 1.1]
+	},
+	"firstperson_lefthand": {
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [1.1, 1.1, 1.1]
+	},
+	"ground": {
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [1.1, 1.1, 1.1]
+	},
+	"gui": {
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [1, 1, 1]
+	},
+	"head": {
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [3, 3, 3]
+	},
+	"fixed": {
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0],
+		"scale": [2, 2, 2]
+        }
+  }
+}
