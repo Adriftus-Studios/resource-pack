@@ -1,0 +1,38 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "adriftus:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_main.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_hub_overlay.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u0003"
+            ]
+        }
+    ]
+}
