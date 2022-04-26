@@ -10,7 +10,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/travel_menu_main.png",
-            "ascent": 17.75,
+            "ascent": 36.75,
             "height": 256,
             "chars": [
                 "\u0001"
@@ -19,7 +19,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/travel_menu_hub_overlay.png",
-            "ascent": 17.75,
+            "ascent": 36.75,
             "height": 256,
             "chars": [
                 "\u0002"
@@ -28,7 +28,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay.png",
-            "ascent": 17.75,
+            "ascent": 36.75,
             "height": 256,
             "chars": [
                 "\u0003"
