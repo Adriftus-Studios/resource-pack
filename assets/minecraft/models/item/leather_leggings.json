@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leather_leggings"
+        "layer0": "item/leather_leggings",
         "layer1": "item/leather_leggings_overlay"
   },
     "overrides": [
@@ -24,6 +24,6 @@
     { "predicate": { "custom_model_data": 17}, "model": "modelengine:bunny/bone3" },
     { "predicate": { "custom_model_data": 18}, "model": "modelengine:bunny/head" },
     { "predicate": { "custom_model_data": 19}, "model": "modelengine:bunny/body" },
-	{ "predicate": { "custom_model_data": 50}, "model": "adriftus:item/hub_fishing/eighth_note" }
+    { "predicate": { "custom_model_data": 50}, "model": "adriftus:item/hub_fishing/eighth_note" }
     ]
 }
