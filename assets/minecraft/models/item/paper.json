@@ -29,6 +29,7 @@
     { "predicate": { "custom_model_data": 116}, "model": "adriftus:item/main_menu/mail_notification_6" },
     { "predicate": { "custom_model_data": 117}, "model": "adriftus:item/main_menu/mail_notification_7" },
     { "predicate": { "custom_model_data": 118}, "model": "adriftus:item/main_menu/mail_notification_8" },
-    { "predicate": { "custom_model_data": 119}, "model": "adriftus:item/main_menu/mail_notification_9" }
+    { "predicate": { "custom_model_data": 119}, "model": "adriftus:item/main_menu/mail_notification_9" },
+    { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/travel_menu/hub_icon" }
   ]
 }
