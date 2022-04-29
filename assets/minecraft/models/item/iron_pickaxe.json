@@ -5,6 +5,7 @@
   },
     "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/tools/iron_hammer" },
-    { "predicate": { "custom_model_data": 2}, "model": "adriftus:item/copper/copper_pickaxe" }
+    { "predicate": { "custom_model_data": 2}, "model": "adriftus:item/copper/copper_pickaxe" },
+	{ "predicate": { "custom_model_data": 3}, "model": "adriftus:item/steel/steel_pickaxe" }
     ]
 }

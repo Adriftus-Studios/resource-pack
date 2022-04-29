@@ -4,6 +4,7 @@
         "layer0": "item/iron_sword"
   },
     "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/copper/copper_sword" }
+    { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/copper/copper_sword" },
+	{ "predicate": { "custom_model_data": 2}, "model": "adriftus:item/steel/steel_sword" }
     ]
 }
