@@ -18,5 +18,10 @@
 				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, -35, 0]
+		}
+	}
 }
