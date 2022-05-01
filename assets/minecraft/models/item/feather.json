@@ -22,6 +22,8 @@
 
     { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/waystones/waystone"},
 
+    { "predicate": { "custom_model_data": 21 }, "model": "adriftus:item/waystones/waystone"},
+
     { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/misc_items/crystal_red" },
     { "predicate": { "custom_model_data": 101}, "model": "adriftus:item/misc_items/crystal_blue" },
     { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/misc_items/crystal_green" },
