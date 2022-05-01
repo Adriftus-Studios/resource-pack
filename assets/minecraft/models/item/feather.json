@@ -29,9 +29,9 @@
     { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/misc_items/crystal_green" },
     { "predicate": { "custom_model_data": 103}, "model": "adriftus:item/misc_items/crystal_yellow" },
     { "predicate": { "custom_model_data": 104}, "model": "adriftus:item/misc_items/pylon" },
-    { "predicate": { "custom_model_data": 105 }, "model": "adriftus:item/blood_magic/arcaneashes"},
-    { "predicate": { "custom_model_data": 106 }, "model": "adriftus:item/blood_magic/raegentbinding"},
-    { "predicate": { "custom_model_data": 107 }, "model": "adriftus:item/blood_magic/weakbloodshard"},
+    { "predicate": { "custom_model_data": 105}, "model": "adriftus:item/blood_magic/arcaneashes" },
+    { "predicate": { "custom_model_data": 106}, "model": "adriftus:item/blood_magic/raegentbinding" },
+    { "predicate": { "custom_model_data": 107}, "model": "adriftus:item/blood_magic/weakbloodshard" },
 
     { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/misc_items/blue_scroll" },
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/red_scroll" }
