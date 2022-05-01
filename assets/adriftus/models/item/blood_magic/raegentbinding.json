@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"particle": "adriftus:item/blood_magic/raegentbinding",
-		"layer0": "adriftus:item/blood_magic/raegentbinding"
+		"particle": "adriftus:item/blood_magic/reagentbinding",
+		"layer0": "adriftus:item/blood_magic/reagentbinding"
 	}
 }
