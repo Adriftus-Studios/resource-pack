@@ -2,5 +2,8 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "minecraft:item/diamond_hoe"
-  }
+  },
+    "overrides": [
+    { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/amethyst/amethyst_hoe" },
+    ]
 }

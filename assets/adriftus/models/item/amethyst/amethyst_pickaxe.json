@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "adriftus:item/amethyst/amethyst_pickaxe"
+	}
+}

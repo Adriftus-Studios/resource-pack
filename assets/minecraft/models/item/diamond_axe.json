@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/diamond_axe"
   },
     "overrides": [
+    { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/amethyst/amethyst_axe" },
     { "predicate": { "custom_model_data": 1000}, "model": "adriftus:item/skins/diamond_axe/celestial_diamond_axe" },
     { "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/skins/diamond_axe/blue_diamond_axe" },
     { "predicate": { "custom_model_data": 1002}, "model": "adriftus:item/skins/diamond_axe/bright_diamond_axe" },

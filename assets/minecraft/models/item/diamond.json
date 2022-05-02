@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/diamond"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/mail_run/mailbox_default" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/mail_run/mailbox_default" },
+    { "predicate": { "custom_model_data": 2}, "model": "adriftus:item/amethyst/amethyst_gem" },
+	{ "predicate": { "custom_model_data": 3}, "model": "adriftus:item/amethyst/amethyst_ingot" }
   ]
 }

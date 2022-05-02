@@ -4,6 +4,7 @@
         "layer0": "item/diamond_pickaxe"
   },
     "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/tools/diamond_hammer" }
+    { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/tools/diamond_hammer" },
+	{ "predicate": { "custom_model_data": 100}, "model": "adriftus:item/amethyst/amethyst_pickaxe" }
     ]
 }
