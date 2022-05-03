@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"0": "adriftus:item/dwarven/rock_spore",
-		"particle": "adriftus:item/dwarven/rock_spore"
+		"particle": "adriftus:item/dwarven/rock_spore",
+		"0": "adriftus:item/dwarven/rock_spore"
 	}
 }
