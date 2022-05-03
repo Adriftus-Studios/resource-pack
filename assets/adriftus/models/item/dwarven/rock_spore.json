@@ -3,6 +3,6 @@
 	"parent": "minecraft:item/generated",
 	"textures": {
 		"particle": "adriftus:item/dwarven/rock_spore",
-		"0": "adriftus:item/dwarven/rock_spore"
+		"layer0": "adriftus:item/dwarven/rock_spore"
 	}
 }
