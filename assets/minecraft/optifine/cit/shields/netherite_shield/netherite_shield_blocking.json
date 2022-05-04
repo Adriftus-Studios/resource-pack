@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/light_gray_concrete",
-		"2": "block/diamond_block",
+		"2": "block/netherite_block",
 		"particle": "block/light_gray_concrete",
 		"2_base": "block/dark_oak_planks"
 	},
