@@ -9,8 +9,8 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"head": {
-			"translation": [0, -30, 0],
-			"scale": [5, 5, 1]
+			"translation": [0, -10, 0],
+			"scale": [5, 5, 0.5]
 		},
 		"fixed": {
 			"rotation": [0, 90, 0],
