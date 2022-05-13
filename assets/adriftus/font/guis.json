@@ -126,7 +126,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/bookshelf.png",
+            "file": "adriftus:custom_gui/bookshelves/bookshelf.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
@@ -135,7 +135,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/lectern.png",
+            "file": "adriftus:custom_gui/bookshelves/lectern.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
