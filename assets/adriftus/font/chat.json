@@ -9,6 +9,24 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:custom_chat/chat_icon_staff.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/chat_icon_discord.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_chat/discord.png",
             "ascent": 8,
             "height": 10,
