@@ -33,6 +33,15 @@
             "chars": [
                 "\u0003"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay_inactive.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u0004"
+            ]
         }
     ]
 }
