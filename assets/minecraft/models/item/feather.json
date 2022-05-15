@@ -35,6 +35,10 @@
     { "predicate": { "custom_model_data": 105}, "model": "adriftus:item/blood_magic/arcaneashes" },
     { "predicate": { "custom_model_data": 106}, "model": "adriftus:item/blood_magic/raegentbinding" },
     { "predicate": { "custom_model_data": 107}, "model": "adriftus:item/blood_magic/weakbloodshard" },
+    { "predicate": { "custom_model_data": 108}, "model": "adriftus:item/blood_magic/blood_altar" },
+    { "predicate": { "custom_model_data": 109}, "model": "adriftus:item/blood_magic/blood_altar_filled" },
+    { "predicate": { "custom_model_data": 110}, "model": "adriftus:item/blood_magic/blood_altar_empty_t2" },
+    { "predicate": { "custom_model_data": 111}, "model": "adriftus:item/blood_magic/blood_altar_filled_t2" },
 
     { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/misc_items/blue_scroll" },
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/red_scroll" },
