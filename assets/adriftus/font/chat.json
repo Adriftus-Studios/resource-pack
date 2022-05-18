@@ -13,7 +13,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1001"
+                "\u0001"
             ]
         },
         {
@@ -22,7 +22,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1002"
+                "\u0002"
             ]
         },
         {
@@ -31,7 +31,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1003"
+                "\u0003"
             ]
         },
         {
@@ -40,7 +40,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1004"
+                "\u0004"
             ]
         },
         {
@@ -49,7 +49,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1005"
+                "\u0005"
             ]
         },
         {
@@ -58,7 +58,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1006"
+                "\u0006"
             ]
         },
         {
@@ -67,7 +67,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1007"
+                "\u0007"
             ]
         },
         {
@@ -76,7 +76,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1008"
+                "\u0008"
             ]
         },
         {
@@ -85,7 +85,16 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\u1009"
+                "\u0009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/chat_icon_discord.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u0003"
             ]
         },
         {
