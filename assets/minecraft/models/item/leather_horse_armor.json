@@ -10,7 +10,7 @@
     { "predicate": { "custom_model_data": 4}, "model": "adriftus:item/seasonal/christmas/wrapping_paper" },
     { "predicate": { "custom_model_data": 5}, "model": "adriftus:item/seasonal/christmas/gift_box" },
     { "predicate": { "custom_model_data": 6}, "model": "adriftus:item/inventory/arrow_left" },
-    { "predicate": { "custom_model_data": 7}, "model": "adriftus:item/inventory/arrow_right" },,
+    { "predicate": { "custom_model_data": 7}, "model": "adriftus:item/inventory/arrow_right" },
     { "predicate": { "custom_model_data": 10}, "model": "adriftus:item/misc_items/bookshelf_book" },
     { "predicate": { "custom_model_data": 11}, "model": "adriftus:item/misc_items/crayons/crayon_1" },
     { "predicate": { "custom_model_data": 12}, "model": "adriftus:item/misc_items/crayons/crayon_2" },
