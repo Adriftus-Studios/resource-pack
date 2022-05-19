@@ -30,6 +30,10 @@
     { "predicate": { "custom_model_data": 117}, "model": "adriftus:item/main_menu/mail_notification_7" },
     { "predicate": { "custom_model_data": 118}, "model": "adriftus:item/main_menu/mail_notification_8" },
     { "predicate": { "custom_model_data": 119}, "model": "adriftus:item/main_menu/mail_notification_9" },
-    { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/travel_menu/hub_icon" }
+    { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/travel_menu/hub_icon" },
+    { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/main_menu/playermenu_achest" },
+    { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/main_menu/playermenu_amenu" },
+    { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/main_menu/playermenu_crafting" },
+    { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/main_menu/playermenu_travel" }
   ]
 }
