@@ -1,6 +1,6 @@
 {
   "gui_light": "front",
-  "parent": "minecraft:item/generated",
+  "parent": "adriftus:item/main_menu/playermenu_base",
   "textures": {
     "layer0": "adriftus:custom_gui/buttons/playermenu_achest.png"
   }
