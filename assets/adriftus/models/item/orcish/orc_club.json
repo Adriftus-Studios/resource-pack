@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "adriftus:item/orcish/orc_weapon_tenderizer"
+	}
+}
