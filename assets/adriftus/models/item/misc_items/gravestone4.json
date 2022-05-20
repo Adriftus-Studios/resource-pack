@@ -1,0 +1,187 @@
+{
+	"__comment": "Designed by Mutim_Endymion for TreasureIsland",
+	"parent": "adriftus:item/misc_items/gravestone_parent",
+	"textures": {
+		"particle": "block/polished_diorite",
+		"texture": "block/dirt",
+		"cross": "block/polished_diorite"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0.5, 0, 1.5 ],
+			"to": [ 15.5, 1, 14.5 ],
+			"faces": {
+				"up": { "uv": [ 0.5, 0.5, 15.5, 15.5 ], "texture": "#cross", "rotation": 180 },
+				"north": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" },
+				"west": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 1, 1, 2 ],
+			"to": [ 15, 2, 14 ],
+			"faces": {
+				"up": { "uv": [ 0.5, 0.5, 15.5, 15.5 ], "texture": "#cross", "rotation": 180 },
+				"north": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" },
+				"west": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 0.5, 15, 15.5, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "PlaneY10",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 0.001, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "down", "rotation": 180 },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "Box9",
+			"from": [ 5.5, 2, 5.5 ],
+			"to": [ 10.5, 3.5, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#cross" },
+				"up": { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#cross" },
+				"north": { "uv": [ 5.5, 12.5, 10.5, 14 ], "texture": "#cross" },
+				"south": { "uv": [ 5.5, 12.5, 10.5, 14 ], "texture": "#cross" },
+				"west": { "uv": [ 5.5, 12.5, 10.5, 14 ], "texture": "#cross" },
+				"east": { "uv": [ 3, 8.5, 8, 10 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 6.5, 3.5, 6.5 ],
+			"to": [ 9.5, 13.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 4.5, 6, 7.5, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 5.5, 6, 8.5, 16 ], "texture": "#cross" },
+				"west": { "uv": [ 5.5, 6, 8.5, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 10, 6, 13, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 6.5, 19.5, 6.5 ],
+			"to": [ 9.5, 25.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 6, 1.5, 9, 6.5 ], "texture": "#cross" },
+				"south": { "uv": [ 6.5, 1, 9.5, 7 ], "texture": "#cross" },
+				"west": { "uv": [ 6.5, 3.5, 9.5, 8.5 ], "texture": "#cross" },
+				"east": { "uv": [ 6.5, 4, 9.5, 11 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 2, 13.5, 6.5 ],
+			"to": [ 5, 19.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 7.5, 2.5, 10.5, 8.5 ], "texture": "#cross" },
+				"south": { "uv": [ 5, 2.5, 8, 8.5 ], "texture": "#cross" },
+				"west": { "uv": [ 6, 3, 9, 9 ], "texture": "#cross" },
+				"east": { "uv": [ 6, 3, 9, 9 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 11, 13.5, 6.5 ],
+			"to": [ 14, 19.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 7, 5.5, 7 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 7, 6.5 ], "texture": "#cross" },
+				"north": { "uv": [ 3.5, 8, 6.5, 14 ], "texture": "#cross" },
+				"south": { "uv": [ 7.5, 4, 10.5, 11.5 ], "texture": "#cross" },
+				"west": { "uv": [ 6.5, 2.5, 9.5, 10 ], "texture": "#cross" },
+				"east": { "uv": [ 8.5, 6, 11.5, 13.5 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 9.5, 10.5, 6.5 ],
+			"to": [ 14, 13.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 1, 12, 4, 15 ], "texture": "#cross" },
+				"up": { "uv": [ 1, 12, 4, 15 ], "texture": "#cross" },
+				"north": { "uv": [ 10, 12, 14.5, 15 ], "texture": "#cross" },
+				"south": { "uv": [ 10, 12, 14.5, 15 ], "texture": "#cross" },
+				"west": { "uv": [ 0, 15.5, 0.5, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 1, 12, 4, 15 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 2, 10.5, 6.5 ],
+			"to": [ 6.5, 13.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 6, 5, 10.5, 8 ], "texture": "#cross" },
+				"south": { "uv": [ 7, 6, 11.5, 9 ], "texture": "#cross" },
+				"west": { "uv": [ 6.5, 4, 9.5, 7 ], "texture": "#cross" },
+				"east": { "uv": [ 8, 5.5, 11, 8.5 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 2, 19.5, 6.5 ],
+			"to": [ 6.5, 22.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 6, 5, 10.5, 8 ], "texture": "#cross" },
+				"south": { "uv": [ 7, 6, 11.5, 9 ], "texture": "#cross" },
+				"west": { "uv": [ 6.5, 4, 9.5, 7 ], "texture": "#cross" },
+				"east": { "uv": [ 8, 5.5, 11, 8.5 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 9.5, 19.5, 6.5 ],
+			"to": [ 14, 22.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 6, 5, 10.5, 8 ], "texture": "#cross" },
+				"south": { "uv": [ 7, 6, 11.5, 9 ], "texture": "#cross" },
+				"west": { "uv": [ 6.5, 4, 9.5, 7 ], "texture": "#cross" },
+				"east": { "uv": [ 8, 5.5, 11, 8.5 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 14, 15.5, 6.5 ],
+			"to": [ 17, 18.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 6, 5, 10.5, 8 ], "texture": "#cross" },
+				"south": { "uv": [ 7, 6, 11.5, 9 ], "texture": "#cross" },
+				"west": { "uv": [ 6.5, 4, 9.5, 7 ], "texture": "#cross" },
+				"east": { "uv": [ 8, 5.5, 11, 8.5 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ -1, 15.5, 6.5 ],
+			"to": [ 2, 18.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"up": { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#cross" },
+				"north": { "uv": [ 7, 4, 10, 7 ], "texture": "#cross" },
+				"south": { "uv": [ 6.5, 2.5, 9.5, 5.5 ], "texture": "#cross" },
+				"west": { "uv": [ 5, 3, 8, 6 ], "texture": "#cross" },
+				"east": { "uv": [ 6, 2.5, 6.5, 3 ], "texture": "#cross" }
+			}
+		}
+	]
+} 
