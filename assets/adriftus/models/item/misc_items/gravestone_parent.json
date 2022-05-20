@@ -23,7 +23,8 @@
 			"scale":  [ 0.8, 0.8, 0.2 ]
 		},
 		"head": {
-			"translation":  [ 0, -24, 0 ]
+			"translation":  [ 0, -18, 0 ],
+			"scale":  [ 2, 2, 2 ]
 		},
 		"ground": {
 			"translation":  [ 0, 4, 0 ],
