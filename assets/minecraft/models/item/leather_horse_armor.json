@@ -21,7 +21,7 @@
     { "predicate": { "custom_model_data": 17}, "model": "adriftus:item/misc_items/crayons/crayon_7" },
     { "predicate": { "custom_model_data": 18}, "model": "adriftus:item/misc_items/crayons/crayon_8" },
     { "predicate": { "custom_model_data": 19}, "model": "adriftus:item/misc_items/dungeon_crystal_1" },
-
+    { "predicate": { "custom_model_data": 20}, "model": "adriftus:item/misc_items/crayons/crayon_arrow" },
     { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/blood_magic/array" },
     { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/blood_magic/array2" },
     { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/blood_magic/array3" },
