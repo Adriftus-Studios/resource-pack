@@ -36,6 +36,9 @@
     { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/main_menu/playermenu_achest" },
     { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/main_menu/playermenu_amenu" },
     { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/main_menu/playermenu_crafting" },
-    { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/main_menu/playermenu_travel" }
+    { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/main_menu/playermenu_travel" },
+    { "predicate": { "custom_model_data": 400}, "model": "adriftus:item/mod_tools/mod_inv_player" },
+    { "predicate": { "custom_model_data": 401}, "model": "adriftus:item/mod_tools/mod_inv_chest" },
+    { "predicate": { "custom_model_data": 402}, "model": "adriftus:item/mod_tools/mod_inv_ender" }
   ]
 }
