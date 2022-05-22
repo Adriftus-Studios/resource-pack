@@ -2,7 +2,7 @@
   "gui_light": "front",
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:custom_gui/network/travel_menu/hub_icon"
+    "layer0": "adriftus:custom_gui/network/travel_menu/herocraft_icon"
   },
   "display": {
 	"gui": {
