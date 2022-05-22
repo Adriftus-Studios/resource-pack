@@ -2,5 +2,10 @@
   "language.name": "English",
   "language.region": "United States",
   "language.code": "en_us",
-  "container.inventory": " "
+  "container.inventory": " ",
+  "item.nbt_tags": " ",
+  "item.durability": " ",
+  "adriftus.user.display_name": "%s",
+  "adriftus.pack.identify": "User",
+  "adriftus.pack.version": "1.0"
 }
