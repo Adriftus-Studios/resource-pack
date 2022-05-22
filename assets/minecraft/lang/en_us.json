@@ -6,7 +6,7 @@
   "item.nbt_tags": " ",
   "item.durability": " ",
   "adriftus.user.display_name": "%s",
-  "adriftus.staff_only": "",
+  "adriftus.lore.staff_only": "",
   "adriftus.pack.identify": "User",
   "adriftus.pack.version": "1.1"
 }
