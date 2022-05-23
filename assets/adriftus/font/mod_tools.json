@@ -24,6 +24,15 @@
             "chars": [
                 "\u1002"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/mod_tools/mod_inventory_inv.png",
+            "ascent": 10,
+            "height": 16,
+            "chars": [
+                "\u1003"
+            ]
         }
     ]
 }
