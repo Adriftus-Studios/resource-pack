@@ -39,6 +39,25 @@
     { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/main_menu/playermenu_travel" },
     { "predicate": { "custom_model_data": 400}, "model": "adriftus:item/mod_tools/mod_inv_player" },
     { "predicate": { "custom_model_data": 401}, "model": "adriftus:item/mod_tools/mod_inv_chest" },
-    { "predicate": { "custom_model_data": 402}, "model": "adriftus:item/mod_tools/mod_inv_ender" }
+    { "predicate": { "custom_model_data": 402}, "model": "adriftus:item/mod_tools/mod_inv_ender" },
+    { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/chat/chat_icon_discord_inactive" },
+    { "predicate": { "custom_model_data": 501}, "model": "adriftus:item/chat/chat_icon_admin" },
+    { "predicate": { "custom_model_data": 502}, "model": "adriftus:item/chat/chat_icon_dev" },
+    { "predicate": { "custom_model_data": 503}, "model": "adriftus:item/chat/chat_icon_mod" },
+    { "predicate": { "custom_model_data": 504}, "model": "adriftus:item/chat/chat_icon_staff" },
+    { "predicate": { "custom_model_data": 505}, "model": "adriftus:item/chat/chat_icon_global_pg" },
+    { "predicate": { "custom_model_data": 506}, "model": "adriftus:item/chat/chat_icon_global_pg_inactive" },
+    { "predicate": { "custom_model_data": 507}, "model": "adriftus:item/chat/chat_icon_global_pg13" },
+    { "predicate": { "custom_model_data": 508}, "model": "adriftus:item/chat/chat_icon_global_pg13_inactive" },
+    { "predicate": { "custom_model_data": 509}, "model": "adriftus:item/chat/chat_icon_global_anarchy" },
+    { "predicate": { "custom_model_data": 510}, "model": "adriftus:item/chat/chat_icon_global_anarchy_inactive" },
+    { "predicate": { "custom_model_data": 511}, "model": "adriftus:item/chat/chat_icon_world_lobby" },
+    { "predicate": { "custom_model_data": 512}, "model": "adriftus:item/chat/chat_icon_world_lobby_inactive" },
+    { "predicate": { "custom_model_data": 513}, "model": "adriftus:item/chat/chat_icon_world_herocraft" },
+    { "predicate": { "custom_model_data": 514}, "model": "adriftus:item/chat/chat_icon_world_herocraft_inactive" },
+    { "predicate": { "custom_model_data": 515}, "model": "adriftus:item/chat/chat_icon_world_test" },
+    { "predicate": { "custom_model_data": 516}, "model": "adriftus:item/chat/chat_icon_world_test_inactive" },
+    { "predicate": { "custom_model_data": 517}, "model": "adriftus:item/chat/chat_icon_world_zanzabar" },
+    { "predicate": { "custom_model_data": 518}, "model": "adriftus:item/chat/chat_icon_world_zanzabar_inactive" }
   ]
 }

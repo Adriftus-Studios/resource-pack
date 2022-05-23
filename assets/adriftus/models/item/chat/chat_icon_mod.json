@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/chat/chat_parent",
+  "textures": {
+    "layer0": "adriftus:custom_chat/chat_icon_mod"
+  }
+}
