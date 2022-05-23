@@ -28,7 +28,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_inventory_inv.png",
-            "ascent": 31.75,
+            "ascent": 29.75,
             "height": 256,
             "chars": [
                 "\u1003"
