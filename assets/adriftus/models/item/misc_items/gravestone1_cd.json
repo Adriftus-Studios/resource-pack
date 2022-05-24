@@ -3,7 +3,9 @@
 	"parent": "adriftus:item/misc_items/gravestone_parent",
 	"textures": {
 		"2": "block/grass_block_side",
+		"4": "block/flower_pot",
 		"7": "block/polished_granite",
+		"1_cross": "block/allium",
 		"texture": "block/dirt",
 		"particle": "block/polished_diorite",
 		"cross": "block/polished_diorite"
@@ -77,6 +79,78 @@
 				"south": {"uv": [6.5, 10.5, 11.5, 11], "texture": "#7", "cullface": "up"},
 				"west": {"uv": [8.5, 13.5, 9.5, 14], "texture": "#7", "cullface": "up"},
 				"up": {"uv": [5.5, 7.5, 10.5, 8.5], "rotation": 180, "texture": "#7", "cullface": "up"}
+			}
+		},
+		{
+			"from": [10, 2, 19.5],
+			"to": [10.5, 4.5, 22.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 3.125, 21]},
+			"faces": {
+				"north": {"uv": [6.5, 14, 6.75, 15.25], "texture": "#4"},
+				"east": {"uv": [6.5, 10.5, 8, 11.75], "texture": "#4"},
+				"south": {"uv": [8.5, 14, 8.75, 15.25], "texture": "#4"},
+				"west": {"uv": [7, 11, 8.5, 12.25], "texture": "#4"},
+				"up": {"uv": [5.5, 5.5, 5.75, 7], "texture": "#4"}
+			}
+		},
+		{
+			"from": [10.5, 2, 22],
+			"to": [12.5, 4.5, 22.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 3.125, 21]},
+			"faces": {
+				"north": {"uv": [6.5, 14, 7.5, 15.25], "texture": "#4"},
+				"south": {"uv": [8, 14, 9, 15.25], "texture": "#4"},
+				"up": {"uv": [5.5, 5.5, 6.5, 5.75], "texture": "#4"}
+			}
+		},
+		{
+			"from": [12.5, 2, 19.5],
+			"to": [13, 4.5, 22.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 3.125, 21]},
+			"faces": {
+				"north": {"uv": [6.5, 14, 6.75, 15.25], "texture": "#4"},
+				"east": {"uv": [7, 11, 8.5, 12.25], "texture": "#4"},
+				"south": {"uv": [8.5, 14, 8.75, 15.25], "texture": "#4"},
+				"west": {"uv": [8.5, 11, 10, 12.25], "texture": "#4"},
+				"up": {"uv": [5.5, 5.5, 5.75, 7], "texture": "#4"}
+			}
+		},
+		{
+			"from": [10.5, 2, 20],
+			"to": [12.5, 4, 22],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 3.125, 21]},
+			"faces": {
+				"up": {"uv": [7, 2, 9, 4], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [10.5, 4, 21],
+			"to": [12.5, 7, 21],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [11.5, 5, 21]},
+			"faces": {
+				"north": {"uv": [4, 2, 11, 16], "texture": "#1_cross"},
+				"east": {"uv": [4, 2, 11, 16], "texture": "#1_cross"},
+				"south": {"uv": [4, 2, 11, 16], "texture": "#1_cross"}
+			}
+		},
+		{
+			"from": [10.5, 4, 21],
+			"to": [12.5, 7, 21],
+			"rotation": {"angle": 45, "axis": "y", "origin": [11.5, 5, 21]},
+			"faces": {
+				"north": {"uv": [4, 2, 11, 16], "texture": "#1_cross"},
+				"east": {"uv": [4, 2, 11, 16], "texture": "#1_cross"},
+				"south": {"uv": [4, 2, 11, 16], "texture": "#1_cross"}
+			}
+		},
+		{
+			"from": [10.5, 2, 19.5],
+			"to": [12.5, 4.5, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 3.125, 21]},
+			"faces": {
+				"north": {"uv": [6.5, 13, 7.5, 14.25], "texture": "#4"},
+				"south": {"uv": [8.5, 14, 9.5, 15.25], "texture": "#4"},
+				"up": {"uv": [5.5, 5.5, 6.5, 5.75], "texture": "#4"}
 			}
 		},
 		{
@@ -177,7 +251,13 @@
 		3,
 		4,
 		5,
-		6,
+		{
+			"name": "flower_pot",
+			"origin": [3.5, 2.5625, 20.5],
+			"color": 0,
+			"children": [6, 7, 8, 9, 10, 11, 12]
+		},
+		13,
 		{
 			"name": "cross",
 			"origin": [0, 0, 0],
@@ -188,13 +268,13 @@
 			"name": "ground",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [7, 8, 9, 10, 11]
+			"children": [14, 15, 16, 17, 18]
 		},
 		{
 			"name": "base",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [12]
+			"children": [19]
 		}
 	]
 }

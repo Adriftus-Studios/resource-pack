@@ -44,10 +44,13 @@
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/red_scroll" },
 
     { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/misc_items/gravestone1" },
-    { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/misc_items/gravestone2" },
-    { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/misc_items/gravestone3" },
-    { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/misc_items/gravestone4" },
-
+    { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/misc_items/gravestone1_cd" },
+    { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/misc_items/gravestone2" },
+    { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/misc_items/gravestone2_cd" },
+    { "predicate": { "custom_model_data": 304}, "model": "adriftus:item/misc_items/gravestone3" },
+    { "predicate": { "custom_model_data": 305}, "model": "adriftus:item/misc_items/gravestone3_cd" },
+    { "predicate": { "custom_model_data": 306}, "model": "adriftus:item/misc_items/gravestone4" },
+    { "predicate": { "custom_model_data": 307}, "model": "adriftus:item/misc_items/gravestone4_cd" },
     { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/misc_items/multiverse_dust" }
   ]
 }
