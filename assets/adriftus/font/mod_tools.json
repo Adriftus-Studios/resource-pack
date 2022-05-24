@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_ban_inv.png",
-            "ascent": 7,
-            "height": 16,
+            "ascent": 17.75,
+            "height": 256,
             "chars": [
                 "\u1001"
             ]
@@ -19,10 +19,19 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_kick_inv.png",
-            "ascent": 7,
-            "height": 16,
+            "ascent": 17.75,
+            "height": 256,
             "chars": [
                 "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/mod_tools/mod_inventory_inv.png",
+            "ascent": 29.00,
+            "height": 256,
+            "chars": [
+                "\u1003"
             ]
         }
     ]
