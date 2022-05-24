@@ -24,6 +24,42 @@
             "chars": [
                 "\u0002"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/menu_infographic_1.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "\u1003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/menu_infographic_2.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "\u1004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/menu_infographic_3.png",
+            "ascent": -118,
+            "height": 256,
+            "chars": [
+                "\u1005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/menu_infographic_4.png",
+            "ascent": -118,
+            "height": 256,
+            "chars": [
+                "\u1006"
+            ]
         }
     ]
 }
