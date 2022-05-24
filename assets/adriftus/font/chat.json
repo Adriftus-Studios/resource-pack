@@ -123,6 +123,15 @@
             "chars": [
                 "\u0045"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/reply_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u0046"
+            ]
         }
     ]
 }
