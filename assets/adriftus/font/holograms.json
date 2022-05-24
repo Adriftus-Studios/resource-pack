@@ -46,7 +46,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:holograms/infographics/menu_infographic_3.png",
-            "ascent": -118,
+            "ascent": -120,
             "height": 256,
             "chars": [
                 "\u1005"
@@ -55,7 +55,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:holograms/infographics/menu_infographic_4.png",
-            "ascent": -118,
+            "ascent": -120,
             "height": 256,
             "chars": [
                 "\u1006"
