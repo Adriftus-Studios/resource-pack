@@ -150,6 +150,15 @@
             "chars": [
                 "\u6930"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/notifications/achest_shrinkage.png",
+            "ascent": 11,
+            "height": 128,
+            "chars": [
+                "\u6931"
+            ]
         }
     ]
 }
