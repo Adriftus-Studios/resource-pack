@@ -143,6 +143,25 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/join_icon.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u2002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_chat/leave_icon.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u2003"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_chat/streamers/syn.png",
             "ascent": 7,
             "height": 16,
