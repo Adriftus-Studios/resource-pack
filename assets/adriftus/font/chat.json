@@ -135,6 +135,15 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:custom_chat/test.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u0047"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_chat/death_message_icon.png",
             "ascent": 7,
             "height": 16,

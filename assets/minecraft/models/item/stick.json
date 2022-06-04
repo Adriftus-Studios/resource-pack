@@ -13,11 +13,13 @@
         { "predicate": { "custom_model_data": 300 }, "model": "adriftus:item/accessory/adriftus_pin"},
         { "predicate": { "custom_model_data": 666 }, "model": "adriftus:item/weapons/death_weapon"},
         { "predicate": { "custom_model_data": 667 }, "model": "adriftus:item/weapons/ender_knight_sword"},
-        { "predicate": { "custom_model_data": 69420}, "model": "adriftus:item/mounts/nimbus_69420" },
+
+        { "predicate": { "custom_model_data": 9001}, "model": "adriftus:furniture/chairs/dining_chair_basic_oak" },
+
+        { "predicate": { "custom_model_data": 69420}, "model": "adriftus:item/mounts/nimbus_69420" }
 
 
 
-        { "predicate": { "custom_model_data": 9001}, "model": "adriftus:furniture/chairs/dining_chair_basic_oak" }
 
 
   ]
