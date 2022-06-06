@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "adriftus:furniture/chairs/dining_chair_basic_oak",
-		"particle": "adriftus:furniture/chairs/dining_chair_basic_oak"
+		"0": "adriftus:furniture/chairs/dining_chair_basic_dark_oak",
+		"particle": "adriftus:furniture/chairs/dining_chair_basic_dark_oak"
 	},
 	"elements": [
 		{
@@ -64,8 +64,8 @@
 			}
 		},
 		{
-			"from": [8, 16, 12.25],
-			"to": [9, 21, 12.75],
+			"from": [8, 16, 12],
+			"to": [9, 21, 13],
 			"faces": {
 				"north": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"},
 				"east": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"},
@@ -74,8 +74,18 @@
 			}
 		},
 		{
-			"from": [8, 10, 12.25],
-			"to": [9, 15, 12.75],
+			"from": [8, 15, 12],
+			"to": [9, 16, 13],
+			"faces": {
+				"north": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"east": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"south": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"},
+				"west": {"uv": [4.5, 10.5, 5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 10, 12],
+			"to": [9, 15, 13],
 			"faces": {
 				"north": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"},
 				"east": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"},
@@ -84,13 +94,23 @@
 			}
 		},
 		{
-			"from": [4, 15, 12],
-			"to": [13, 16, 13],
+			"from": [9, 10, 12.5],
+			"to": [13, 21, 12.5],
 			"faces": {
-				"north": {"uv": [10, 6.5, 14.5, 7], "texture": "#0"},
-				"south": {"uv": [10, 6.5, 14.5, 7], "texture": "#0"},
-				"up": {"uv": [10, 6.5, 14.5, 7], "texture": "#0"},
-				"down": {"uv": [10, 6.5, 14.5, 7], "texture": "#0"}
+				"north": {"uv": [6.5, 6.5, 8.5, 12], "texture": "#0"},
+				"east": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"},
+				"south": {"uv": [8.5, 6.5, 6.5, 12], "texture": "#0"},
+				"west": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 10, 12.5],
+			"to": [8, 21, 12.5],
+			"faces": {
+				"north": {"uv": [8.5, 6.5, 6.5, 12], "texture": "#0"},
+				"east": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"},
+				"south": {"uv": [6.5, 6.5, 8.5, 12], "texture": "#0"},
+				"west": {"uv": [4.5, 10, 5, 12.5], "texture": "#0"}
 			}
 		},
 		{
@@ -176,7 +196,7 @@
 			"name": "back",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [5, 6, 7, 8, 9, 10, 11]
+			"children": [5, 6, 7, 8, 9, 10, 11, 12, 13]
 		}
 	]
 }
