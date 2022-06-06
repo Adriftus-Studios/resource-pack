@@ -55,7 +55,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_send_inv.png",
-            "ascent": 29.00,
+            "ascent": 28.00,
             "height": 256,
             "chars": [
                 "\u1006"
