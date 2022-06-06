@@ -34,8 +34,7 @@
                 "\u1003"
             ]
         },
-                },
-                {
+        {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_ender_chest_inv.png",
             "ascent": 29.00,
@@ -44,7 +43,6 @@
                 "\u1005"
             ]
         },
-                },
                 {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_adriftus_chest_inv.png",
@@ -54,8 +52,7 @@
                 "\u1006"
             ]
         },
-                },
-                {
+        {
             "type": "bitmap",
             "file": "adriftus:custom_gui/mod_tools/mod_send_inv.png",
             "ascent": 29.00,
