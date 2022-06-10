@@ -18,6 +18,8 @@
 		{ "predicate": { "custom_model_data": 9002}, "model": "adriftus:furniture/chairs/dining_chair_basic_dark_oak" },
 		{ "predicate": { "custom_model_data": 9003}, "model": "adriftus:furniture/chairs/dining_chair_basic_birch" },
 
+		{ "predicate": { "custom_model_data": 9100}, "model": "adriftus:furniture/chairs/throne_1" },
+
         { "predicate": { "custom_model_data": 69420}, "model": "adriftus:item/mounts/nimbus_69420" }
 
 
