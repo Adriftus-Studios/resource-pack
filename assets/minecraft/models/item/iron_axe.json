@@ -6,7 +6,8 @@
     "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/copper/copper_axe" },
 	{ "predicate": { "custom_model_data": 2}, "model": "adriftus:item/steel/steel_axe" },
-	{ "predicate": { "custom_model_data": 3}, "model": "adriftus:item/orcish/orc_chopper" },
-	{ "predicate": { "custom_model_data": 4}, "model": "adriftus:item/orcish/orc_club" }
+
+	{ "predicate": { "custom_model_data": 3000}, "model": "adriftus:item/orcish/orc_chopper" },
+	{ "predicate": { "custom_model_data": 3001}, "model": "adriftus:item/orcish/orc_tenderizer" }
     ]
 }
