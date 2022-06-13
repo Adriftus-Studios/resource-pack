@@ -20,6 +20,10 @@ bool is200(vec4 a) {
     return (a.r < 0.01 && a.r > 0.005) && a.g == 0.0 && a.b == 0.0;
 }
 
+bool is020(vec4 a) {
+    return (a.g < 0.01 && a.g > 0.005) && a.r == 0.0 && a.b == 0.0;
+}
+
 // Courtesy of Onnowhere
 // (https://github.com/onnowhere)
 bool isGUI(mat4 ProjMat) {

@@ -15,7 +15,6 @@ uniform float GameTime;
 in float vertexDistance;
 in vec4 vertexColor;
 in vec2 texCoord0;
-in vec3 Position;
 
 out vec4 fragColor;
 
@@ -36,12 +35,25 @@ void main() {
     if (color.a < 0.1) {
         discard;
     }
+    
+    if (is200(vertexColor) || is020(vertexColor)){
+        float final;
+        float final1 = mod((GameTime * 10000), 51);
 
-    if (is010(vertexColor)){
-        color = vec4(1.0, 1.0, 1.0, 1.0);
+        if (final1 > 25) {
+            final = (50 - final1) * 4;
+        }
+        else {
+            final = final1 * 4;
+        }
+        if (is020(vertexColor)) {
+            float final1 = mod((GameTime * 10000), 800);
+        }
+
+        color = vec4(1.0, 1.0, 1.0, final/100);
     }
 
-    if (is200(vertexColor)){
+    if (is010(vertexColor)){
         color = vec4(1.0, 1.0, 1.0, 1.0);
     }
     
