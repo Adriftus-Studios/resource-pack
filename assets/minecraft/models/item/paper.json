@@ -62,6 +62,9 @@
     { "predicate": { "custom_model_data": 515}, "model": "adriftus:item/chat/chat_icon_world_test" },
     { "predicate": { "custom_model_data": 516}, "model": "adriftus:item/chat/chat_icon_world_test_inactive" },
     { "predicate": { "custom_model_data": 517}, "model": "adriftus:item/chat/chat_icon_world_zanzabar" },
-    { "predicate": { "custom_model_data": 518}, "model": "adriftus:item/chat/chat_icon_world_zanzabar_inactive" }
+    { "predicate": { "custom_model_data": 518}, "model": "adriftus:item/chat/chat_icon_world_zanzabar_inactive" },
+    { "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/mail_run/mail_item_1" },
+    { "predicate": { "custom_model_data": 1002}, "model": "adriftus:item/mail_run/mail_item_2" },
+    { "predicate": { "custom_model_data": 1003}, "model": "adriftus:item/mail_run/mail_item_3" }
   ]
 }
