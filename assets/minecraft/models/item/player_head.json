@@ -3,7 +3,7 @@
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/misc_items/display_head" },
     { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/misc_items/display_head_large" },
-    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/misc_items/display_head" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/misc_items/display_head_mod" },
     { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/misc_items/display_head_face_right" },
     { "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/misc_items/display_head_face_left" }
   ]
