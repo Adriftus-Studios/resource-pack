@@ -1,0 +1,52 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bucket"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/buckets/bucket_wood" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/buckets/bucket_iron" },
+	  { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/buckets/bucket_diamond" },
+    { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/buckets/bucket_netherite" },
+
+    { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/buckets/bucket_wood_water" },
+    { "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/buckets/bucket_wood_soup" },
+    { "predicate": { "custom_model_data": 13 }, "model": "adriftus:item/buckets/bucket_wood_milk" },
+
+    { "predicate": { "custom_model_data": 15 }, "model": "adriftus:item/buckets/bucket_wood_cod" },
+    { "predicate": { "custom_model_data": 16 }, "model": "adriftus:item/buckets/bucket_wood_salmon" },
+    { "predicate": { "custom_model_data": 17 }, "model": "adriftus:item/buckets/bucket_wood_pufferfish" },
+    { "predicate": { "custom_model_data": 18 }, "model": "adriftus:item/buckets/bucket_wood_tropical_fish" },
+    { "predicate": { "custom_model_data": 19 }, "model": "adriftus:item/buckets/bucket_wood_axolotl" },
+
+    { "predicate": { "custom_model_data": 21 }, "model": "adriftus:item/buckets/bucket_iron_water" },
+    { "predicate": { "custom_model_data": 22 }, "model": "adriftus:item/buckets/bucket_iron_lava" },
+    { "predicate": { "custom_model_data": 23 }, "model": "adriftus:item/buckets/bucket_iron_milk" },
+    { "predicate": { "custom_model_data": 24 }, "model": "adriftus:item/buckets/bucket_iron_powder_snow" },
+    { "predicate": { "custom_model_data": 25 }, "model": "adriftus:item/buckets/bucket_iron_cod" },
+    { "predicate": { "custom_model_data": 26 }, "model": "adriftus:item/buckets/bucket_iron_salmon" },
+    { "predicate": { "custom_model_data": 27 }, "model": "adriftus:item/buckets/bucket_iron_pufferfish" },
+    { "predicate": { "custom_model_data": 28 }, "model": "adriftus:item/buckets/bucket_iron_tropical_fish" },
+    { "predicate": { "custom_model_data": 29 }, "model": "adriftus:item/buckets/bucket_iron_axolotl" },
+
+    { "predicate": { "custom_model_data": 31 }, "model": "adriftus:item/buckets/bucket_diamond_water" },
+    { "predicate": { "custom_model_data": 32 }, "model": "adriftus:item/buckets/bucket_diamond_lava" },
+    { "predicate": { "custom_model_data": 33 }, "model": "adriftus:item/buckets/bucket_diamond_milk" },
+
+    { "predicate": { "custom_model_data": 35 }, "model": "adriftus:item/buckets/bucket_diamond_cod" },
+    { "predicate": { "custom_model_data": 36 }, "model": "adriftus:item/buckets/bucket_diamond_salmon" },
+    { "predicate": { "custom_model_data": 37 }, "model": "adriftus:item/buckets/bucket_diamond_pufferfish" },
+    { "predicate": { "custom_model_data": 38 }, "model": "adriftus:item/buckets/bucket_diamond_tropical_fish" },
+    { "predicate": { "custom_model_data": 39 }, "model": "adriftus:item/buckets/bucket_diamond_axolotl" },
+
+    { "predicate": { "custom_model_data": 41 }, "model": "adriftus:item/buckets/bucket_netherite_water" },
+    { "predicate": { "custom_model_data": 42 }, "model": "adriftus:item/buckets/bucket_netherite_lava" },
+    { "predicate": { "custom_model_data": 43 }, "model": "adriftus:item/buckets/bucket_netherite_milk" },
+
+    { "predicate": { "custom_model_data": 45 }, "model": "adriftus:item/buckets/bucket_netherite_cod" },
+    { "predicate": { "custom_model_data": 46 }, "model": "adriftus:item/buckets/bucket_netherite_salmon" },
+    { "predicate": { "custom_model_data": 47 }, "model": "adriftus:item/buckets/bucket_netherite_pufferfish" },
+    { "predicate": { "custom_model_data": 48 }, "model": "adriftus:item/buckets/bucket_netherite_tropical_fish" },
+    { "predicate": { "custom_model_data": 49 }, "model": "adriftus:item/buckets/bucket_netherite_axolotl" }
+  ]
+}

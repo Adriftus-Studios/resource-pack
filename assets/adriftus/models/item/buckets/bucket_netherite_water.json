@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "adriftus:item/buckets/bucket_netherite_water"
+    }
+}

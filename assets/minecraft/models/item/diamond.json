@@ -5,9 +5,9 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/mail_run/mailbox_default" },
-    { "predicate": { "custom_model_data": 2}, "model": "adriftus:item/amethyst/amethyst_gem" },
-	{ "predicate": { "custom_model_data": 3}, "model": "adriftus:item/amethyst/amethyst_ingot" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/amethyst/amethyst_gem" },
+	  { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/amethyst/amethyst_ingot" },
 
-	{ "predicate": { "custom_model_data": 69420}, "model": "adriftus:test/test1" }
+	  { "predicate": { "custom_model_data": 69420}, "model": "adriftus:test/test1" }
   ]
 }
