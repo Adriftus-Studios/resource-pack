@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tadpole_bucket"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/buckets/bucket_wood_tadpole" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/buckets/bucket_iron_tadpole" },
+	  { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/buckets/bucket_diamond_tadpole" },
+    { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/buckets/bucket_netherite_tadpole" }
+  ]
+}

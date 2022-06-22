@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/salmon_bucket"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/buckets/bucket_wood_salmon" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/buckets/bucket_iron_salmon" },
+	  { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/buckets/bucket_diamond_salmon" },
+    { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/buckets/bucket_netherite_salmon" }
+  ]
+}

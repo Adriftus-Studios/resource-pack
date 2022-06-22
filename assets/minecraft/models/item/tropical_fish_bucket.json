@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tropical_fish_bucket"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/buckets/bucket_wood_tropical_fish" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/buckets/bucket_iron_tropical_fish" },
+	  { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/buckets/bucket_diamond_tropical_fish" },
+    { "predicate": { "custom_model_data": 4 }, "model": "adriftus:item/buckets/bucket_netherite_tropical_fish" }
+  ]
+}
