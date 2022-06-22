@@ -159,6 +159,15 @@
             "chars": [
                 "\u6931"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/trade_menu.png",
+            "ascent": 48.5,
+            "height": 256,
+            "chars": [
+                "\u6932"
+            ]
         }
     ]
 }

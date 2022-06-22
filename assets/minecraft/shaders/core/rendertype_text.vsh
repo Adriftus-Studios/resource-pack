@@ -32,12 +32,7 @@ void main() {
     texCoord0 = UV0;
 
     // Check for Color Codes
-
-    if (is200(vertexColor)){
-        gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
-    }
-
-    else if (is010(vertexColor) || is001(vertexColor)) {
+    if (is010(vertexColor) || is001(vertexColor)) {
 
         float ticker = mod((GameTime * 10000), 4) + (mod((Position.x), 512) / 64);
         float final;
@@ -50,7 +45,7 @@ void main() {
         gl_Position = ProjMat * ModelViewMat * vec4(Position.x, (Position.y + BouncyArray[int(final)]), Position.z, 1.0);
         
     }
-    else{
+    else {
         // Vanilla Code
         gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
     }
