@@ -12,7 +12,7 @@
     { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/buckets/bucket_wood_water" },
     { "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/buckets/bucket_wood_soup" },
     { "predicate": { "custom_model_data": 13 }, "model": "adriftus:item/buckets/bucket_wood_milk" },
-
+    { "predicate": { "custom_model_data": 14 }, "model": "adriftus:item/buckets/bucket_wood_powder_snow" },
     { "predicate": { "custom_model_data": 15 }, "model": "adriftus:item/buckets/bucket_wood_cod" },
     { "predicate": { "custom_model_data": 16 }, "model": "adriftus:item/buckets/bucket_wood_salmon" },
     { "predicate": { "custom_model_data": 17 }, "model": "adriftus:item/buckets/bucket_wood_pufferfish" },
@@ -32,7 +32,7 @@
     { "predicate": { "custom_model_data": 31 }, "model": "adriftus:item/buckets/bucket_diamond_water" },
     { "predicate": { "custom_model_data": 32 }, "model": "adriftus:item/buckets/bucket_diamond_lava" },
     { "predicate": { "custom_model_data": 33 }, "model": "adriftus:item/buckets/bucket_diamond_milk" },
-
+    { "predicate": { "custom_model_data": 34 }, "model": "adriftus:item/buckets/bucket_diamond_powder_snow" },
     { "predicate": { "custom_model_data": 35 }, "model": "adriftus:item/buckets/bucket_diamond_cod" },
     { "predicate": { "custom_model_data": 36 }, "model": "adriftus:item/buckets/bucket_diamond_salmon" },
     { "predicate": { "custom_model_data": 37 }, "model": "adriftus:item/buckets/bucket_diamond_pufferfish" },
@@ -42,7 +42,7 @@
     { "predicate": { "custom_model_data": 41 }, "model": "adriftus:item/buckets/bucket_netherite_water" },
     { "predicate": { "custom_model_data": 42 }, "model": "adriftus:item/buckets/bucket_netherite_lava" },
     { "predicate": { "custom_model_data": 43 }, "model": "adriftus:item/buckets/bucket_netherite_milk" },
-
+    { "predicate": { "custom_model_data": 44 }, "model": "adriftus:item/buckets/bucket_netherite_powder_snow" },
     { "predicate": { "custom_model_data": 45 }, "model": "adriftus:item/buckets/bucket_netherite_cod" },
     { "predicate": { "custom_model_data": 46 }, "model": "adriftus:item/buckets/bucket_netherite_salmon" },
     { "predicate": { "custom_model_data": 47 }, "model": "adriftus:item/buckets/bucket_netherite_pufferfish" },
