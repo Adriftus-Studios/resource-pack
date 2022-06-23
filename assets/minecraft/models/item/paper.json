@@ -11,8 +11,10 @@
     { "predicate": { "custom_model_data": 5 }, "model": "adriftus:item/misc_items/cross" },
     { "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/misc_items/arrow_green" },
     { "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/misc_items/arrow_blue" },
+
     { "predicate": { "custom_model_data": 50}, "model": "adriftus:item/hub_fishing/play_button" },
     { "predicate": { "custom_model_data": 51}, "model": "adriftus:item/hub_fishing/stop_button" },
+
     { "predicate": { "custom_model_data": 100}, "model": "adriftus:item/main_menu/new_item" },
     { "predicate": { "custom_model_data": 101}, "model": "adriftus:item/main_menu/settings_gear" },
     { "predicate": { "custom_model_data": 102}, "model": "adriftus:item/main_menu/cosmetics_icon" },
@@ -32,18 +34,22 @@
     { "predicate": { "custom_model_data": 117}, "model": "adriftus:item/main_menu/mail_notification_7" },
     { "predicate": { "custom_model_data": 118}, "model": "adriftus:item/main_menu/mail_notification_8" },
     { "predicate": { "custom_model_data": 119}, "model": "adriftus:item/main_menu/mail_notification_9" },
+
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/travel_menu/hub_icon" },
     { "predicate": { "custom_model_data": 202}, "model": "adriftus:item/travel_menu/herocraft_icon" },
+
     { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/main_menu/playermenu_achest" },
     { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/main_menu/playermenu_amenu" },
     { "predicate": { "custom_model_data": 302}, "model": "adriftus:item/main_menu/playermenu_crafting" },
     { "predicate": { "custom_model_data": 303}, "model": "adriftus:item/main_menu/playermenu_travel" },
+
     { "predicate": { "custom_model_data": 400}, "model": "adriftus:item/mod_tools/mod_inv_player" },
     { "predicate": { "custom_model_data": 401}, "model": "adriftus:item/mod_tools/mod_inv_chest" },
     { "predicate": { "custom_model_data": 402}, "model": "adriftus:item/mod_tools/mod_inv_ender" },
     { "predicate": { "custom_model_data": 403}, "model": "adriftus:item/mod_tools/join_icon" },
     { "predicate": { "custom_model_data": 404}, "model": "adriftus:item/mod_tools/leave_icon" },
     { "predicate": { "custom_model_data": 405}, "model": "adriftus:item/mod_tools/death_message_icon" },
+
     { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/chat/chat_icon_discord_inactive" },
     { "predicate": { "custom_model_data": 501}, "model": "adriftus:item/chat/chat_icon_admin" },
     { "predicate": { "custom_model_data": 502}, "model": "adriftus:item/chat/chat_icon_dev" },
@@ -63,8 +69,14 @@
     { "predicate": { "custom_model_data": 516}, "model": "adriftus:item/chat/chat_icon_world_test_inactive" },
     { "predicate": { "custom_model_data": 517}, "model": "adriftus:item/chat/chat_icon_world_zanzabar" },
     { "predicate": { "custom_model_data": 518}, "model": "adriftus:item/chat/chat_icon_world_zanzabar_inactive" },
+
     { "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/mail_run/mail_item_1" },
     { "predicate": { "custom_model_data": 1002}, "model": "adriftus:item/mail_run/mail_item_2" },
-    { "predicate": { "custom_model_data": 1003}, "model": "adriftus:item/mail_run/mail_item_3" }
+    { "predicate": { "custom_model_data": 1003}, "model": "adriftus:item/mail_run/mail_item_3" },
+
+    { "predicate": { "custom_model_data": 1100}, "model": "adriftus:item/trade_menu/confirm_overlay_11" },
+    { "predicate": { "custom_model_data": 1101}, "model": "adriftus:item/trade_menu/confirm_overlay_12" },
+    { "predicate": { "custom_model_data": 1102}, "model": "adriftus:item/trade_menu/confirm_overlay_21" },
+    { "predicate": { "custom_model_data": 1103}, "model": "adriftus:item/trade_menu/confirm_overlay_22" }
   ]
 }
