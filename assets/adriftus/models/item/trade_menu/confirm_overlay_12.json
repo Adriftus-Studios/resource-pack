@@ -1,7 +1,7 @@
 {
   
   "textures": {
-    "0": "adriftus:custom_gui/network/trade_menu/ready_overlay_blue.png"
+    "0": "adriftus:custom_gui/network/trade_menu/ready_overlay_blue"
   },
   "gui_light": "front",
 	"elements": [
