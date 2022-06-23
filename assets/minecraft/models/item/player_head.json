@@ -7,7 +7,7 @@
     { "predicate": { "custom_model_data": 11 }, "model": "adriftus:item/misc_items/display_head_face_right" },
     { "predicate": { "custom_model_data": 12 }, "model": "adriftus:item/misc_items/display_head_face_left" },
 
-    { "predicate": { "custom_model_data": 100 }, "model": "adriftus:item/misc_items/player_head_trade_left" },
-    { "predicate": { "custom_model_data": 101 }, "model": "adriftus:item/misc_items/player_head_trade_right" }
+    { "predicate": { "custom_model_data": 100 }, "model": "adriftus:item/trade_menu/player_head_trade_left" },
+    { "predicate": { "custom_model_data": 101 }, "model": "adriftus:item/trade_menu/player_head_trade_right" }
   ]
 }
