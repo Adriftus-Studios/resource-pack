@@ -1,8 +1,7 @@
 {
 	"credit": "Made by Aedia for Adriftus",
-	"texture_size": [64, 64],
-	"parent": "adriftus:item\hats\axolotl\axolotl_hat_base",
+	"parent": "adriftus:item/hats/axolotl/axolotl_hat_base",
 	"textures": {
-		"1": "adriftus:item\hats\axolotl\hat_axolotl_pink",
+		"1": "adriftus:item/hats/axolotl/hat_axolotl_pink",
 		"particle": "hat_axolotl_pink"
 	},
