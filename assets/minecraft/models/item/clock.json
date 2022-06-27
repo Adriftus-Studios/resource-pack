@@ -16,6 +16,7 @@
 	{ "predicate": { "custom_model_data": 10000 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_pink" },
 	{ "predicate": { "custom_model_data": 10001 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_blue" },
 	{ "predicate": { "custom_model_data": 10002 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_cyan" },
-	{ "predicate": { "custom_model_data": 10003 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_gold" }
+	{ "predicate": { "custom_model_data": 10003 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_gold" },
+	{ "predicate": { "custom_model_data": 10004 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_shining" }
   ]
 }
