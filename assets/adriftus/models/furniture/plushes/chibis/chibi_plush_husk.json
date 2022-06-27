@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Aedia for Adriftus",
+	"parent": "adriftus:item/furniture/plushes/chibi/chibi_plush_zombie",
+	"textures": {
+		"1": "adriftus:item/furniture/plushes/chibi/chibi_plush_husk",
+		"particle": "adriftus:item/furniture/plushes/chibi/chibi_plush_husk"
+	}
+}
