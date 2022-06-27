@@ -45,7 +45,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_main",
+            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_main.png",
             "ascent": 36.75,
             "height": 256,
             "chars": [
