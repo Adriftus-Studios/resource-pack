@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Aedia for Adriftus",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "Desktop/chibizombie",
-		"particle": "block/chibicreeper"
+		"1": "adriftus:item/furniture/plushes/chibi/chibi_plush_zombie",
+		"particle": "adriftus:item/furniture/plushes/chibi/chibi_plush_zombie"
 	},
 	"elements": [
 		{

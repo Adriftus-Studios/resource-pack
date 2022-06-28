@@ -3,6 +3,6 @@
 	"parent": "adriftus:item/hats/axolotl/axolotl_hat_base",
 	"textures": {
 		"1": "adriftus:item/hats/axolotl/hat_axolotl_shining",
-		"particle": "hat_axolotl_shining"
+		"particle": "adriftus:item/hats/axolotl/hat_axolotl_shinin"
 	}
 }
