@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Aedia for Adriftus",
+	"parent": "adriftus:item/hats/frog/frog_hat_base",
+	"textures": {
+		"1": "adriftus:item/hats/frog/frog_tree",
+		"particle": "adriftus:item/hats/frog/frog_tree"
+	}
+}
