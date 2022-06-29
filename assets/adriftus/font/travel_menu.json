@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_main",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_main.png",
             "ascent": 36.75,
             "height": 256,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_hub_overlay",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_hub_overlay.png",
             "ascent": 36.75,
             "height": 256,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay.png",
             "ascent": 36.75,
             "height": 256,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay_inactive",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_herocraft_overlay_inactive.png",
             "ascent": 36.75,
             "height": 256,
             "chars": [
@@ -46,7 +46,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_main.png",
-            "ascent": 36.75,
+            "ascent": 17,
             "height": 256,
             "chars": [
                 "\u1005"
@@ -54,8 +54,8 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_server",
-            "ascent": 36.75,
+            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_server.png",
+            "ascent": 17,
             "height": 256,
             "chars": [
                 "\u1006"
@@ -63,8 +63,8 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_town",
-            "ascent": 36.75,
+            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_town.png",
+            "ascent": 17,
             "height": 256,
             "chars": [
                 "\u1007"
@@ -72,8 +72,8 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_wild",
-            "ascent": 36.75,
+            "file": "adriftus:custom_gui/network/travel_menu/herocraft_waystones_wild.png",
+            "ascent": 17,
             "height": 256,
             "chars": [
                 "\u1008"
