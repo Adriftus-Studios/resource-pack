@@ -5,6 +5,6 @@
   },
     "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/misc_items/kelp_bulb" },
-	{ "predicate": { "custom_model_data": 2}, "model": "adriftus:item/food/rice" },
+	{ "predicate": { "custom_model_data": 2}, "model": "adriftus:item/food/rice" }
     ]
 }
