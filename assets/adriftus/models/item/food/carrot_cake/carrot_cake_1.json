@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "adriftus:block/carrot_cake/carrot_cake_top",
-		"1": "adriftus:block/cake_side",
-		"2": "adriftus:block/cake_inner",
-		"3": "adriftus:block/cake_bottom",
+		"1": "block/cake_side",
+		"2": "block/cake_inner",
+		"3": "block/cake_bottom",
 		"particle": "adriftus:block/carrot_cake/carrot_cake_top"
 	},
 	"elements": [
