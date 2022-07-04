@@ -72,7 +72,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_chat/chat_icon_world_lobby.png",
+            "file": "adriftus:custom_chat/chat_icon_world_hub.png",
             "ascent": 7,
             "height": 16,
             "chars": [
