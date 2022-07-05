@@ -27,6 +27,8 @@
     { "predicate": { "custom_model_data": 109}, "model": "adriftus:item/main_menu/chat_settings_icon" },
     { "predicate": { "custom_model_data": 110}, "model": "adriftus:item/main_menu/masks_icon" },
     { "predicate": { "custom_model_data": 111}, "model": "adriftus:item/main_menu/hats_icon" },
+    { "predicate": { "custom_model_data": 112}, "model": "adriftus:item/main_menu/plushies_icon" },
+    { "predicate": { "custom_model_data": 113}, "model": "adriftus:item/main_menu/toys_icon" },
 
     { "predicate": { "custom_model_data": 151}, "model": "adriftus:item/main_menu/mail_notification_1" },
     { "predicate": { "custom_model_data": 152}, "model": "adriftus:item/main_menu/mail_notification_2" },
