@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "adriftus:custom_gui/herocraft/towny_gui/towny_stick"
+	}
+}
