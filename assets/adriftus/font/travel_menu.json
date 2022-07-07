@@ -201,11 +201,290 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_12.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_13.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_14.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_15.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_16.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_17.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_18.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_19.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_20.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_lore_overlay_21.png",
+            "ascent": 17,
+            "height": 256,
+            "chars": [
+                "\u2021"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_waystones_main.png",
             "ascent": 17,
             "height": 256,
             "chars": [
                 "\u2100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_1.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_2.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_3.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_4.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_5.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_6.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_7.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_8.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_9.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2109"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_10.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_11.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2111"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_12.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2112"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_13.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2113"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_14.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2114"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_15.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2115"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_16.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2116"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_17.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2117"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_18.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2118"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_19.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2120"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_20.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2120"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_21.png",
+            "ascent": 17,
+            "height": 64,
+            "chars": [
+                "\u2121"
             ]
         }
     ]
