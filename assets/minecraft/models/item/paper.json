@@ -82,6 +82,28 @@
     { "predicate": { "custom_model_data": 1100}, "model": "adriftus:item/trade_menu/confirm_overlay_11" },
     { "predicate": { "custom_model_data": 1101}, "model": "adriftus:item/trade_menu/confirm_overlay_12" },
     { "predicate": { "custom_model_data": 1102}, "model": "adriftus:item/trade_menu/confirm_overlay_21" },
-    { "predicate": { "custom_model_data": 1103}, "model": "adriftus:item/trade_menu/confirm_overlay_22" }
+    { "predicate": { "custom_model_data": 1103}, "model": "adriftus:item/trade_menu/confirm_overlay_22" },
+
+    { "predicate": { "custom_model_data": 2001}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_1" },
+    { "predicate": { "custom_model_data": 2002}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_2" },
+    { "predicate": { "custom_model_data": 2003}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_3" },
+    { "predicate": { "custom_model_data": 2004}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_4" },
+    { "predicate": { "custom_model_data": 2005}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_5" },
+    { "predicate": { "custom_model_data": 2006}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_6" },
+    { "predicate": { "custom_model_data": 2007}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_7" },
+    { "predicate": { "custom_model_data": 2008}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_8" },
+    { "predicate": { "custom_model_data": 2009}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_9" },
+    { "predicate": { "custom_model_data": 2010}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_10" },
+    { "predicate": { "custom_model_data": 2011}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_11" },
+    { "predicate": { "custom_model_data": 2012}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_12" },
+    { "predicate": { "custom_model_data": 2013}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_13" },
+    { "predicate": { "custom_model_data": 2014}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_14" },
+    { "predicate": { "custom_model_data": 2015}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_15" },
+    { "predicate": { "custom_model_data": 2016}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_16" },
+    { "predicate": { "custom_model_data": 2017}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_17" },
+    { "predicate": { "custom_model_data": 2018}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_18" },
+    { "predicate": { "custom_model_data": 2019}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_19" },
+    { "predicate": { "custom_model_data": 2020}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_20" },
+    { "predicate": { "custom_model_data": 2021}, "model": "adriftus:item/travel_menu/calipolis/cal_loc_21" }
   ]
 }

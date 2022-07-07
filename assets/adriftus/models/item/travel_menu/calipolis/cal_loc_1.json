@@ -1,0 +1,12 @@
+{
+  "gui_light": "front",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_location_icon_1"
+  },
+  "display": {
+	"gui": {
+		"translation": [0, 0, 0]
+	}
+  }
+}
