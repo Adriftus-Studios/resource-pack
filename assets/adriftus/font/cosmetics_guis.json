@@ -1,55 +1,31 @@
 {
     "providers": [
         {
-            "type": "ttf",
-            "file": "adriftus:negative_spaces.ttf",
-            "shift": [0.0, 0.0],
-            "size": 10.0,
-            "oversample": 1.0
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/cosmetics/cosmetics_base.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u0001"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/cosmetics/cosmetics_overlay_bowtrails.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u0002"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/cosmetics/cosmetics_overlay_masks.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u0003"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:custom_gui/cosmetics/cosmetics_overlay_titles.png",
-            "ascent": 17.75,
-            "height": 256,
-            "chars": [
-                "\u0004"
-            ]
-        },
+		"type": "space",
+		"advances": {
+			"\uF801": -1,
+			"\uF802": -2,
+			"\uF803": -3,
+			"\uF804": -4,
+			"\uF805": -5,
+			"\uF806": -6,
+			"\uF807": -7,
+			"\uF808": -8,
+			"\uF809": -16,
+			"\uF80A": -32,
+			"\uF80B": -64,
+			"\uF80C": -128,
+			"\uF80D": -512,
+			"\uF80E": -1024
+		}
+    	},
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/cosmetics/cosmetics_menu.png",
             "ascent": 17.75,
             "height": 256,
             "chars": [
-                "\u0005"
+                "\u1005"
             ]
         },
         {
@@ -58,7 +34,7 @@
             "ascent": 17.75,
             "height": 256,
             "chars": [
-                "\u0006"
+                "\u1006"
             ]
         },
         {
@@ -67,7 +43,7 @@
             "ascent": 17.75,
             "height": 256,
             "chars": [
-                "\u0007"
+                "\u1007"
             ]
         },
         {
@@ -76,7 +52,7 @@
             "ascent": 17.75,
             "height": 256,
             "chars": [
-                "\u0008"
+                "\u1008"
             ]
         },
         {
@@ -85,7 +61,7 @@
             "ascent": 17.75,
             "height": 256,
             "chars": [
-                "\u0009"
+                "\u1009"
             ]
         }
     ]
