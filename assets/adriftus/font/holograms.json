@@ -72,6 +72,15 @@
             "chars": [
                 "\u1006"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/calipolis.png",
+            "ascent": 100,
+            "height": 500,
+            "chars": [
+                "\u1007"
+            ]
         }
     ]
 }
