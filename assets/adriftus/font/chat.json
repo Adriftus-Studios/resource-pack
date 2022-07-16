@@ -120,6 +120,17 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis_icon.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u1012"
+            ]
+        },
+	    
+	    
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_chat/discord.png",
             "ascent": 8,
             "height": 10,
