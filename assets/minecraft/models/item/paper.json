@@ -74,6 +74,8 @@
     { "predicate": { "custom_model_data": 516}, "model": "adriftus:item/chat/chat_icon_world_test_inactive" },
     { "predicate": { "custom_model_data": 517}, "model": "adriftus:item/chat/chat_icon_world_zanzar" },
     { "predicate": { "custom_model_data": 518}, "model": "adriftus:item/chat/chat_icon_world_zanzar_inactive" },
+    { "predicate": { "custom_model_data": 519}, "model": "adriftus:item/chat/chat_icon_world_calipolis" },
+    { "predicate": { "custom_model_data": 520}, "model": "adriftus:item/chat/chat_icon_world_calipolis_inactive" },
 
     { "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/mail_run/mail_item_1" },
     { "predicate": { "custom_model_data": 1002}, "model": "adriftus:item/mail_run/mail_item_2" },
