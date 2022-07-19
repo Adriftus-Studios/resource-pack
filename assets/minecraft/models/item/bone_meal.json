@@ -27,13 +27,13 @@
 	{ "predicate": { "custom_model_data": 11006 }, "model": "adriftus:plushes/chibi/lost_soul" },
 	{ "predicate": { "custom_model_data": 11007 }, "model": "adriftus:plushes/chibi/spring_fae" },
 	{ "predicate": { "custom_model_data": 11008 }, "model": "adriftus:plushes/chibi/summer_fae" },
-	{ "predicate": { "custom_model_data": 11009 }, "model": "adriftus:plushes/chibi/summer_fae_flying" }
+	{ "predicate": { "custom_model_data": 11009 }, "model": "adriftus:plushes/chibi/summer_fae_flying" },
 
 
 	{ "predicate": { "custom_model_data": 1300000 }, "model": "adriftus:plushes/smallboi/smallboi_base" },
 	{ "predicate": { "custom_model_data": 1300001 }, "model": "adriftus:plushes/smallboi/angel/smallboi_angel" },
 	{ "predicate": { "custom_model_data": 1300002 }, "model": "adriftus:plushes/smallboi/devil/smallboi_devil" },
-	{ "predicate": { "custom_model_data": 1300003 }, "model": "adriftus:plushes/smallboi/gamer/smallboi_gamer" },
+	{ "predicate": { "custom_model_data": 1300003 }, "model": "adriftus:plushes/smallboi/gamer/smallboi_gamer" }
 
 
   ]
