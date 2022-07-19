@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/bone_meal"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 10001 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_creeper" }
+    { "predicate": { "custom_model_data": 10001 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_creeper" },
 	{ "predicate": { "custom_model_data": 10002 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_drowned" },
 	{ "predicate": { "custom_model_data": 10003 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_husk" },
 	{ "predicate": { "custom_model_data": 10004 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_piglin" },
@@ -14,7 +14,7 @@
 	{ "predicate": { "custom_model_data": 10008 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_skeleton" },
 	{ "predicate": { "custom_model_data": 10009 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_stray" },
 	{ "predicate": { "custom_model_data": 10010 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_wither_skeleton" },
-	{ "predicate": { "custom_model_data": 10011 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_zombie" },
+	{ "predicate": { "custom_model_data": 10011 }, "model": "adriftus:item/models/furniture/plushes/chibis/chibi_plush_zombie" }
 
   ]
 }
