@@ -26,7 +26,7 @@
 	{ "predicate": { "custom_model_data": 11005 }, "model": "adriftus:plushes/chibi/goblin" },
 	{ "predicate": { "custom_model_data": 11006 }, "model": "adriftus:plushes/chibi/lost_soul" },
 	{ "predicate": { "custom_model_data": 11007 }, "model": "adriftus:plushes/chibi/spring_fae" },
-	{ "predicate": { "custom_model_data": 11008 }, "model": "adriftus:plushes/chibi/spring_fae" },
+	{ "predicate": { "custom_model_data": 11008 }, "model": "adriftus:plushes/chibi/spring_fae_flying" },
 	{ "predicate": { "custom_model_data": 11009 }, "model": "adriftus:plushes/chibi/summer_fae" },
 	{ "predicate": { "custom_model_data": 11010 }, "model": "adriftus:plushes/chibi/summer_fae_flying" },
 	{ "predicate": { "custom_model_data": 11011 }, "model": "adriftus:plushes/chibi/autumn_fae" },
