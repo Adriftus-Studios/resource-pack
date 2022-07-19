@@ -1,6 +1,6 @@
 {
 	"credit": "Made by Aedia for Adriftus",
-	"parent": "adriftus:models/plushes/chibi/skeleton",
+	"parent": "adriftus:plushes/chibi/skeleton",
 	"textures": {
 		"1": "adriftus:plushes/chibi/wither_skeleton",
 		"particle": "adriftus:plushes/chibi/wither_skeleton"
