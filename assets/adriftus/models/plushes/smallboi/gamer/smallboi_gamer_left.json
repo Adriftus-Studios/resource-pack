@@ -2,9 +2,9 @@
 	"credit": "Made by Aedia for Adriftus",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "adriftus:furniture/plushes/smallboi/gamer/chibi_smallboi_gamer",
+		"1": "adriftus:plushes/smallboi/gamer/smallboi_gamer",
 		"2": "adriftus:logos/icon/letter_small",
-		"particle": "adriftus:furniture/plushes/smallboi/gamer/chibi_smallboi_gamer"
+		"particle": "adriftus:plushes/smallboi/gamer/smallboi_gamer"
 	},
 	"elements": [
 		{

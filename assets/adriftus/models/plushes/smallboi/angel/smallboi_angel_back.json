@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Aedia for Adriftus",
 	"textures": {
-		"2": "adriftus:furniture/plushes/smallboi/angel/chibi_smallboi_angel",
-		"particle": "adriftus:furniture/plushes/smallboi/chibi_smallboi_base"
+		"2": "adriftus:plushes/smallboi/angel/smallboi_angel",
+		"particle": "adriftus:plushes/smallboi/base/smallboi_base"
 	},
 	"elements": [
 		{
