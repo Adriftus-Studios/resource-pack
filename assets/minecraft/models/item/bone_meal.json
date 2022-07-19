@@ -4,17 +4,17 @@
     "layer0": "minecraft:item/bone_meal"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 10001 }, "model": "adriftus:models/furniture/plushes/chibis/creeper" },
-	{ "predicate": { "custom_model_data": 10002 }, "model": "adriftus:models/furniture/plushes/chibis/drowned" },
-	{ "predicate": { "custom_model_data": 10003 }, "model": "adriftus:models/furniture/plushes/chibis/husk" },
-	{ "predicate": { "custom_model_data": 10004 }, "model": "adriftus:models/furniture/plushes/chibis/piglin" },
-	{ "predicate": { "custom_model_data": 10005 }, "model": "adriftus:models/furniture/plushes/chibis/piglin_brute" },
-	{ "predicate": { "custom_model_data": 10006 }, "model": "adriftus:models/furniture/plushes/chibis/piglin_zombified" },
-	{ "predicate": { "custom_model_data": 10007 }, "model": "adriftus:models/furniture/plushes/chibis/player_base" },
-	{ "predicate": { "custom_model_data": 10008 }, "model": "adriftus:models/furniture/plushes/chibis/skeleton" },
-	{ "predicate": { "custom_model_data": 10009 }, "model": "adriftus:models/furniture/plushes/chibis/stray" },
-	{ "predicate": { "custom_model_data": 10010 }, "model": "adriftus:models/furniture/plushes/chibis/wither_skeleton" },
-	{ "predicate": { "custom_model_data": 10011 }, "model": "adriftus:models/furniture/plushes/chibis/zombie" }
+    { "predicate": { "custom_model_data": 10001 }, "model": "adriftus:models/plushes/chibi/creeper" },
+	{ "predicate": { "custom_model_data": 10002 }, "model": "adriftus:models/plushes/chibi/drowned" },
+	{ "predicate": { "custom_model_data": 10003 }, "model": "adriftus:models/plushes/chibi/husk" },
+	{ "predicate": { "custom_model_data": 10004 }, "model": "adriftus:models/plushes/chibi/piglin" },
+	{ "predicate": { "custom_model_data": 10005 }, "model": "adriftus:models/plushes/chibi/piglin_brute" },
+	{ "predicate": { "custom_model_data": 10006 }, "model": "adriftus:models/plushes/chibi/piglin_zombified" },
+	{ "predicate": { "custom_model_data": 10007 }, "model": "adriftus:models/plushes/chibi/player_base" },
+	{ "predicate": { "custom_model_data": 10008 }, "model": "adriftus:models/plushes/chibi/skeleton" },
+	{ "predicate": { "custom_model_data": 10009 }, "model": "adriftus:models/plushes/chibi/stray" },
+	{ "predicate": { "custom_model_data": 10010 }, "model": "adriftus:models/plushes/chibi/wither_skeleton" },
+	{ "predicate": { "custom_model_data": 10011 }, "model": "adriftus:models/plushes/chibi/zombie" }
 
   ]
 }

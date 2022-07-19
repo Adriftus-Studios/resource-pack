@@ -2,8 +2,8 @@
 	"credit": "Made by Aedia for Adriftus",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "adriftus:furniture/plushes/chibis/chibi_plush_skeleton",
-		"particle": "adriftus:furniture/plushes/chibis/chibi_plush_skeleton"
+		"1": "adriftus:plushes/chibi/skeleton",
+		"particle": "adriftus:plushes/chibi/skeleton"
 	},
 	"elements": [
 		{

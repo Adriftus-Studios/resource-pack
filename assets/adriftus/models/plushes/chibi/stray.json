@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Aedia for Adriftus",
+	"parent": "adriftus:models/plushes/chibi/skeleton",
+	"textures": {
+		"1": "adriftus:plushes/chibi/stray",
+		"particle": "adriftus:plushes/chibi/stray"
+	}
+}

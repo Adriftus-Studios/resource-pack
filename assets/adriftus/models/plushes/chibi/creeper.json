@@ -2,8 +2,8 @@
 	"credit": "Made by Aedia for Adriftus",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "adriftus:furniture/plushes/chibis/chibi_plush_creeper",
-		"particle": "adriftus:furniture/plushes/chibis/chibi_plush_creeper"
+		"1": "adriftus:plushes/chibi/creeper",
+		"particle": "adriftus:plushes/chibi/creeper"
 	},
 	"elements": [
 		{
