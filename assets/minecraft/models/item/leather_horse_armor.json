@@ -31,6 +31,8 @@
     { "predicate": { "custom_model_data": 304}, "model": "adriftus:item/blood_magic/array5" },
     { "predicate": { "custom_model_data": 305}, "model": "adriftus:item/blood_magic/array6" },
     { "predicate": { "custom_model_data": 306}, "model": "adriftus:item/blood_magic/basearray" },
-    { "predicate": { "custom_model_data": 307}, "model": "adriftus:item/blood_magic/bindingarray" }
+    { "predicate": { "custom_model_data": 307}, "model": "adriftus:item/blood_magic/bindingarray" },
+    { "predicate": { "custom_model_data": 1000}, "model": "adriftus:item/inventory/arrow_left_3px" },
+    { "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/inventory/arrow_right_3px" }
     ]
 }
