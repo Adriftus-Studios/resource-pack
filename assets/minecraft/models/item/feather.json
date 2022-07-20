@@ -52,6 +52,7 @@
     { "predicate": { "custom_model_data": 305}, "model": "adriftus:item/misc_items/gravestone3_cd" },
     { "predicate": { "custom_model_data": 306}, "model": "adriftus:item/misc_items/gravestone4" },
     { "predicate": { "custom_model_data": 307}, "model": "adriftus:item/misc_items/gravestone4_cd" },
-    { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/misc_items/multiverse_dust" }
+    { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/misc_items/multiverse_dust" },
+    { "predicate": { "custom_model_data": 501}, "model": "adriftus:item/misc_items/multiverse_dust_empty" }
   ]
 }
