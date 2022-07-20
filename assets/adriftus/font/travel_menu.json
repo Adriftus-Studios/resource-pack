@@ -508,6 +508,60 @@
             "chars": [
                 "\u2121"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_test_overlay.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u5000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_test_overlay_inactive.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u5001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_build_overlay.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u5002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_build_overlay_inactive.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u5003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_hub_overlay.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u5004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/travel_menu_hub_overlay_inactive.png",
+            "ascent": 36.75,
+            "height": 256,
+            "chars": [
+                "\u5005"
+            ]
         }
     ]
 }
