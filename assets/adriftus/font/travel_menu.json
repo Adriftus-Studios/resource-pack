@@ -566,7 +566,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/crystals_overlay.png",
-            "ascent": -77.5,
+            "ascent": -79,
             "height": 128,
             "chars": [
                 "\u5100"
