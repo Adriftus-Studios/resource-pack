@@ -43,6 +43,7 @@
     { "predicate": { "custom_model_data": 200}, "model": "adriftus:item/misc_items/scroll_blue" },
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/misc_items/scroll_red" },
     { "predicate": { "custom_model_data": 202}, "model": "adriftus:item/misc_items/scroll_yellow" },
+    { "predicate": { "custom_model_data": 203}, "model": "adriftus:item/misc_items/scroll_empty" },
 
     { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/misc_items/gravestone1" },
     { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/misc_items/gravestone1_cd" },
