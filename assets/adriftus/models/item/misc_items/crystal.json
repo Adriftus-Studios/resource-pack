@@ -409,7 +409,7 @@
 		"gui": {
 			"rotation": [3, -31, -13],
 			"translation": [-1, -4.5, 0],
-			"scale": [0.7, 0.7, 0.7]
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"head": {
 			"translation": [0, -38, 0],
