@@ -2,22 +2,20 @@
 	"credit": "Made by Aedia for Adriftus",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "adriftus:furniture/plushes/smallboi/pumpkin/chibi_smallboi_skare_base",
-		"particle": "adriftus:furniture/plushes/smallboi/pumpkin/chibi_smallboi_skare_base"
+		"1": "adriftus:plushes/smallboi/zombie/smallboi_zombie",
+		"particle": "adriftus:plushes/smallboi/zombie/smallboi_zombie"
 	},
 	"elements": [
 		{
-			"name": "head",
-			"from": [6.498, 3.498, 6.748],
-			"to": [11.018, 8.018, 11.268],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.75, 5, 8.75]},
+			"from": [11, 0.5, 7.75],
+			"to": [13, 2.5, 9.75],
 			"faces": {
-				"north": {"uv": [14, 14, 16, 16], "texture": "#1"},
-				"east": {"uv": [12, 14, 14, 16], "texture": "#1"},
-				"south": {"uv": [12, 14, 14, 16], "texture": "#1"},
-				"west": {"uv": [12, 14, 14, 16], "texture": "#1"},
-				"up": {"uv": [10, 14, 12, 16], "texture": "#1"},
-				"down": {"uv": [10, 14, 12, 16], "texture": "#1"}
+				"north": {"uv": [14.75, 12.5, 15.75, 13.5], "texture": "#1"},
+				"east": {"uv": [13.75, 13.5, 14.75, 14.5], "texture": "#1"},
+				"south": {"uv": [12.75, 12.5, 13.75, 13.5], "texture": "#1"},
+				"west": {"uv": [13.75, 11.5, 14.75, 12.5], "texture": "#1"},
+				"up": {"uv": [13.75, 12.5, 14.75, 13.5], "texture": "#1"},
+				"down": {"uv": [13.75, 14.5, 14.75, 15.5], "texture": "#1"}
 			}
 		}
 	],
