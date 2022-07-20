@@ -81,6 +81,15 @@
             "chars": [
                 "\u1007"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/banner_designer.png",
+            "ascent": 100,
+            "height": 256,
+            "chars": [
+                "\u2001"
+            ]
         }
     ]
 }
