@@ -15,6 +15,7 @@
 	{ "predicate": { "custom_model_data": 10009 }, "model": "adriftus:plushes/chibi/stray" },
 	{ "predicate": { "custom_model_data": 10010 }, "model": "adriftus:plushes/chibi/wither_skeleton" },
 	{ "predicate": { "custom_model_data": 10011 }, "model": "adriftus:plushes/chibi/zombie" },
+	{ "predicate": { "custom_model_data": 10012 }, "model": "adriftus:plushes/chibi/warden" },
 
 
 
