@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/misc_items/red_scroll"
+    "layer0": "adriftus:item/misc_items/scroll_blue"
   }
 }
