@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tinfoil_hat_texture",
-		"particle": "tinfoil_hat_texture"
+		"0": "adriftus:item/hats/tinfoil_hat_texture",
+		"particle": "adriftus:item/hats/tinfoil_hat_texture"
 	},
 	"elements": [
 		{
