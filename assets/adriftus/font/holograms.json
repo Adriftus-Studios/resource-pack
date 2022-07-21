@@ -94,7 +94,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:holograms/banner_shop.png",
-            "ascent": 100,
+            "ascent": 0,
             "height": 256,
             "chars": [
                 "\u2002"
