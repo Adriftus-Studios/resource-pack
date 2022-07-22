@@ -328,7 +328,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_waystones_main.png",
-            "ascent": 17,
+            "ascent": 16,
             "height": 256,
             "chars": [
                 "\u2100"
@@ -521,6 +521,24 @@
             "height": 16,
             "chars": [
                 "\u2121"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_waystones_overlay_admin.png",
+            "ascent": 16,
+            "height": 256,
+            "chars": [
+                "\u2200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_waystones_overlay_player.png",
+            "ascent": 16,
+            "height": 256,
+            "chars": [
+                "\u2201"
             ]
         },
         {
