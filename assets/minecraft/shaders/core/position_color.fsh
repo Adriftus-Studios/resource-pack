@@ -1,7 +1,4 @@
-#version 440 core
-
-#define TOOLTIP_Z_MIN -0.4
-#define TOOLTIP_Z_MAX -0.399
+#version 440
 
 in vec4 vertexColor;
 in vec4 position;
