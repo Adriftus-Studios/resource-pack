@@ -1,6 +1,11 @@
-#version 150
+#version 440 core
+
+#define TOOLTIP_Z_MIN -0.4
+#define TOOLTIP_Z_MAX -0.399
 
 in vec4 vertexColor;
+in vec4 position;
+in float dis;
 
 uniform vec4 ColorModulator;
 uniform float GameTime;
@@ -24,8 +29,9 @@ void main() {
         discard;
     }
 
-    // This is the method I've used to capture the sidebar background
-    // We just make it go poof!
+    if (dis > 0.1) discard;
+
+    // sidebar background
     if (((color.a >= 0.29 && color.a < 0.3 ) || ( color.a > 0.39 && color.a <= 0.40)) && (color.r < 0.1)) discard;
 
     fragColor = color * ColorModulator;
