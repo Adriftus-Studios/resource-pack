@@ -77,6 +77,33 @@
             "chars": [
                 "\u1009"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/cosmetics/cosmetics_plushies.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u1010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/cosmetics/cosmetics_toys.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u1011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/cosmetics/plushy_display_gui.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u2000"
+            ]
         }
     ]
 }
