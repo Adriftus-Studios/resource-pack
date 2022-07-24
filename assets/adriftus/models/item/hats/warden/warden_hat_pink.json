@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Aedia for Adriftus",
+	"parent": "adriftus:item/hats/warden/warden_hat_cyan",
+	"textures": {
+		"1": "adriftus:item/hats/warden/warden_hat_pink",
+		"particle": "adriftus:item/hats/warden/warden_hat_pink"
+	}
+}
