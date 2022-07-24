@@ -1,7 +1,5 @@
 #version 440
 
-#define BOTTOM_Y -1
-
 #define TOOLTIP_Z_MIN -0.4
 #define TOOLTIP_Z_MAX -0.399
 
@@ -18,8 +16,7 @@ out vec4 position;
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
 
-    // Based on the work by:
-    // Credit: lolgeny
+    // Based on the work by: lolgeny
     // Link: https://github.com/lolgeny/item-tooltip-remover
     position = gl_Position;
     dis = 0.0;
