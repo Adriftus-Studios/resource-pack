@@ -20,6 +20,7 @@
     { "predicate": { "custom_model_data": 14 }, "model": "adriftus:item/misc_items/diamond_armour_set"},
     
 
+    { "predicate": { "custom_model_data": 19 }, "model": "adriftus:item/waystones/gui_waystone"},
     { "predicate": { "custom_model_data": 20 }, "model": "adriftus:item/waystones/waystone"},
 
     { "predicate": { "custom_model_data": 21 }, "model": "adriftus:item/dwarven/rock_spore"},

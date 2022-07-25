@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+        "parent": "adriftus:item/waystones/waystone",
+	"display": {
+		"gui": {
+			"rotation": [12, 12, 0],
+			"translation": [-10, 42, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}
