@@ -1,0 +1,83 @@
+{
+    "providers": [
+        {
+	  "type": "space",
+	  "advances": {
+                "\uF601": 177,
+		"\uF801": -1,
+		"\uF802": -2,
+		"\uF803": -3,
+		"\uF804": -4,
+		"\uF805": -5,
+		"\uF806": -6,
+		"\uF807": -7,
+		"\uF808": -8,
+		"\uF809": -16,
+		"\uF80A": -32,
+		"\uF80B": -64,
+		"\uF80C": -128,
+		"\uF80D": -512,
+		"\uF80E": -1024,
+                "\uF901": 1,
+                "\uF902": 2,
+                "\uF903": 3,
+                "\uF904": 4,
+                "\uF905": 5,
+                "\uF906": 6,
+                "\uF907": 7,
+                "\uF908": 8,
+                "\uF909": 16,
+                "\uF90A": 32,
+                "\uF90B": 64,
+                "\uF90C": 128,
+                "\uF90D": 512,
+                "\uF90E": 1024
+		}
+    	},
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/herocraft/missions_gui/towny_missions_base.png",
+            "ascent": 28.75,
+            "height": 256,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/herocraft/missions_gui/towny_missions_overlay_daily.png",
+            "ascent": 28.75,
+            "height": 256,
+            "chars": [
+                "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/herocraft/missions_gui/towny_missions_overlay_weekly.png",
+            "ascent": 28.75,
+            "height": 256,
+            "chars": [
+                "\u1003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/herocraft/missions_gui/towny_missions_overlay_monthly.png",
+            "ascent": 28.75,
+            "height": 256,
+            "chars": [
+                "\u1004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/herocraft/missions_gui/towny_missions_overlay_herocraft.png",
+            "ascent": 28.75,
+            "height": 256,
+            "chars": [
+                "\u1005"
+            ]
+        }
+    ]
+}
