@@ -12,7 +12,6 @@
 	{ "predicate": { "custom_model_data": 6 }, "model": "adriftus:item/seasonal/christmas/elf_hat_blue" },
 	{ "predicate": { "custom_model_data": 7 }, "model": "adriftus:item/seasonal/halloween/franks_bolts" },
 
-
 	{ "predicate": { "custom_model_data": 10000 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_pink" },
 	{ "predicate": { "custom_model_data": 10001 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_blue" },
 	{ "predicate": { "custom_model_data": 10002 }, "model": "adriftus:item/hats/axolotl/axolotl_hat_cyan" },
@@ -30,5 +29,6 @@
 	{ "predicate": { "custom_model_data": 12001 }, "model": "adriftus:item/hats/warden/warden_hat_pink" },
 	{ "predicate": { "custom_model_data": 12002 }, "model": "adriftus:item/hats/warden/warden_hat_purple" },
 	{ "predicate": { "custom_model_data": 12003 }, "model": "adriftus:item/hats/warden/warden_hat_silver" }
+
   ]
 }

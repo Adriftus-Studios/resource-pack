@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/bone_meal"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 10000 }, "model": "adriftus:plushes/chibi_unskinned" },
     { "predicate": { "custom_model_data": 10001 }, "model": "adriftus:plushes/chibi/creeper" },
 	{ "predicate": { "custom_model_data": 10002 }, "model": "adriftus:plushes/chibi/drowned" },
 	{ "predicate": { "custom_model_data": 10003 }, "model": "adriftus:plushes/chibi/husk" },
@@ -14,9 +15,6 @@
 	{ "predicate": { "custom_model_data": 10009 }, "model": "adriftus:plushes/chibi/stray" },
 	{ "predicate": { "custom_model_data": 10010 }, "model": "adriftus:plushes/chibi/wither_skeleton" },
 	{ "predicate": { "custom_model_data": 10011 }, "model": "adriftus:plushes/chibi/zombie" },
-
-
-
 
 	{ "predicate": { "custom_model_data": 11002 }, "model": "adriftus:plushes/chibi/bee_knight" },
 	{ "predicate": { "custom_model_data": 11003 }, "model": "adriftus:plushes/chibi/angry_bee_knight" },
@@ -36,7 +34,6 @@
 	{ "predicate": { "custom_model_data": 1300001 }, "model": "adriftus:plushes/smallboi/angel/smallboi_angel" },
 	{ "predicate": { "custom_model_data": 1300002 }, "model": "adriftus:plushes/smallboi/devil/smallboi_devil" },
 	{ "predicate": { "custom_model_data": 1300003 }, "model": "adriftus:plushes/smallboi/gamer/smallboi_gamer" }
-
 
   ]
 }
