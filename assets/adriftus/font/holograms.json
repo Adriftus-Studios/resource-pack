@@ -98,6 +98,42 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:holograms/infographics/achest_infographic_1.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "\u1013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/achest_infographic_2.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "\u1014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/achest_infographic_3.png",
+            "ascent": -118,
+            "height": 256,
+            "chars": [
+                "\u1015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/achest_infographic_4.png",
+            "ascent": -118,
+            "height": 256,
+            "chars": [
+                "\u1016"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:holograms/banner_designer.png",
             "ascent": 100,
             "height": 256,
