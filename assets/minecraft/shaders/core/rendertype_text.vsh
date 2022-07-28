@@ -23,6 +23,7 @@ out vec2 texCoord0;
 
 // Constant for bouncy text
 const float BouncyArray[4] = float[4]( 0, 1, 0, -1 );
+const float SignBouncyArray[8] = float[8]( 0, 0.01, 0.02, 0.01, 0, -0.01, -0.02, -0.01);
 
 void main() {
     
@@ -34,15 +35,30 @@ void main() {
     // Check for Color Codes
     if (is010(vertexColor) || is001(vertexColor)) {
 
-        float ticker = mod((GameTime * 10000), 4) + (mod((Position.x), 512) / 64);
-        float final;
-        if (ticker > 3) {
-            final = mod(ticker, 4);
+        if (gl_Position.z > -10 && gl_Position.z < 9) {
+
+          float ticker = mod((GameTime * 10000), 8) + (mod((Position.x), 512) / 64);
+          float final;
+          if (ticker > 3) {
+              final = mod(ticker, 8);
+          }
+          else {
+              final = ticker;
+        }
+          gl_Position = ProjMat * ModelViewMat * vec4(Position.x, (Position.y + SignBouncyArray[int(final)]), Position.z, 1.0);
         }
         else {
-            final = ticker;
+
+          float ticker = mod((GameTime * 10000), 4) + (mod((Position.x), 512) / 64);
+          float final;
+          if (ticker > 3) {
+              final = mod(ticker, 4);
+          }
+          else {
+              final = ticker;
+          }
+          gl_Position = ProjMat * ModelViewMat * vec4(Position.x, (Position.y + BouncyArray[int(final)]), Position.z, 1.0);
         }
-        gl_Position = ProjMat * ModelViewMat * vec4(Position.x, (Position.y + BouncyArray[int(final)]), Position.z, 1.0);
         
     }
     else {
