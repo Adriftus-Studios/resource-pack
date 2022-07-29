@@ -23,7 +23,7 @@ out vec2 texCoord0;
 
 // Constant for bouncy text
 const float BouncyArray[4] = float[4]( 0, 1, 0, -1 );
-const float SignBouncyArray[8] = float[8]( 0, 0.01, 0.02, 0.01, 0, -0.01, -0.02, -0.01);
+const float SignBouncyArray[4] = float[4](0, 0.01, 0, -0.01);
 
 void main() {
     
@@ -37,10 +37,10 @@ void main() {
 
         if (gl_Position.z > -10 && gl_Position.z < 9) {
 
-          float ticker = mod((GameTime * 10000), 8) + (mod((Position.x), 512) / 64);
+          float ticker = mod((GameTime * 10000), 4) + (mod((Position.x * 10), 4));
           float final;
           if (ticker > 3) {
-              final = mod(ticker, 8);
+              final = mod(ticker, 4);
           }
           else {
               final = ticker;

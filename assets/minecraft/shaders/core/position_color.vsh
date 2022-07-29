@@ -15,6 +15,8 @@ out vec4 position;
 
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+    
+    if (position.x < -0.95) dis = 100.0;
 
     // Based on the work by: lolgeny
     // Link: https://github.com/lolgeny/item-tooltip-remover
@@ -23,6 +25,7 @@ void main() {
     if (
         ( (position.y > 2 || position.y < -2) || position.x < -2) &&
         position.z > TOOLTIP_Z_MIN && position.z < TOOLTIP_Z_MAX) dis = 100000000.0;
+    
 
     vertexColor = Color;
 

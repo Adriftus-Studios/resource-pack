@@ -16,6 +16,5 @@ void main() {
     texCoord0 = UV0;
     position = gl_Position;
     dis = 0.0;
-    //if (position.x > 0.5 && position.y > 0.75) dis = 100.0;
     if (position.z < -0.75) dis = 1000.0;
 } 

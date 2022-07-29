@@ -1,4 +1,4 @@
-#version 150
+#version 440 core
 
 uniform sampler2D Sampler0;
 
@@ -6,16 +6,18 @@ uniform vec4 ColorModulator;
 
 in vec2 texCoord0;
 in float dis;
+in vec4 position;
 
 out vec4 fragColor;
 
 void main() {
     vec4 color = texture(Sampler0, texCoord0);
-    if (color.a == 0.0) {
+    if (color.a == 0.0 || dis > 1000.1) {
         discard;
     }
 
     // There's gotta be a better way....
+    // Hopefully temporary fix
     if (dis > 0.0 && 
       ( 
         (color.b > 0.52 && color.b < 0.522)
@@ -31,6 +33,6 @@ void main() {
         (color.r > 0.36 && color.r < 0.37 && color.g > 0.36 && color.g < 0.37 && color.b == 0)
       ) 
     ) discard;
-
+    
     fragColor = color * ColorModulator;
 }

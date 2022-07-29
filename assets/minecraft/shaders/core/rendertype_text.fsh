@@ -1,4 +1,4 @@
-#version 400
+#version 440
 
 #moj_import <fog.glsl>
 #moj_import <identifiers.glsl>
@@ -36,7 +36,9 @@ void main() {
         discard;
     }
     
-    if (is200(vertexColor) || is020(vertexColor)){
+    vec4 UVcolor = texture(Sampler0, texCoord0);
+
+    if (is200(vertexColor) || is020(vertexColor) || is002(vertexColor)){
         float final;
         float final1 = mod((GameTime * 10000), 51);
 
@@ -47,16 +49,39 @@ void main() {
             final = final1 * 4;
         }
         if (is020(vertexColor)) {
-            float final1 = mod((GameTime * 10000), 800);
+            color = mix(vec4(1, 0.6, 0, 1.0), vec4(0.8, 0.8, 0, 0.9), final/100);
         }
-
-        color = vec4(1.0, 1.0, 1.0, final/100);
+        else if (is002(vertexColor)) {
+                if (UVcolor.r < 0.1 && UVcolor.g > 0.33 && UVcolor.g < 0.35 && UVcolor.b > 0.79 && UVcolor.b < 0.81) {
+                  color = vec4(UVcolor.rgb, final/100);
+                }
+                else {
+                    color = UVcolor;
+                }
+        }
+        else {
+            color = vec4(1.0, 1.0, 1.0, final/100);
+        }
     }
+
 
     if (is010(vertexColor)){
         color = vec4(1.0, 1.0, 1.0, 1.0);
     }
     
+    if (is240240240(vertexColor)) {
+
+        float final = mod((GameTime * 10000), 8);
+        
+
+        if (UVcolor.r < 0.1 && UVcolor.g > 0.33 && UVcolor.g < 0.35 && UVcolor.b > 0.79 && UVcolor.b < 0.81) {
+            color = mix(UVcolor, vec4(RainbowArray[int(final)].rgb, 1.0), 0.8);
+        }
+        else {
+            color = UVcolor;
+        }
+    }
+
     if (is100(vertexColor) || is001(vertexColor)) {
 
         float final = mod((GameTime * 10000), 8);
