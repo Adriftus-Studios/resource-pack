@@ -2680,7 +2680,7 @@
   "enchantment.level.8": "VIII",
   "enchantment.level.9": "IX",
   "enchantment.level.10": "X",
-  "gui.advancements": "Advancements",
+  "gui.advancements": " ",
   "gui.stats": "Statistics",
   "gui.entity_tooltip.type": "Type: %s",
   "advancements.empty": "There doesn't seem to be anything here...",

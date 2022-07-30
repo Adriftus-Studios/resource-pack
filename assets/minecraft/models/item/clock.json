@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/clock_00"
+    "layer0": "minecraft:item/clock"
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/seasonal/thanksgiving/thanksgiving_hat" },

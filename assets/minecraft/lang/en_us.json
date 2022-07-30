@@ -4,6 +4,7 @@
   "language.code": "en_us",
   "container.inventory": " ",
   "container.crafting": " ",
+  "gui.advancements": " ",
   "item.nbt_tags": " ",
   "item.durability": " ",
   "adriftus.user.display_name": "%s",
