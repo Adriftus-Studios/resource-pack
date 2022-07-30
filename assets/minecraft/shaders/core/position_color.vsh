@@ -15,13 +15,14 @@ out vec4 position;
 
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
-    
-    if (position.x < -0.95) dis = 100.0;
+    position = gl_Position;
 
     // Based on the work by: lolgeny
     // Link: https://github.com/lolgeny/item-tooltip-remover
-    position = gl_Position;
     dis = 0.0;
+    
+    if (position.x < -0.95) dis = 100.0;
+    if (position.x > 0.8) dis = 100.0;
     if (
         ( (position.y > 2 || position.y < -2) || position.x < -2) &&
         position.z > TOOLTIP_Z_MIN && position.z < TOOLTIP_Z_MAX) dis = 100000000.0;

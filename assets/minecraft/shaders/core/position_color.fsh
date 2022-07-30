@@ -31,7 +31,7 @@ void main() {
     if (dis > 1.0 && color.r > 0.62 && color.r < 0.63 && color.g > 0.62 && color.g < 0.63 && color.b > 0.62 && color.b < 0.63) discard; 
 
     // sidebar background
-    if (((color.a >= 0.29 && color.a < 0.3 ) || ( color.a > 0.39 && color.a <= 0.40)) && (color.r < 0.1)) discard;
+    if (((color.a >= 0.29 && color.a < 0.3 ) || ( color.a > 0.39 && color.a <= 0.40)) && (color.r < 0.1) && (color.a > 0.29 && color.a < 0.5) && dis > 10) discard;
 
     fragColor = color * ColorModulator;
 }
