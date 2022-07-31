@@ -78,7 +78,7 @@ void main() {
               final1 = mod((GameTime * 10000), 17);
             }
             else {
-              final1 = mod((GameTime * 10012), 17);
+              final1 = mod((GameTime * 10020), 17);
             }
 
             if (final1 > 8) {
