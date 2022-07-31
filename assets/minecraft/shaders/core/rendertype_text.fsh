@@ -19,6 +19,8 @@ in vec4 ColorCode;
 
 out vec4 fragColor;
 
+const float oneTexel = 1./256;
+
 // Constant for the rainbow array
 const vec3 RainbowArray[8] = vec3[8](
     vec3( 1.0, 0.0, 0.0 ),
@@ -70,22 +72,23 @@ void main() {
 
             float final;
             float final1;
+            vec4 UVup = texture(Sampler0, vec2(texCoord0.x + oneTexel, texCoord0.y));
 
             if ((UVcolor.b > 0.019) && (UVcolor.b < 0.022)) {
-              final1 = mod((GameTime * 10000), 11);
+              final1 = mod((GameTime * 10000), 17);
             }
             else {
-              final1 = mod((GameTime * 10010), 11);
+              final1 = mod((GameTime * 10012), 17);
             }
 
-            if (final1 > 5) {
-                final =  (5 - (final1 - 5)) * 20;
+            if (final1 > 8) {
+                final =  (8 - (final1 - 8)) * 10;
             }
             else {
-                final = final1 * 20;
+                final = final1 * 10;
             }
             
-            color = mix(vec4(0.66, 0.66, 0.66, 1.0), vec4(1.0, 1.0, 1.0, 1.0), final/100);
+            color = mix(UVup, vec4(1.0, 1.0, 1.0, 1.0), (final+20)/100);
         }
         else {
             color = UVcolor;
