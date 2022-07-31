@@ -20,6 +20,7 @@ uniform float GameTime;
 out float vertexDistance;
 out vec4 vertexColor;
 out vec2 texCoord0;
+out vec4 ColorCode;
 
 // Constant for bouncy text
 const float BouncyArray[4] = float[4]( 0, 1, 0, -1 );
@@ -31,6 +32,7 @@ void main() {
     vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
     vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
     texCoord0 = UV0;
+    ColorCode = Color;
 
     // Check for Color Codes
     if (is010(vertexColor) || is001(vertexColor)) {

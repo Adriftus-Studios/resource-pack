@@ -15,6 +15,7 @@ uniform float GameTime;
 in float vertexDistance;
 in vec4 vertexColor;
 in vec2 texCoord0;
+in vec4 ColorCode;
 
 out vec4 fragColor;
 
@@ -61,6 +62,33 @@ void main() {
         }
         else {
             color = vec4(1.0, 1.0, 1.0, final/100);
+        }
+    }
+
+    if (is003(ColorCode)) {
+        if ((UVcolor.b > 0.019) && (UVcolor.b < 0.024) && (UVcolor.r == 0) && (UVcolor.g == 0)) {
+
+            float final;
+            float final1;
+
+            if ((UVcolor.b > 0.019) && (UVcolor.b < 0.022)) {
+              final1 = mod((GameTime * 10000), 11);
+            }
+            else {
+              final1 = mod((GameTime * 10010), 11);
+            }
+
+            if (final1 > 5) {
+                final =  (5 - (final1 - 5)) * 20;
+            }
+            else {
+                final = final1 * 20;
+            }
+            
+            color = mix(vec4(0.66, 0.66, 0.66, 1.0), vec4(1.0, 1.0, 1.0, 1.0), final/100);
+        }
+        else {
+            color = UVcolor;
         }
     }
 
