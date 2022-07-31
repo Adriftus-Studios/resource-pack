@@ -134,6 +134,15 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:holograms/soccer_net.png",
+            "ascent": 132,
+            "height": 256,
+            "chars": [
+                "\u2000"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:holograms/banner_designer.png",
             "ascent": 100,
             "height": 256,
