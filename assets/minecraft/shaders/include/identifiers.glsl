@@ -32,6 +32,14 @@ bool is003(vec4 a) {
     return (a.b < 0.013 && a.b > 0.01 && a.r == 0.0 && a.g == 0.0);
 }
 
+bool is300(vec4 a) {
+    return (a.r < 0.013 && a.r > 0.01 && a.b == 0.0 && a.g == 0.0);
+}
+
+bool is030(vec4 a) {
+    return (a.g < 0.013 && a.g > 0.01 && a.b == 0.0 && a.r == 0.0);
+}
+
 bool is240240240(vec4 a) {
     return (a.g > 0.93 && a.g < 0.931) && (a.r > 0.93 && a.r < 0.931) && (a.b > 0.93 && a.b < 0.931);
 }

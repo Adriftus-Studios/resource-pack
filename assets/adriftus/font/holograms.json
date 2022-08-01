@@ -167,6 +167,15 @@
             "chars": [
                 "\u2003"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/rgb_test.png",
+            "ascent": 100,
+            "height": 256,
+            "chars": [
+                "\u2004"
+            ]
         }
     ]
 }

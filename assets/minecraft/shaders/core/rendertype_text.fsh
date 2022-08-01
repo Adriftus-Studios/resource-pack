@@ -35,13 +35,20 @@ const vec3 RainbowArray[8] = vec3[8](
 
 void main() {
     vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
+
+    vec4 UVcolor = texture(Sampler0, texCoord0);
+
+    if (is300(ColorCode) || is030(ColorCode)) {
+        float final = mod((GameTime * 100000), 256);
+        float final1 = mod((gl_FragCoord.x * 1000), 256);
+        color = texture(Sampler0, vec2(texCoord0.x + (oneTexel * final), texCoord0.y));
+    }
     if (color.a < 0.1) {
         discard;
     }
     
-    vec4 UVcolor = texture(Sampler0, texCoord0);
 
-    if (is200(vertexColor) || is020(vertexColor) || is002(vertexColor)){
+    if (is200(ColorCode) || is020(ColorCode) || is002(ColorCode)){
         float final;
         float final1 = mod((GameTime * 10000), 51);
 
@@ -51,10 +58,10 @@ void main() {
         else {
             final = final1 * 4;
         }
-        if (is020(vertexColor)) {
+        if (is020(ColorCode)) {
             color = mix(vec4(1, 0.6, 0, 1.0), vec4(0.8, 0.8, 0, 0.9), final/100);
         }
-        else if (is002(vertexColor)) {
+        else if (is002(ColorCode)) {
                 if (UVcolor.r < 0.1 && UVcolor.g > 0.33 && UVcolor.g < 0.35 && UVcolor.b > 0.79 && UVcolor.b < 0.81) {
                   color = vec4(UVcolor.rgb, final/100);
                 }
@@ -96,11 +103,11 @@ void main() {
     }
 
 
-    if (is010(vertexColor)){
+    if (is010(ColorCode)){
         color = vec4(1.0, 1.0, 1.0, 1.0);
     }
     
-    if (is240240240(vertexColor)) {
+    if (is240240240(ColorCode)) {
 
         float final = mod((GameTime * 10000), 8);
         
@@ -113,7 +120,7 @@ void main() {
         }
     }
 
-    if (is100(vertexColor) || is001(vertexColor)) {
+    if (is100(ColorCode) || is001(ColorCode)) {
 
         float final = mod((GameTime * 10000), 8);
 

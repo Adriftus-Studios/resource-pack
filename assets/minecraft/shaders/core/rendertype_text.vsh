@@ -63,6 +63,9 @@ void main() {
         }
         
     }
+    else if (is030(ColorCode)) {
+        gl_Position = ProjMat * ModelViewMat * vec4(Position.x, Position.y, Position.z + 0.11, 1.0);
+    }
     else {
         // Vanilla Code
         gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
