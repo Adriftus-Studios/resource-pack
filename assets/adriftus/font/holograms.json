@@ -134,6 +134,42 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:holograms/infographics/hc_infographic_1.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "\u1023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/hc_infographic_2.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": [
+                "\u1024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/hc_infographic_3.png",
+            "ascent": -118,
+            "height": 256,
+            "chars": [
+                "\u1025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:holograms/infographics/hc_infographic_4.png",
+            "ascent": -118,
+            "height": 256,
+            "chars": [
+                "\u1026"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:holograms/soccer_net.png",
             "ascent": 132,
             "height": 256,
