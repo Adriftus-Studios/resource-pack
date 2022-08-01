@@ -170,6 +170,15 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:holograms/hc_rtp.png",
+            "ascent": 100,
+            "height": 256,
+            "chars": [
+                "\u1027"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:holograms/soccer_net.png",
             "ascent": 132,
             "height": 256,
