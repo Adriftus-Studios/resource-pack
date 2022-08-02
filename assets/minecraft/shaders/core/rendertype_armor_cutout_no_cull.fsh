@@ -1,4 +1,4 @@
-#version 440
+#version 330
 
 #moj_import <fog.glsl>
 
@@ -31,11 +31,11 @@ void main() {
     vec4 color;
     float frame = 0.;
     if (UVshift.b > 0.001 && UVshift.b < 0.015) {
-      if (ColorCode.b > 0.90) {
+      if (ColorCode.b > 0.991 && ColorCode.b < 0.995) {
         frame = round(ColorCode.r * 255);
       }
       uv = vec2(texCoord0.x, (oneTexel * (yRatio * frame)) + ((texCoord0.y * yRatio) * oneTexel));
-      if (ColorCode.b > 0.90) {
+      if (ColorCode.b > 0.991 && ColorCode.b < 0.995) {
           color = texture(Sampler0, uv);
         }
         else {

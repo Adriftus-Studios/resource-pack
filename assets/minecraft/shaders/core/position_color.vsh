@@ -1,4 +1,4 @@
-#version 440
+#version 330
 
 #define TOOLTIP_Z_MIN -0.4
 #define TOOLTIP_Z_MAX -0.399

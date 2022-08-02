@@ -1,4 +1,4 @@
-#version 400
+#version 330
 
 #moj_import <fog.glsl>
 #moj_import <identifiers.glsl>
