@@ -18,8 +18,8 @@ in vec4 ColorCode;
 
 out vec4 fragColor;
 
-const float oneTexel = 1./64;
-const float encoded = 1./256;
+const float oneTexel = 1./128;
+const float encoded = 1./512;
 const float yRatio = 16;
 
 

@@ -6,8 +6,8 @@
   },
     "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "adriftus:custom_armor/noble/noble_leggings" },
-    { "predicate": { "custom_model_data": 2}, "model": "adriftus:custom_armor/darkborne/darkborne_leggings" },
-    { "predicate": { "custom_model_data": 33}, "model": "adriftus:custom_armor/draconium/draconium_leggings" },
+    { "predicate": { "custom_model_data": 2}, "model": "adriftus:custom_armor/draconium/draconium_leggings" },
+    { "predicate": { "custom_model_data": 3}, "model": "adriftus:custom_armor/darkborne/darkborne_leggings" },
     { "predicate": { "custom_model_data": 50}, "model": "adriftus:item/hub_fishing/eighth_note" }
     ]
 }

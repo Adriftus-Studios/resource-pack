@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+    "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "adriftus:custom_armor/noble/noble_chestplate" },
+    { "predicate": { "custom_model_data": 2}, "model": "adriftus:custom_armor/draconium/draconium_chestplate" },
+    { "predicate": { "custom_model_data": 3}, "model": "adriftus:custom_armor/darkborne/darkborne_chestplate" }
+    ]
+}
