@@ -49,11 +49,6 @@ void main() {
     if (color.a < 0.1) {
         discard;
     }
-
-    //fragColor = texture(Sampler0, texCoord0);
-    //fragColor = ColorCode;
-    //fragColor = UVshift * 100;
+    
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
-    //fragColor = ColorCode;
-    //fragColor = vec4(texCoord0.x, texCoord0.y, 0.0, 1.0);
 }
