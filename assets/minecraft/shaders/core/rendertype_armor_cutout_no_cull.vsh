@@ -1,4 +1,4 @@
-#version 330
+#version 330 core
 
 #moj_import <light.glsl>
 #moj_import <fog.glsl>
@@ -22,12 +22,9 @@ uniform vec3 Light1_Direction;
 
 out float vertexDistance;
 out vec4 vertexColor;
-out vec2 texCoord0;
-out vec2 texCoord1;
 out vec4 normal;
 out vec2 uv;
 out vec2 emissiveUV;
-out vec4 ColorCode;
 
 const vec2 oneTexel = vec2(1./32, 1./256);
 const float encoded = 1./1024;
@@ -35,13 +32,10 @@ const float yRatio = 16;
 
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
-    texCoord0 = UV0;
-    texCoord1 = UV1;
-    ColorCode = Color;
 
     vec4 UVshift = texture(Sampler0, vec2(encoded));
     float frame = 0.;
-    uv = texCoord0;
+    uv = UV0;
     vec4 NewColor = Color;
     emissiveUV = vec2(0, 0);
 
@@ -51,8 +45,8 @@ void main() {
           frame = round(Color.r * 255);
           NewColor = vec4(1.0, 1.0, 1.0, 1.0);
         }
-        uv = vec2((texCoord0.x * 16) * oneTexel.x, (oneTexel.y * (yRatio * frame)) + ((texCoord0.y * yRatio) * oneTexel.y));
-        emissiveUV = vec2((oneTexel.x * 16.) + ((texCoord0.x * 16.) * oneTexel.x), uv.y);
+        uv = vec2((UV0.x * 16) * oneTexel.x, (oneTexel.y * (yRatio * frame)) + ((UV0.y * yRatio) * oneTexel.y));
+        emissiveUV = vec2((oneTexel.x * 16.) + ((UV0.x * 16.) * oneTexel.x), uv.y);
     }
 
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, NewColor) * texelFetch(Sampler2, UV2 / 16, 0);

@@ -1,4 +1,4 @@
-#version 330
+#version 330 core
 
 #moj_import <fog.glsl>
 
@@ -8,16 +8,12 @@ uniform vec4 ColorModulator;
 uniform float FogStart;
 uniform float FogEnd;
 uniform vec4 FogColor;
-uniform float GameTime;
 
 in float vertexDistance;
 in vec4 vertexColor;
-in vec2 texCoord0;
-in vec2 texCoord1;
 in vec4 normal;
 in vec2 uv;
 in vec2 emissiveUV;
-in vec4 ColorCode;
 
 out vec4 fragColor;
 
@@ -34,13 +30,6 @@ void main() {
 
     if (color.a < 0.1) {
         discard;
-    }
-
-    if (ColorCode.g > 0.991 && ColorCode.g < 0.995) {
-      float rFadeColor = mod(GameTime * 10000, 20);
-      float gFadeColor = mod(GameTime * 10000, 40);
-      float bFadeColor = mod(GameTime * 10000, 100);
-      color = vec4(abs(-10 + rFadeColor) / 10, abs(-20 + gFadeColor) / 20, abs(-50 + bFadeColor) / 50, 1.0);
     }
 
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
