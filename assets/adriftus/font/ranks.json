@@ -35,9 +35,9 @@
     	},
         {
             "type": "bitmap",
-            "file": "adriftus:ranks/rank_iron.png",
+            "file": "adriftus:ranks/rank_diamond.png",
             "ascent": 7,
-            "height": 32,
+            "height": 8,
             "chars": [
                 "\u1001"
             ]
@@ -46,16 +46,16 @@
             "type": "bitmap",
             "file": "adriftus:ranks/rank_gold.png",
             "ascent": 7,
-            "height": 32,
+            "height": 8,
             "chars": [
                 "\u1002"
             ]
         },
         {
             "type": "bitmap",
-            "file": "adriftus:ranks/rank_diamond.png",
+            "file": "adriftus:ranks/rank_iron.png",
             "ascent": 7,
-            "height": 32,
+            "height": 8,
             "chars": [
                 "\u1003"
             ]
