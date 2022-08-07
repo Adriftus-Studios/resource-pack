@@ -4,7 +4,8 @@
     "layer0": "minecraft:item/experience_bottle"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/xp_vessels/level_5" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/xp_vessels/level_10" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/xp_vessels/level_10" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/xp_vessels/level_30" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/xp_vessels/level_50" }
   ]
 }

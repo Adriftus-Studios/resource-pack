@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/xp_vessels/level_10"
+    "layer0": "adriftus:item/xp_vessels/experience_vial"
   }
 }
