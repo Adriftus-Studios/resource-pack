@@ -93,7 +93,11 @@
     { "predicate": { "custom_model_data": 12000 }, "model": "adriftus:item/hats/warden/warden_hat_cyan" },
 	{ "predicate": { "custom_model_data": 12001 }, "model": "adriftus:item/hats/warden/warden_hat_pink" },
 	{ "predicate": { "custom_model_data": 12002 }, "model": "adriftus:item/hats/warden/warden_hat_purple" },
-	{ "predicate": { "custom_model_data": 12003 }, "model": "adriftus:item/hats/warden/warden_hat_silver" }
+	{ "predicate": { "custom_model_data": 12003 }, "model": "adriftus:item/hats/warden/warden_hat_silver" },
+
+	{ "predicate": { "custom_model_data": 13000 }, "model": "adriftus:item/hats/ranks/rank_hat_iron" },
+	{ "predicate": { "custom_model_data": 13001 }, "model": "adriftus:item/hats/ranks/rank_hat_gold" },
+	{ "predicate": { "custom_model_data": 13002 }, "model": "adriftus:item/hats/ranks/rank_hat_diamond" }
 
   ]
 }
