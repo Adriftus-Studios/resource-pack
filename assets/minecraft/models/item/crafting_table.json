@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/crafting_table",
+  "textures": {
+	"layer0": "minecraft:block/crafting_table"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:block/template_block" }
+  ]
+}
