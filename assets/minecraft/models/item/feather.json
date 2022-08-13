@@ -56,6 +56,10 @@
     { "predicate": { "custom_model_data": 306}, "model": "adriftus:item/misc_items/gravestone4" },
     { "predicate": { "custom_model_data": 307}, "model": "adriftus:item/misc_items/gravestone4_cd" },
     { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/misc_items/multiverse_dust" },
-    { "predicate": { "custom_model_data": 501}, "model": "adriftus:item/misc_items/multiverse_dust_empty" }
+    { "predicate": { "custom_model_data": 501}, "model": "adriftus:item/misc_items/multiverse_dust_empty" },
+
+    { "predicate": { "custom_model_data": 600}, "model": "adriftus:item/currency/bank_note_1" },
+    { "predicate": { "custom_model_data": 601}, "model": "adriftus:item/currency/bank_note_2" },
+    { "predicate": { "custom_model_data": 602}, "model": "adriftus:item/currency/bank_note_3" }
   ]
 }
