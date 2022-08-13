@@ -1,0 +1,614 @@
+{
+    "providers": [
+        {
+	  "type": "space",
+	  "advances": {
+		"\uF801": -1,
+		"\uF802": -2,
+		"\uF803": -3,
+		"\uF804": -4,
+		"\uF805": -5,
+		"\uF806": -6,
+		"\uF807": -7,
+		"\uF808": -8,
+		"\uF809": -16,
+		"\uF80A": -32,
+		"\uF80B": -64,
+		"\uF80C": -128,
+		"\uF80D": -512,
+		"\uF80E": -1024,
+                "\uF901": 1,
+                "\uF902": 2,
+                "\uF903": 3,
+                "\uF904": 4,
+                "\uF905": 5,
+                "\uF906": 6,
+                "\uF907": 7,
+                "\uF908": 8,
+                "\uF909": 16,
+                "\uF90A": 32,
+                "\uF90B": 64,
+                "\uF90C": 128,
+                "\uF90D": 512,
+                "\uF90E": 1024,
+                "\uF90F": 4096
+		}
+    	},
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/0.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0030"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/1.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0031"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/2.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0032"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/3.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0033"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/4.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0034"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/5.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0035"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/6.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0036"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/7.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0037"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/8.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0038"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/9.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0039"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/A.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0041"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/B.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0042"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/C.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0043"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/D.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0044"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/E.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0045"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/F.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0046"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/G.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0047"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/H.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0048"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/I.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0049"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/J.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u004A"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/K.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u004B"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/L.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u004C"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/M.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u004D"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/N.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u004E"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/O.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u004F"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/P.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0050"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/Q.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0051"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/R.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0052"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/S.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0053"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/T.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0054"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/U.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0055"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/V.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0056"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/W.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0057"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/X.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0058"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/Y.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0059"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/Z.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u005A"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/A.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0061"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/B.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0062"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/C.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0063"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/D.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0064"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/E.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0065"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/F.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0066"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/G.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0067"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/H.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0068"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/I.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0069"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/J.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u006A"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/K.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u006B"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/L.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u006C"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/M.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u006D"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/N.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u006E"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/O.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u006F"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/P.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0070"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/Q.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0071"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/R.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0072"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/S.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0073"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/T.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0074"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/U.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0075"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/V.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0076"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/W.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0077"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/X.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0078"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/Y.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0079"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/Z.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u007A"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/_hyphen.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u002D"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "adriftus:adriftus_font/_space.png",
+        "ascent": 6,
+        "height": 6,
+        "chars": [
+            "\u0020"
+        ]
+    }
+  ]
+}
