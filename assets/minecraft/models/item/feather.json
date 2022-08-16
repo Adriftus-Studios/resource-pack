@@ -57,7 +57,7 @@
     { "predicate": { "custom_model_data": 307}, "model": "adriftus:item/misc_items/gravestone4_cd" },
     { "predicate": { "custom_model_data": 500}, "model": "adriftus:item/misc_items/multiverse_dust" },
     { "predicate": { "custom_model_data": 501}, "model": "adriftus:item/misc_items/multiverse_dust_empty" },
-    { "predicate": { "custom_model_data": 502}, "model": "adriftus:item/travel_menu/travel_menu_herocraft_spawn_button" },
+    { "predicate": { "custom_model_data": 502}, "model": "adriftus:item/travel_menu/herocraft_spawn_button" },
 
     { "predicate": { "custom_model_data": 600}, "model": "adriftus:item/currency/bank_note_1" },
     { "predicate": { "custom_model_data": 601}, "model": "adriftus:item/currency/bank_note_2" },
