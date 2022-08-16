@@ -42,6 +42,9 @@
     { "predicate": { "custom_model_data": 201}, "model": "adriftus:item/travel_menu/hub_icon" },
     { "predicate": { "custom_model_data": 202}, "model": "adriftus:item/travel_menu/herocraft_icon" },
     { "predicate": { "custom_model_data": 203}, "model": "adriftus:item/travel_menu/calipolis_icon" },
+    { "predicate": { "custom_model_data": 204}, "model": "adriftus:item/travel_menu/waystone_edit" },
+    { "predicate": { "custom_model_data": 205}, "model": "adriftus:item/travel_menu/waystone_rename" },
+    { "predicate": { "custom_model_data": 206}, "model": "adriftus:item/travel_menu/waystone_remove" },
 
     { "predicate": { "custom_model_data": 300}, "model": "adriftus:item/main_menu/playermenu_achest" },
     { "predicate": { "custom_model_data": 301}, "model": "adriftus:item/main_menu/playermenu_amenu" },
