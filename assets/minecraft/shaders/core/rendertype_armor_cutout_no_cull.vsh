@@ -25,10 +25,13 @@ out vec4 vertexColor;
 out vec4 normal;
 out vec2 uv;
 out vec2 emissiveUV;
+out vec2 overlayUV;
+out vec4 lightColor;
 
-const vec2 oneTexel = vec2(1./32, 1./256);
-const float encoded = 1./1024;
+const vec2 oneTexel = vec2(1./128, 1./2048);
+const float encoded = 1./8192;
 const float yRatio = 16;
+const float xRatio = 16;
 
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
@@ -38,18 +41,33 @@ void main() {
     uv = UV0;
     vec4 NewColor = Color;
     emissiveUV = vec2(0, 0);
+    overlayUV = vec2(0, 0);
+    float xFinal = 0.;
+    float yFinal = 0.;
 
     if (UVshift.b > 0.001 && UVshift.b < 0.015) {
-        if (Color.b > 0.991 && Color.b < 0.995) {
-          gl_Position = ProjMat * ModelViewMat * vec4(Position.x, Position.y, Position.z + 0.15, 1.0);
+        if (Color.b > 0.668) {
           frame = round(Color.r * 255);
-          NewColor = vec4(1.0, 1.0, 1.0, 1.0);
+          if (frame > 6) {
+            NewColor = vec4(1.0, 1.0, 1.0, 1.0);
+          }
+          else {
+            NewColor = vec4(0.627, 0.396, 0.25, 1.0);
+          }
+            xFinal = xRatio * 2;
+            yFinal = yRatio * 2;
+          }
+        else {
+          xFinal = xRatio;
+          yFinal = yRatio;
         }
-        uv = vec2((UV0.x * 16) * oneTexel.x, (oneTexel.y * (yRatio * frame)) + ((UV0.y * yRatio) * oneTexel.y));
-        emissiveUV = vec2((oneTexel.x * 16.) + ((UV0.x * 16.) * oneTexel.x), uv.y);
+        uv = vec2((UV0.x * xFinal) * oneTexel.x, (oneTexel.y * (yFinal * frame)) + ((UV0.y * yFinal) * oneTexel.y));
+        emissiveUV = vec2((oneTexel.x * xFinal) + ((UV0.x * xFinal) * oneTexel.x), uv.y);
+        overlayUV = vec2((oneTexel.x * (xFinal * 2)) + ((UV0.x * xFinal) * oneTexel.x), uv.y);
     }
-
+    
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, NewColor) * texelFetch(Sampler2, UV2 / 16, 0);
+    lightColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, vec4(1.0, 1.0, 1.0, 1.0)) * texelFetch(Sampler2, UV2 / 16, 0);
 
 
     vertexDistance = fog_distance(ModelViewMat, Position, FogShape);

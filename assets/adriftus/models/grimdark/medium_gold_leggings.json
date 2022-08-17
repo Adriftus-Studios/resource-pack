@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+        "layer0": "minecraft:models/armor_alt/empty",
+        "layer1": "grimdark:item/medium_gold_leggings"
+  }
+}
