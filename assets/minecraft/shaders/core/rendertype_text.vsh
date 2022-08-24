@@ -78,9 +78,29 @@ void main() {
     else if (is030(ColorCode)) {
         gl_Position = ProjMat * ModelViewMat * vec4(Position.x, Position.y, Position.z + 0.11, 1.0);
     }
+    else if (is400(ColorCode)) {
+           // GUI Scale 1
+           if ((Position.x - ScreenSize.x) + (ScreenSize.x / 40) > 0) {
+               gl_Position = ProjMat * ModelViewMat * vec4((Position.x - ScreenSize.x) + (ScreenSize.x / 40), Position.y, Position.z, 1.0);
+           }
+           // GUI Scale 2
+           else if ((Position.x - ScreenSize.x/2) + (ScreenSize.x / 40) > 0) {
+               gl_Position = ProjMat * ModelViewMat * vec4((Position.x - ScreenSize.x/2) + (ScreenSize.x / 40), Position.y, Position.z, 1.0);
+           }
+           // GUI Scale 3
+           else if ((Position.x - ScreenSize.x/3) + (ScreenSize.x / 40) > 0) {
+               gl_Position = ProjMat * ModelViewMat * vec4((Position.x - ScreenSize.x/3) + (ScreenSize.x / 40), Position.y, Position.z, 1.0);
+           }
+           // GUI Scale 4
+           else if ((Position.x - ScreenSize.x/4) + (ScreenSize.x / 40) > 0) {
+               gl_Position = ProjMat * ModelViewMat * vec4((Position.x - ScreenSize.x/4) + (ScreenSize.x / 40), Position.y, Position.z, 1.0);
+           }
+           else {
+               gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+           }
+    }
     else {
         // Vanilla Code
         gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
     }
-    
 }
