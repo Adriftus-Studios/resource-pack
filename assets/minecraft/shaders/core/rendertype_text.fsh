@@ -34,6 +34,9 @@ const vec3 RainbowArray[8] = vec3[8](
     );
 
 void main() {
+    vec4 encoded = texture(Sampler0, vec2(oneTexel));
+    if ((encoded.r == 1 && encoded.g == 1 && encoded.b == 1) && (vertexColor.r <= 0.248 && vertexColor.g <= 0.248 && vertexColor.b <= 0.248)) discard;
+
     vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
 
     vec4 UVcolor = texture(Sampler0, texCoord0);
