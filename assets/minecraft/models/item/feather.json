@@ -61,6 +61,8 @@
 
     { "predicate": { "custom_model_data": 600}, "model": "adriftus:item/currency/bank_note_1" },
     { "predicate": { "custom_model_data": 601}, "model": "adriftus:item/currency/bank_note_2" },
-    { "predicate": { "custom_model_data": 602}, "model": "adriftus:item/currency/bank_note_3" }
+    { "predicate": { "custom_model_data": 602}, "model": "adriftus:item/currency/bank_note_3" },
+
+    { "predicate": { "custom_model_data": 1000}, "model": "adriftus:block/shop_turret" }
   ]
 }
