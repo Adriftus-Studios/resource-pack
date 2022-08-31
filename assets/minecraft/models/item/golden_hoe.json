@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_hoe"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 10022}, "model": "adriftus:item/skins/wooden_handscythe" },
+    { "predicate": { "custom_model_data": 10023}, "model": "adriftus:item/skins/wooden_sickle" },
+    { "predicate": { "custom_model_data": 10024}, "model": "adriftus:item/skins/wooden_kama" },
+    { "predicate": { "custom_model_data": 10025}, "model": "adriftus:item/skins/wooden_greatscythe" },
+    { "predicate": { "custom_model_data": 10047}, "model": "adriftus:item/skins/stone_handscythe" },
+    { "predicate": { "custom_model_data": 10048}, "model": "adriftus:item/skins/stone_sickle" },
+    { "predicate": { "custom_model_data": 10049}, "model": "adriftus:item/skins/stone_kama" },
+    { "predicate": { "custom_model_data": 10050}, "model": "adriftus:item/skins/stone_greatscythe" },
+    { "predicate": { "custom_model_data": 10072}, "model": "adriftus:item/skins/iron_handscythe" },
+    { "predicate": { "custom_model_data": 10073}, "model": "adriftus:item/skins/iron_sickle" },
+    { "predicate": { "custom_model_data": 10074}, "model": "adriftus:item/skins/iron_kama" },
+    { "predicate": { "custom_model_data": 10075}, "model": "adriftus:item/skins/iron_greatscythe" },
+    { "predicate": { "custom_model_data": 10097}, "model": "adriftus:item/skins/golden_handscythe" },
+    { "predicate": { "custom_model_data": 10098}, "model": "adriftus:item/skins/golden_sickle" },
+    { "predicate": { "custom_model_data": 10099}, "model": "adriftus:item/skins/golden_kama" },
+    { "predicate": { "custom_model_data": 10100}, "model": "adriftus:item/skins/golden_greatscythe" },
+    { "predicate": { "custom_model_data": 10122}, "model": "adriftus:item/skins/diamond_handscythe" },
+    { "predicate": { "custom_model_data": 10123}, "model": "adriftus:item/skins/diamond_sickle" },
+    { "predicate": { "custom_model_data": 10124}, "model": "adriftus:item/skins/diamond_kama" },
+    { "predicate": { "custom_model_data": 10125}, "model": "adriftus:item/skins/diamond_greatscythe" },
+    { "predicate": { "custom_model_data": 10147}, "model": "adriftus:item/skins/netherite_handscythe" },
+    { "predicate": { "custom_model_data": 10148}, "model": "adriftus:item/skins/netherite_sickle" },
+    { "predicate": { "custom_model_data": 10149}, "model": "adriftus:item/skins/netherite_kama" },
+    { "predicate": { "custom_model_data": 10150}, "model": "adriftus:item/skins/netherite_greatscythe" }
+  ]
+}

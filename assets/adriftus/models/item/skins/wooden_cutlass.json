@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/cutlass",
+  "textures": {
+    "layer0": "grimdark:item/wooden_cutlass"
+  }
+}

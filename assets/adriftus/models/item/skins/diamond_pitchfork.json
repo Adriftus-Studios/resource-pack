@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/pitchfork",
+  "textures": {
+    "layer0": "grimdark:item/diamond_pitchfork"
+  }
+}

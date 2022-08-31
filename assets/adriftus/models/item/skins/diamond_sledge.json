@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/sledge",
+  "textures": {
+    "layer0": "grimdark:item/diamond_sledge"
+  }
+}

@@ -104,6 +104,15 @@
             "chars": [
                 "\u2000"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:custom_gui/herocraft/equipment_skins.png",
+            "ascent": 17.75,
+            "height": 256,
+            "chars": [
+                "\u3000"
+            ]
         }
     ]
 }

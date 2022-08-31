@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/halberd",
+  "textures": {
+    "layer0": "grimdark:item/wooden_halberd"
+  }
+}

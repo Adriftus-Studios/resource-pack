@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_axe"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 10009}, "model": "adriftus:item/skins/wooden_broadaxe" },
+    { "predicate": { "custom_model_data": 10010}, "model": "adriftus:item/skins/wooden_hatchet" },
+    { "predicate": { "custom_model_data": 10011}, "model": "adriftus:item/skins/wooden_ono" },
+    { "predicate": { "custom_model_data": 10012}, "model": "adriftus:item/skins/wooden_battleaxe" },
+    { "predicate": { "custom_model_data": 10013}, "model": "adriftus:item/skins/wooden_halberd" },
+    { "predicate": { "custom_model_data": 10034}, "model": "adriftus:item/skins/stone_broadaxe" },
+    { "predicate": { "custom_model_data": 10035}, "model": "adriftus:item/skins/stone_hatchet" },
+    { "predicate": { "custom_model_data": 10036}, "model": "adriftus:item/skins/stone_ono" },
+    { "predicate": { "custom_model_data": 10037}, "model": "adriftus:item/skins/stone_battleaxe" },
+    { "predicate": { "custom_model_data": 10038}, "model": "adriftus:item/skins/stone_halberd" },
+    { "predicate": { "custom_model_data": 10059}, "model": "adriftus:item/skins/iron_broadaxe" },
+    { "predicate": { "custom_model_data": 10060}, "model": "adriftus:item/skins/iron_hatchet" },
+    { "predicate": { "custom_model_data": 10061}, "model": "adriftus:item/skins/iron_ono" },
+    { "predicate": { "custom_model_data": 10062}, "model": "adriftus:item/skins/iron_battleaxe" },
+    { "predicate": { "custom_model_data": 10063}, "model": "adriftus:item/skins/iron_halberd" },
+    { "predicate": { "custom_model_data": 10084}, "model": "adriftus:item/skins/golden_broadaxe" },
+    { "predicate": { "custom_model_data": 10085}, "model": "adriftus:item/skins/golden_hatchet" },
+    { "predicate": { "custom_model_data": 10086}, "model": "adriftus:item/skins/golden_ono" },
+    { "predicate": { "custom_model_data": 10087}, "model": "adriftus:item/skins/golden_battleaxe" },
+    { "predicate": { "custom_model_data": 10088}, "model": "adriftus:item/skins/golden_halberd" },
+    { "predicate": { "custom_model_data": 10109}, "model": "adriftus:item/skins/diamond_broadaxe" },
+    { "predicate": { "custom_model_data": 10110}, "model": "adriftus:item/skins/diamond_hatchet" },
+    { "predicate": { "custom_model_data": 10111}, "model": "adriftus:item/skins/diamond_ono" },
+    { "predicate": { "custom_model_data": 10112}, "model": "adriftus:item/skins/diamond_battleaxe" },
+    { "predicate": { "custom_model_data": 10113}, "model": "adriftus:item/skins/diamond_halberd" },
+    { "predicate": { "custom_model_data": 10134}, "model": "adriftus:item/skins/netherite_broadaxe" },
+    { "predicate": { "custom_model_data": 10135}, "model": "adriftus:item/skins/netherite_hatchet" },
+    { "predicate": { "custom_model_data": 10136}, "model": "adriftus:item/skins/netherite_ono" },
+    { "predicate": { "custom_model_data": 10137}, "model": "adriftus:item/skins/netherite_battleaxe" },
+    { "predicate": { "custom_model_data": 10138}, "model": "adriftus:item/skins/netherite_halberd" }
+  ]
+}

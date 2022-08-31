@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/ono",
+  "textures": {
+    "layer0": "grimdark:item/netherite_ono"
+  }
+}

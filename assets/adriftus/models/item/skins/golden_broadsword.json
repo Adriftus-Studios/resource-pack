@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/broadsword",
+  "textures": {
+    "layer0": "grimdark:item/golden_broadsword"
+  }
+}

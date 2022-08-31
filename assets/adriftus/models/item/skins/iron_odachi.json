@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/odachi",
+  "textures": {
+    "layer0": "grimdark:item/iron_odachi"
+  }
+}

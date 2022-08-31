@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_shovel"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 10014}, "model": "adriftus:item/skins/wooden_trencher" },
+    { "predicate": { "custom_model_data": 10015}, "model": "adriftus:item/skins/wooden_pitchfork" },
+    { "predicate": { "custom_model_data": 10016}, "model": "adriftus:item/skins/wooden_spade" },
+    { "predicate": { "custom_model_data": 10017}, "model": "adriftus:item/skins/wooden_warffork" },
+    { "predicate": { "custom_model_data": 10039}, "model": "adriftus:item/skins/stone_trencher" },
+    { "predicate": { "custom_model_data": 10040}, "model": "adriftus:item/skins/stone_pitchfork" },
+    { "predicate": { "custom_model_data": 10041}, "model": "adriftus:item/skins/stone_spade" },
+    { "predicate": { "custom_model_data": 10042}, "model": "adriftus:item/skins/stone_warffork" },
+    { "predicate": { "custom_model_data": 10064}, "model": "adriftus:item/skins/iron_trencher" },
+    { "predicate": { "custom_model_data": 10065}, "model": "adriftus:item/skins/iron_pitchfork" },
+    { "predicate": { "custom_model_data": 10066}, "model": "adriftus:item/skins/iron_spade" },
+    { "predicate": { "custom_model_data": 10067}, "model": "adriftus:item/skins/iron_warffork" },
+    { "predicate": { "custom_model_data": 10089}, "model": "adriftus:item/skins/golden_trencher" },
+    { "predicate": { "custom_model_data": 10090}, "model": "adriftus:item/skins/golden_pitchfork" },
+    { "predicate": { "custom_model_data": 10091}, "model": "adriftus:item/skins/golden_spade" },
+    { "predicate": { "custom_model_data": 10092}, "model": "adriftus:item/skins/golden_warffork" },
+    { "predicate": { "custom_model_data": 10114}, "model": "adriftus:item/skins/diamond_trencher" },
+    { "predicate": { "custom_model_data": 10115}, "model": "adriftus:item/skins/diamond_pitchfork" },
+    { "predicate": { "custom_model_data": 10116}, "model": "adriftus:item/skins/diamond_spade" },
+    { "predicate": { "custom_model_data": 10117}, "model": "adriftus:item/skins/diamond_warffork" },
+    { "predicate": { "custom_model_data": 10139}, "model": "adriftus:item/skins/netherite_trencher" },
+    { "predicate": { "custom_model_data": 10140}, "model": "adriftus:item/skins/netherite_pitchfork" },
+    { "predicate": { "custom_model_data": 10141}, "model": "adriftus:item/skins/netherite_spade" },
+    { "predicate": { "custom_model_data": 10142}, "model": "adriftus:item/skins/netherite_warffork" }
+    ]
+}

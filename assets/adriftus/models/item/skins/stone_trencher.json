@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/trencher",
+  "textures": {
+    "layer0": "grimdark:item/stone_trencher"
+  }
+}

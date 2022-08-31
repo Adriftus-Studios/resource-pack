@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/warhammer",
+  "textures": {
+    "layer0": "grimdark:item/netherite_warhammer"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "adriftus:item/skins/display_parents/greatsword",
+  "textures": {
+    "layer0": "grimdark:item/netherite_greatsword"
+  }
+}
