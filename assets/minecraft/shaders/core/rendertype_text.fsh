@@ -41,13 +41,12 @@ void main() {
 
     vec4 UVcolor = texture(Sampler0, texCoord0);
 
+    if (color.a < 0.1) discard;
+
     if (is300(ColorCode) || is030(ColorCode)) {
         float final = mod((GameTime * 100000), 256);
         float final1 = mod((gl_FragCoord.x * 1000), 256);
         color = texture(Sampler0, vec2(texCoord0.x + (oneTexel * final), texCoord0.y));
-    }
-    if (color.a < 0.1) {
-        discard;
     }
     
 
@@ -64,7 +63,9 @@ void main() {
               final = final1 * 4;
           }
               color = mix(vec4(0.8, 0.0, 0, 1.0), vec4(0.5, 0.0, 0, 0.9), final/100);
+
         }
+
         else if (is002(ColorCode)) {
                 if (UVcolor.r < 0.1 && UVcolor.g > 0.33 && UVcolor.g < 0.35 && UVcolor.b > 0.79 && UVcolor.b < 0.81) {
                   color = vec4(UVcolor.rgb, final/100);
@@ -139,6 +140,7 @@ void main() {
         color = vec4(RainbowArray[int(final)].rgb, 1.0);
 
     }
+
 
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
     
