@@ -61,6 +61,7 @@ void main() {
         else {
             final = final1 * 4;
         }
+
         if (is020(ColorCode)) {
             color = mix(vec4(1, 0.6, 0, 1.0), vec4(0.8, 0.8, 0, 0.9), final/100);
         }
@@ -73,7 +74,14 @@ void main() {
                 }
         }
         else {
-            color = vec4(1.0, 1.0, 1.0, final/100);
+          float ticker = mod((GameTime * 10000), 4) + (mod(gl_FragCoord.x, 1024) / 32);
+          if (ticker > 3) {
+              final = mod(ticker, 4);
+          }
+          else {
+              final = ticker;
+          }
+          color = vec4(1.0, 1.0, 1.0, final/3);
         }
     }
 
