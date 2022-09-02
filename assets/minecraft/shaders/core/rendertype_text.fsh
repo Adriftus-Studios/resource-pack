@@ -53,17 +53,17 @@ void main() {
 
     if (is200(ColorCode) || is020(ColorCode) || is002(ColorCode)){
         float final;
-        float final1 = mod((GameTime * 10000), 51);
-
-        if (final1 > 25) {
-            final = (50 - final1) * 4;
-        }
-        else {
-            final = final1 * 4;
-        }
-
+        
         if (is020(ColorCode)) {
-            color = mix(vec4(1, 0.6, 0, 1.0), vec4(0.8, 0.8, 0, 0.9), final/100);
+          float final1 = mod((GameTime * 100000), 51);
+
+          if (final1 > 25) {
+              final = (50 - final1) * 4;
+          }
+          else {
+              final = final1 * 4;
+          }
+              color = mix(vec4(0.8, 0.0, 0, 1.0), vec4(0.5, 0.0, 0, 0.9), final/100);
         }
         else if (is002(ColorCode)) {
                 if (UVcolor.r < 0.1 && UVcolor.g > 0.33 && UVcolor.g < 0.35 && UVcolor.b > 0.79 && UVcolor.b < 0.81) {
@@ -74,14 +74,15 @@ void main() {
                 }
         }
         else {
-          float ticker = mod((GameTime * 10000), 4) + (mod(gl_FragCoord.x, 1024) / 32);
-          if (ticker > 3) {
-              final = mod(ticker, 4);
+          float final1 = mod((GameTime * 10000), 51);
+
+          if (final1 > 25) {
+              final = (50 - final1) * 4;
           }
           else {
-              final = ticker;
+              final = final1 * 4;
           }
-          color = vec4(1.0, 1.0, 1.0, final/3);
+              color = vec4(1.0, 1.0, 1.0, final/100);
         }
     }
 
