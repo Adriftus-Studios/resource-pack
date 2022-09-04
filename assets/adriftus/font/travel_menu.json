@@ -543,6 +543,15 @@
         },
         {
             "type": "bitmap",
+            "file": "adriftus:custom_gui/network/travel_menu/calipolis/calipolis_homes_main.png",
+            "ascent": 16,
+            "height": 256,
+            "chars": [
+                "\u2202"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "adriftus:custom_gui/network/travel_menu/travel_menu_test_overlay.png",
             "ascent": 36.75,
             "height": 256,

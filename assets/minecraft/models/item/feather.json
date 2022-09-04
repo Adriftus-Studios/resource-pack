@@ -67,6 +67,10 @@
     { "predicate": { "custom_model_data": 701}, "model": "adriftus:item/skins/royal_emblem" },
     { "predicate": { "custom_model_data": 702}, "model": "adriftus:item/skins/samurai_headband" },
 
+    { "predicate": { "custom_model_data": 800}, "model": "adriftus:item/travel_menu/calipolis_home" },
+    { "predicate": { "custom_model_data": 801}, "model": "adriftus:item/travel_menu/calipolis_home_new" },
+    { "predicate": { "custom_model_data": 802}, "model": "adriftus:item/travel_menu/calipolis_home_unlockable" },
+
     { "predicate": { "custom_model_data": 1000}, "model": "adriftus:block/shop_turret" }
   ]
 }
