@@ -1,0 +1,69 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        { "predicate": { "pulling": 1 }, "model": "item/bow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.65 }, "model": "item/bow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 0.9 }, "model": "item/bow_pulling_2" },
+        { "predicate": { "custom_model_data": 1 }, "model": "grimdark:items/shortbow" },
+        { "predicate": { "custom_model_data": 1, "pulling": 1 }, "model": "grimdark:items/shortbow_pulling_0" },
+        { "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/shortbow_pulling_1" },
+        { "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/shortbow_pulling_2" },
+        { "predicate": { "custom_model_data": 2 }, "model": "grimdark:items/greatbow" },
+        { "predicate": { "custom_model_data": 2, "pulling": 1 }, "model": "grimdark:items/greatbow_pulling_0" },
+        { "predicate": { "custom_model_data": 2, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/greatbow_pulling_1" },
+        { "predicate": { "custom_model_data": 2, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/greatbow_pulling_2" },
+        { "predicate": { "custom_model_data": 3 }, "model": "grimdark:items/recurve" },
+        { "predicate": { "custom_model_data": 3, "pulling": 1 }, "model": "grimdark:items/recurve_pulling_0" },
+        { "predicate": { "custom_model_data": 3, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/recurve_pulling_1" },
+        { "predicate": { "custom_model_data": 3, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/recurve_pulling_2" },
+        { "predicate": { "custom_model_data": 4 }, "model": "grimdark:items/yumi" },
+        { "predicate": { "custom_model_data": 4, "pulling": 1 }, "model": "grimdark:items/yumi_pulling_0" },
+        { "predicate": { "custom_model_data": 4, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/yumi_pulling_1" },
+        { "predicate": { "custom_model_data": 4, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/yumi_pulling_2" },
+        { "predicate": { "custom_model_data": 5 }, "model": "grimdark:items/stone" },
+        { "predicate": { "custom_model_data": 5, "pulling": 1 }, "model": "grimdark:items/stone_pulling_0" },
+        { "predicate": { "custom_model_data": 5, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/stone_pulling_1" },
+        { "predicate": { "custom_model_data": 5, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/stone_pulling_2" },
+        { "predicate": { "custom_model_data": 6 }, "model": "grimdark:items/iron" },
+        { "predicate": { "custom_model_data": 6, "pulling": 1 }, "model": "grimdark:items/iron_pulling_0" },
+        { "predicate": { "custom_model_data": 6, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/iron_pulling_1" },
+        { "predicate": { "custom_model_data": 6, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/iron_pulling_2" },
+        { "predicate": { "custom_model_data": 7 }, "model": "grimdark:items/golden" },
+        { "predicate": { "custom_model_data": 7, "pulling": 1 }, "model": "grimdark:items/golden_pulling_0" },
+        { "predicate": { "custom_model_data": 7, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/golden_pulling_1" },
+        { "predicate": { "custom_model_data": 7, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/golden_pulling_2" },
+        { "predicate": { "custom_model_data": 8 }, "model": "grimdark:items/diamond" },
+        { "predicate": { "custom_model_data": 8, "pulling": 1 }, "model": "grimdark:items/diamond_pulling_0" },
+        { "predicate": { "custom_model_data": 8, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/diamond_pulling_1" },
+        { "predicate": { "custom_model_data": 8, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/diamond_pulling_2" },
+        { "predicate": { "custom_model_data": 9 }, "model": "grimdark:items/netherite" },
+        { "predicate": { "custom_model_data": 9, "pulling": 1 }, "model": "grimdark:items/netherite_pulling_0" },
+        { "predicate": { "custom_model_data": 9, "pulling": 1, "pull": 0.65 }, "model": "grimdark:items/netherite_pulling_1" },
+        { "predicate": { "custom_model_data": 9, "pulling": 1, "pull": 0.9 }, "model": "grimdark:items/netherite_pulling_2" }
+    ]
+}
