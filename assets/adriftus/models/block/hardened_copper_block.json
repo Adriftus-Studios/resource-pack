@@ -1,6 +1,6 @@
 { 
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "adriftus:block/steel_block"
+    "all": "adriftus:block/hardened_copper_block"
   }
 }

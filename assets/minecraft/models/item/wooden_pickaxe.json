@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/wooden_pickaxe"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "adriftus:item/tools/impossible_hammer" },
     { "predicate": { "custom_model_data": 10018}, "model": "adriftus:item/skins/wooden_mattock" },
     { "predicate": { "custom_model_data": 10019}, "model": "adriftus:item/skins/wooden_mallet" },
     { "predicate": { "custom_model_data": 10020}, "model": "adriftus:item/skins/wooden_sledge" },
