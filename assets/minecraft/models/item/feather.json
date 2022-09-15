@@ -71,6 +71,10 @@
     { "predicate": { "custom_model_data": 801}, "model": "adriftus:item/travel_menu/calipolis_home_new" },
     { "predicate": { "custom_model_data": 802}, "model": "adriftus:item/travel_menu/calipolis_home_unlockable" },
 
-    { "predicate": { "custom_model_data": 1000}, "model": "adriftus:block/shop_turret" }
+    { "predicate": { "custom_model_data": 1000}, "model": "adriftus:block/shop_turret" },
+
+    { "predicate": { "custom_model_data": 10000}, "model": "adriftus:block/steel_block" },
+    { "predicate": { "custom_model_data": 10000}, "model": "adriftus:block/hardened_copper_ingot" },
+    { "predicate": { "custom_model_data": 10000}, "model": "adriftus:block/hardened_copper_block" }
   ]
 }
