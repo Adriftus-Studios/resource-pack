@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adriftus:item/fish/bait/rabbit_foot_bait"
+  }
+}

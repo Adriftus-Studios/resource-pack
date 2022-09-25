@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1001}, "model": "adriftus:item/fish/rods/line"},
+		{"predicate": {"custom_model_data":1002}, "model": "adriftus:item/fish/rods/iron"},
+		{"predicate": {"custom_model_data":1003}, "model": "adriftus:item/fish/rods/light"},
+		{"predicate": {"custom_model_data":1004}, "model": "adriftus:item/fish/rods/glass"},
+		{"predicate": {"custom_model_data":1005}, "model": "adriftus:item/fish/rods/magnetic"},
+		{"predicate": {"custom_model_data":1006}, "model": "adriftus:item/fish/rods/diamond"},
+		{"predicate": {"custom_model_data":1007}, "model": "adriftus:item/fish/rods/golden"},
+		{"predicate": {"custom_model_data":1008}, "model": "adriftus:item/fish/rods/netherite"},
+		{"predicate": {"custom_model_data":1009}, "model": "adriftus:item/fish/rods/soul"},
+		{"predicate": {"custom_model_data":1010}, "model": "adriftus:item/fish/rods/lapis_line"},
+		{"predicate": {"custom_model_data":1011}, "model": "adriftus:item/fish/rods/redstone_line"}
+
+    ]
+}

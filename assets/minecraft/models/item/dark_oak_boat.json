@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/dark_oak_boat"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":2}, "model": "adriftus:item/fish/boats/ironclad"},
+		{"predicate": {"custom_model_data":3}, "model": "adriftus:item/fish/boats/netherite"},
+		{"predicate": {"custom_model_data":4}, "model": "adriftus:item/fish/boats/quartz"},
+		{"predicate": {"custom_model_data":5}, "model": "adriftus:item/fish/boats/balloon"},
+		{"predicate": {"custom_model_data":6}, "model": "adriftus:item/fish/boats/zeppelin"}
+
+    ]
+}

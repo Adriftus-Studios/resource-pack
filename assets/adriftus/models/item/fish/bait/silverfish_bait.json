@@ -1,0 +1,340 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "adriftus:item/fish/bait/silverfish",
+		"1": "adriftus:item/fish/bait/bait_hook",
+		"particle": "adriftus:item/fish/bait/bait_hook"
+	},
+	"elements": [
+		{
+			"name": "bodyPart_2",
+			"from": [5, 0, 3.5],
+			"to": [11, 4, 6.5],
+			"faces": {
+				"north": {"uv": [0.75, 6, 2.25, 8], "texture": "#0"},
+				"east": {"uv": [0, 6, 0.75, 8], "texture": "#0"},
+				"south": {"uv": [3, 6, 4.5, 8], "texture": "#0"},
+				"west": {"uv": [2.25, 6, 3, 8], "texture": "#0"},
+				"up": {"uv": [2.25, 6, 0.75, 4.5], "texture": "#0"},
+				"down": {"uv": [3.75, 4.5, 2.25, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bodyPart_0",
+			"from": [6.5, 0, -0.5],
+			"to": [9.5, 2, 1.5],
+			"faces": {
+				"north": {"uv": [0.5, 1, 1.25, 2], "texture": "#0"},
+				"east": {"uv": [0, 1, 0.5, 2], "texture": "#0"},
+				"south": {"uv": [1.75, 1, 2.5, 2], "texture": "#0"},
+				"west": {"uv": [1.25, 1, 1.75, 2], "texture": "#0"},
+				"up": {"uv": [1.25, 1, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 1.25, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bodyPart_1",
+			"from": [6, 0, 1.5],
+			"to": [10, 3, 3.5],
+			"faces": {
+				"north": {"uv": [0.5, 3, 1.5, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 3, 0.5, 4.5], "texture": "#0"},
+				"south": {"uv": [2, 3, 3, 4.5], "texture": "#0"},
+				"west": {"uv": [1.5, 3, 2, 4.5], "texture": "#0"},
+				"up": {"uv": [1.5, 3, 0.5, 2], "texture": "#0"},
+				"down": {"uv": [2.5, 2, 1.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bodyPart_3",
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 3, 9.5],
+			"faces": {
+				"north": {"uv": [0.75, 9.5, 1.5, 11], "texture": "#0"},
+				"east": {"uv": [0, 9.5, 0.75, 11], "texture": "#0"},
+				"south": {"uv": [2.25, 9.5, 3, 11], "texture": "#0"},
+				"west": {"uv": [1.5, 9.5, 2.25, 11], "texture": "#0"},
+				"up": {"uv": [1.5, 9.5, 0.75, 8], "texture": "#0"},
+				"down": {"uv": [2.25, 8, 1.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bodyPart_4",
+			"from": [7, 0, 9.5],
+			"to": [9, 2, 12.5],
+			"faces": {
+				"north": {"uv": [0.75, 12.5, 1.25, 13.5], "texture": "#0"},
+				"east": {"uv": [0, 12.5, 0.75, 13.5], "texture": "#0"},
+				"south": {"uv": [2, 12.5, 2.5, 13.5], "texture": "#0"},
+				"west": {"uv": [1.25, 12.5, 2, 13.5], "texture": "#0"},
+				"up": {"uv": [1.25, 12.5, 0.75, 11], "texture": "#0"},
+				"down": {"uv": [1.75, 11, 1.25, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bodyPart_5",
+			"from": [7, 0, 12.5],
+			"to": [9, 1, 14.5],
+			"faces": {
+				"north": {"uv": [3.25, 1, 3.75, 1.5], "texture": "#0"},
+				"east": {"uv": [2.75, 1, 3.25, 1.5], "texture": "#0"},
+				"south": {"uv": [4.25, 1, 4.75, 1.5], "texture": "#0"},
+				"west": {"uv": [3.75, 1, 4.25, 1.5], "texture": "#0"},
+				"up": {"uv": [3.75, 1, 3.25, 0], "texture": "#0"},
+				"down": {"uv": [4.25, 0, 3.75, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bodyPart_6",
+			"from": [7.5, 0, 14.5],
+			"to": [8.5, 1, 16.5],
+			"faces": {
+				"north": {"uv": [3.75, 3, 4, 3.5], "texture": "#0"},
+				"east": {"uv": [3.25, 3, 3.75, 3.5], "texture": "#0"},
+				"south": {"uv": [4.5, 3, 4.75, 3.5], "texture": "#0"},
+				"west": {"uv": [4, 3, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [4, 3, 3.75, 2], "texture": "#0"},
+				"down": {"uv": [4.25, 2, 4, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bait_hook_0",
+			"from": [0.8, 1, 11.3],
+			"to": [4.8, 2, 12.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [9, 2, 13, 3], "texture": "#1"},
+				"east": {"uv": [9, 2, 10, 3], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [13, 2, 9, 3], "texture": "#1"},
+				"west": {"uv": [12, 2, 13, 3], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [9, 2, 13, 3], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [9, 3, 13, 2], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_1",
+			"from": [3.8, 1, 8.3],
+			"to": [4.8, 2, 11.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [9, 5, 10, 6], "texture": "#1"},
+				"east": {"uv": [9, 3, 10, 6], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [10, 3, 9, 4], "texture": "#1"},
+				"west": {"uv": [9, 3, 10, 6], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [9, 3, 10, 6], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [9, 6, 10, 3], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_2",
+			"from": [0.8, 1, 8.3],
+			"to": [1.8, 2, 11.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [12, 5, 13, 6], "texture": "#1"},
+				"east": {"uv": [12, 3, 13, 6], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [13, 3, 12, 4], "texture": "#1"},
+				"west": {"uv": [12, 3, 13, 6], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [12, 3, 13, 6], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [12, 6, 13, 3], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_3",
+			"from": [1.8, 1, 6.3],
+			"to": [3.8, 2, 9.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [10, 7, 12, 8], "texture": "#1"},
+				"east": {"uv": [10, 5, 11, 8], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [12, 5, 10, 6], "texture": "#1"},
+				"west": {"uv": [11, 5, 12, 8], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [10, 5, 12, 8], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [10, 8, 12, 5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_4",
+			"from": [3.8, 1, 4.3],
+			"to": [4.8, 2, 7.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [9, 9, 10, 10], "texture": "#1"},
+				"east": {"uv": [9, 7, 10, 10], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [10, 7, 9, 8], "texture": "#1"},
+				"west": {"uv": [9, 7, 10, 10], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [9, 7, 10, 10], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [9, 10, 10, 7], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_5",
+			"from": [8.8, 1, 3.3],
+			"to": [9.8, 2, 6.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [4, 10, 5, 11], "texture": "#1"},
+				"east": {"uv": [4, 8, 5, 11], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [5, 8, 4, 9], "texture": "#1"},
+				"west": {"uv": [4, 8, 5, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [4, 8, 5, 11], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [4, 11, 5, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_6",
+			"from": [4.8, 1, 3.3],
+			"to": [5.8, 2, 6.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [8, 10, 9, 11], "texture": "#1"},
+				"east": {"uv": [8, 8, 9, 11], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [9, 8, 8, 9], "texture": "#1"},
+				"west": {"uv": [8, 8, 9, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [8, 8, 9, 11], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [8, 11, 9, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_7",
+			"from": [2.8, 1, 5.3],
+			"to": [3.8, 2, 6.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [10, 8, 11, 9], "texture": "#1"},
+				"east": {"uv": [10, 8, 11, 9], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [11, 8, 10, 9], "texture": "#1"},
+				"west": {"uv": [10, 8, 11, 9], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [10, 8, 11, 9], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [10, 9, 11, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_8",
+			"from": [7.8, 1, 2.3],
+			"to": [8.8, 2, 5.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [5, 11, 6, 12], "texture": "#1"},
+				"east": {"uv": [5, 9, 6, 12], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [6, 9, 5, 10], "texture": "#1"},
+				"west": {"uv": [5, 9, 6, 12], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [5, 9, 6, 12], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [5, 12, 6, 9], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_9",
+			"from": [5.8, 1, 2.3],
+			"to": [6.8, 2, 5.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [7, 11, 8, 12], "texture": "#1"},
+				"east": {"uv": [7, 9, 8, 12], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [8, 9, 7, 10], "texture": "#1"},
+				"west": {"uv": [7, 9, 8, 12], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [7, 9, 8, 12], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [7, 12, 8, 9], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "bait_hook_10",
+			"from": [6.8, 1, 2.3],
+			"to": [7.8, 2, 4.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 6.75]},
+			"faces": {
+				"north": {"uv": [6, 11, 7, 12], "texture": "#1"},
+				"east": {"uv": [6, 10, 7, 12], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [7, 10, 6, 11], "texture": "#1"},
+				"west": {"uv": [6, 10, 7, 12], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [6, 10, 7, 12], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [6, 12, 7, 10], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [1, 0, 0],
+			"translation": [0, 4, 3],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4, 3],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [113.25, 0, 0],
+			"translation": [0, 0.25, 7.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [113.25, 0, 0],
+			"translation": [0, 0.25, 7.75]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"gui": {
+			"rotation": [-90, 0, -180],
+			"translation": [0, 0, -8],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0.5, -8]
+		}
+	},
+	"groups": [
+		{
+			"name": "bodyPart_2",
+			"origin": [0, 4, 1],
+			"color": 0,
+			"children": [
+				0,
+				{
+					"name": "bodyPart_0",
+					"origin": [0, 2, -3.5],
+					"color": 0,
+					"children": [1]
+				},
+				{
+					"name": "bodyPart_1",
+					"origin": [0, 3, -1.5],
+					"color": 0,
+					"children": [2]
+				},
+				{
+					"name": "bodyPart_3",
+					"origin": [0, 3, 4],
+					"color": 0,
+					"children": [3]
+				},
+				{
+					"name": "bodyPart_4",
+					"origin": [0, 2, 7],
+					"color": 0,
+					"children": [4]
+				},
+				{
+					"name": "bodyPart_5",
+					"origin": [0, 1, 9.5],
+					"color": 0,
+					"children": [5]
+				},
+				{
+					"name": "bodyPart_6",
+					"origin": [0, 1, 11.5],
+					"color": 0,
+					"children": [6]
+				}
+			]
+		},
+		{
+			"name": "bait_hook",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+		}
+	]
+}

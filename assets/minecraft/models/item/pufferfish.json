@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/pufferfish"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1001}, "model": "adriftus:item/fish/sheepfish"},
+		{"predicate": {"custom_model_data":1002}, "model": "adriftus:item/fish/cuddlefish"},
+		{"predicate": {"custom_model_data":1003}, "model": "adriftus:item/fish/daggerfish"},
+		{"predicate": {"custom_model_data":1004}, "model": "adriftus:item/fish/guardian_hatchling"},
+		{"predicate": {"custom_model_data":1005}, "model": "adriftus:item/fish/jellyfish"},
+		{"predicate": {"custom_model_data":1006}, "model": "adriftus:item/fish/octopus"},
+		{"predicate": {"custom_model_data":1007}, "model": "adriftus:item/fish/pupfish"},
+		{"predicate": {"custom_model_data":1008}, "model": "adriftus:item/fish/shrimp"},
+		{"predicate": {"custom_model_data":1009}, "model": "adriftus:item/fish/slimefish"},
+		{"predicate": {"custom_model_data":1010}, "model": "adriftus:item/fish/spongefish"},
+		{"predicate": {"custom_model_data":1011}, "model": "adriftus:item/fish/sunfish"},
+		{"predicate": {"custom_model_data":1012}, "model": "adriftus:item/fish/bone_crab"},
+		{"predicate": {"custom_model_data":1013}, "model": "adriftus:item/fish/brute_crab"},
+		{"predicate": {"custom_model_data":1014}, "model": "adriftus:item/fish/wither_snail"},
+		{"predicate": {"custom_model_data":1015}, "model": "adriftus:item/fish/void_octopus"},
+		{"predicate": {"custom_model_data":1016}, "model": "adriftus:item/fish/vermillion_octopus"},
+		{"predicate": {"custom_model_data":1017}, "model": "adriftus:item/fish/turqoise_octopus"},
+		{"predicate": {"custom_model_data":1018}, "model": "adriftus:item/fish/translucent_eel"},
+		{"predicate": {"custom_model_data":1019}, "model": "adriftus:item/fish/striped_coelacanth"},
+		{"predicate": {"custom_model_data":1020}, "model": "adriftus:item/fish/sponge_eater"},
+		{"predicate": {"custom_model_data":1021}, "model": "adriftus:item/fish/spirit_snail"},
+		{"predicate": {"custom_model_data":1022}, "model": "adriftus:item/fish/shroom_sponge"}
+
+
+    ]
+}

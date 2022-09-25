@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/salmon"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1001}, "model": "adriftus:item/fish/trout"},
+		{"predicate": {"custom_model_data":1002}, "model": "adriftus:item/fish/bass"},
+		{"predicate": {"custom_model_data":1003}, "model": "adriftus:item/fish/frost_minnow"},
+		{"predicate": {"custom_model_data":1004}, "model": "adriftus:item/fish/halibut"},
+		{"predicate": {"custom_model_data":1005}, "model": "adriftus:item/fish/sheepfish"},
+		{"predicate": {"custom_model_data":1006}, "model": "adriftus:item/fish/tuna"}
+    ]
+}

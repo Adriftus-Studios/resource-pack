@@ -1,0 +1,48 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/tropical_fish"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1001}, "model": "adriftus:item/fish/angler"},
+		{"predicate": {"custom_model_data":1002}, "model": "adriftus:item/fish/clam"},
+		{"predicate": {"custom_model_data":1003}, "model": "adriftus:item/fish/clownfish"},
+		{"predicate": {"custom_model_data":1004}, "model": "adriftus:item/fish/eel"},
+		{"predicate": {"custom_model_data":1005}, "model": "adriftus:item/fish/flarefin_koi"},
+		{"predicate": {"custom_model_data":1006}, "model": "adriftus:item/fish/golden_shark"},
+		{"predicate": {"custom_model_data":1007}, "model": "adriftus:item/fish/hemopiranha"},
+		{"predicate": {"custom_model_data":1008}, "model": "adriftus:item/fish/neon_tetra"},
+		{"predicate": {"custom_model_data":1009}, "model": "adriftus:item/fish/wither_octopus"},
+		{"predicate": {"custom_model_data":1010}, "model": "adriftus:item/fish/warped_koi"},
+		{"predicate": {"custom_model_data":1011}, "model": "adriftus:item/fish/void_shrimp"},
+		{"predicate": {"custom_model_data":1012}, "model": "adriftus:item/fish/shimmer_crab"},
+		{"predicate": {"custom_model_data":1013}, "model": "adriftus:item/fish/sand_shark"},
+		{"predicate": {"custom_model_data":1014}, "model": "adriftus:item/fish/rockfish"},
+		{"predicate": {"custom_model_data":1015}, "model": "adriftus:item/fish/rock_eel"},
+		{"predicate": {"custom_model_data":1016}, "model": "adriftus:item/fish/reed_eel"},
+		{"predicate": {"custom_model_data":1017}, "model": "adriftus:item/fish/quartz_eel"},
+		{"predicate": {"custom_model_data":1018}, "model": "adriftus:item/fish/phantom_shark"},
+		{"predicate": {"custom_model_data":1019}, "model": "adriftus:item/fish/pearl_eel"},
+		{"predicate": {"custom_model_data":1020}, "model": "adriftus:item/fish/mud_shrimp"},
+		{"predicate": {"custom_model_data":1021}, "model": "adriftus:item/fish/mud_karp"},
+		{"predicate": {"custom_model_data":1022}, "model": "adriftus:item/fish/magma_jellyfish"},
+		{"predicate": {"custom_model_data":1023}, "model": "adriftus:item/fish/magma_carp"},
+		{"predicate": {"custom_model_data":1024}, "model": "adriftus:item/fish/levitating_snail"},
+		{"predicate": {"custom_model_data":1025}, "model": "adriftus:item/fish/lava_shark"},
+		{"predicate": {"custom_model_data":1026}, "model": "adriftus:item/fish/lava_crab"},
+		{"predicate": {"custom_model_data":1027}, "model": "adriftus:item/fish/infernal_crab"},
+		{"predicate": {"custom_model_data":1028}, "model": "adriftus:item/fish/huskfish"},
+		{"predicate": {"custom_model_data":1029}, "model": "adriftus:item/fish/goldfish"},
+		{"predicate": {"custom_model_data":1030}, "model": "adriftus:item/fish/ghast_eel"},
+		{"predicate": {"custom_model_data":1031}, "model": "adriftus:item/fish/ghast_crab"},
+		{"predicate": {"custom_model_data":1032}, "model": "adriftus:item/fish/flying_trout"},
+		{"predicate": {"custom_model_data":1033}, "model": "adriftus:item/fish/end_cod"},
+		{"predicate": {"custom_model_data":1034}, "model": "adriftus:item/fish/dragon_snail"},
+		{"predicate": {"custom_model_data":1035}, "model": "adriftus:item/fish/crimson_koi"},
+		{"predicate": {"custom_model_data":1036}, "model": "adriftus:item/fish/crimson_infected_cod"},
+		{"predicate": {"custom_model_data":1037}, "model": "adriftus:item/fish/choral_koi"}
+
+
+
+    ]
+}
