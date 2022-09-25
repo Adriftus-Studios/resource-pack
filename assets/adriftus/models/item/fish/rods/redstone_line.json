@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld_rod",
   "textures": {
-    "layer0": "adriftus:item/rods/redstone_line"
+    "layer0": "adriftus:item/fish/rods/redstone_line"
   }
 }

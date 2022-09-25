@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/bait/rabbit_foot_bait"
+    "layer0": "adriftus:item/fish/bait/rabbit_foot_bait"
   }
 }

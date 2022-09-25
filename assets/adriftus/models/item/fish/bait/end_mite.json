@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "adriftus:item/bait/endermite",
-		"particle": "adriftus:item/bait/bait_hook"
+		"0": "adriftus:item/fish/bait/endermite",
+		"particle": "adriftus:item/fish/bait/bait_hook"
 	},
 	"elements": [
 		{

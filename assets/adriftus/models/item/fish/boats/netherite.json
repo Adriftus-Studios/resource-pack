@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/boats/netherite"
+    "layer0": "adriftus:item/fish/boats/netherite"
   }
 }

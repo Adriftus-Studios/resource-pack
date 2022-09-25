@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld_rod",
   "textures": {
-    "layer0": "adriftus:item/rods/light"
+    "layer0": "adriftus:item/fish/rods/light"
   }
 }

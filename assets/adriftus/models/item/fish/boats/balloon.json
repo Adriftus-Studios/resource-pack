@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "adriftus:item/boats/balloon"
+    "layer0": "adriftus:item/fish/boats/balloon"
   }
 }
