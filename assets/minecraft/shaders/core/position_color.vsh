@@ -1,8 +1,5 @@
 #version 330
 
-#define TOOLTIP_Z_MIN -0.4
-#define TOOLTIP_Z_MAX -0.399
-
 in vec3 Position;
 in vec4 Color;
 
@@ -23,9 +20,7 @@ void main() {
     
     if (position.x < -0.95 && position.x > -1) dis = 100.0;
     if (position.x > 0.7 && position.x < 1) dis = 100.0;
-    if (
-        ( (position.y > 2 || position.y < -2) && position.x < -2) &&
-        position.z > TOOLTIP_Z_MIN && position.z < TOOLTIP_Z_MAX) dis = 100000000.0;
+    if (position.y > 2 || position.x < -2 && (position.z > -0.4 && position.z < -0.399) ) dis = 100000000.0;
     
 
     vertexColor = Color;

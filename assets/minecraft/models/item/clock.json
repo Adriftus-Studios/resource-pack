@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/clock_00"
   },
   "overrides": [
-        { "predicate": { "time": 0.0000000 }, "model": "item/clock" },
+        { "predicate": { "time": 0.0000000 }, "model": "item/clock_00" },
         { "predicate": { "time": 0.0078125 }, "model": "item/clock_01" },
         { "predicate": { "time": 0.0234375 }, "model": "item/clock_02" },
         { "predicate": { "time": 0.0390625 }, "model": "item/clock_03" },
@@ -68,7 +68,7 @@
         { "predicate": { "time": 0.9453125 }, "model": "item/clock_61" },
         { "predicate": { "time": 0.9609375 }, "model": "item/clock_62" },
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
-        { "predicate": { "time": 0.9921875 }, "model": "item/clock_00" },
+        { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
         { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/seasonal/thanksgiving/thanksgiving_hat" },
 	{ "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/seasonal/thanksgiving/thanksgiving_hat_lmao" },
 	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/seasonal/christmas/santa_hat" },
