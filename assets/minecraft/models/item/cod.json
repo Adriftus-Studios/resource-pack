@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/cod"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1001}, "model": "adriftus:item/fish/atlantic_cod"},
+		{"predicate": {"custom_model_data":1002}, "model": "adriftus:item/fish/bowfin"},
+		{"predicate": {"custom_model_data":1003}, "model": "adriftus:item/fish/flounder"},
+		{"predicate": {"custom_model_data":1004}, "model": "adriftus:item/fish/golden_cod"},
+		{"predicate": {"custom_model_data":1005}, "model": "adriftus:item/fish/muskfish"},
+		{"predicate": {"custom_model_data":1006}, "model": "adriftus:item/fish/blazing_cod"},
+		{"predicate": {"custom_model_data":1007}, "model": "adriftus:item/fish/warped_infected_cod"},
+		{"predicate": {"custom_model_data":1008}, "model": "adriftus:item/fish/stone_cod"}
+
+    ]
+}
