@@ -1,7 +1,7 @@
 {
-    "parent": "adriftus:item/handheld",
+    "parent": "item/handheld",
     "textures": {
-        "layer0": "adriftus:item/amethyst_shard"
+        "layer0": "item/amethyst_shard"
     },
     "overrides": [
         {"predicate": {"custom_model_data":1001}, "model": "adriftus:item/fish/bait/worm_bait"},
