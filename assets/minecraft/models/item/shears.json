@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:block/shears"
+    "layer0": "minecraft:item/shears"
   },
   "overrides": [
 	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/misc_items/grappling_hook" }
