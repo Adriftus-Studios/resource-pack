@@ -6,6 +6,6 @@
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/keys/daily_vote" },
     { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/keys/weekly_vote" },
-	{ "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/misc_items/grappling_hook" }
+
   ]
 }
