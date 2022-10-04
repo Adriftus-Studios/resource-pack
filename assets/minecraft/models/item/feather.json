@@ -73,13 +73,13 @@
 
     { "predicate": { "custom_model_data": 1000}, "model": "adriftus:block/shop_turret" },
 
-    { "predicate": { "custom_model_data": 1000}, "model": "adriftus:item/instruments/banjo" },
-	{ "predicate": { "custom_model_data": 1001}, "model": "adriftus:item/instruments/bells" },
-	{ "predicate": { "custom_model_data": 1002}, "model": "adriftus:item/instruments/cow_bell" },
-	{ "predicate": { "custom_model_data": 1003}, "model": "adriftus:item/instruments/didgeridoo" },
-	{ "predicate": { "custom_model_data": 1004}, "model": "adriftus:item/instruments/guitar" },
-	{ "predicate": { "custom_model_data": 1005}, "model": "adriftus:item/instruments/snare" },
-	{ "predicate": { "custom_model_data": 1006}, "model": "adriftus:item/instruments/string_bass" },
+    { "predicate": { "custom_model_data": 2007}, "model": "adriftus:item/instruments/banjo" },
+	{ "predicate": { "custom_model_data": 2001}, "model": "adriftus:item/instruments/bells" },
+	{ "predicate": { "custom_model_data": 2002}, "model": "adriftus:item/instruments/cow_bell" },
+	{ "predicate": { "custom_model_data": 2003}, "model": "adriftus:item/instruments/didgeridoo" },
+	{ "predicate": { "custom_model_data": 2004}, "model": "adriftus:item/instruments/guitar" },
+	{ "predicate": { "custom_model_data": 2005}, "model": "adriftus:item/instruments/snare" },
+	{ "predicate": { "custom_model_data": 2006}, "model": "adriftus:item/instruments/string_bass" },
 
 
     { "predicate": { "custom_model_data": 10000}, "model": "adriftus:block/steel_block" },
