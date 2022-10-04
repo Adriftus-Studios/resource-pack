@@ -73,7 +73,7 @@
 
     { "predicate": { "custom_model_data": 1000}, "model": "adriftus:block/shop_turret" },
 
-    { "predicate": { "custom_model_data": 2007}, "model": "adriftus:item/instruments/banjo" },
+    { "predicate": { "custom_model_data": 2000}, "model": "adriftus:item/instruments/banjo" },
 	{ "predicate": { "custom_model_data": 2001}, "model": "adriftus:item/instruments/bells" },
 	{ "predicate": { "custom_model_data": 2002}, "model": "adriftus:item/instruments/cow_bell" },
 	{ "predicate": { "custom_model_data": 2003}, "model": "adriftus:item/instruments/didgeridoo" },
