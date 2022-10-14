@@ -71,24 +71,6 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:logos/base/large.png",
-            "ascent": 0,
-            "height": 1198,
-            "chars": [
-                "\u6904"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "adriftus:logos/banners/large.png",
-            "ascent": 0,
-            "height": 857,
-            "chars": [
-                "\u6905"
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "adriftus:custom_gui/gui_template.png",
             "ascent": 13.75,
             "height": 256,
