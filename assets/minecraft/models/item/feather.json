@@ -89,7 +89,7 @@
 	{ "predicate": { "custom_model_data": 2013}, "model": "adriftus:item/instruments/xylophone" },
 	{ "predicate": { "custom_model_data": 2014}, "model": "adriftus:item/instruments/bass_drum" },
 	{ "predicate": { "custom_model_data": 2015}, "model": "adriftus:item/instruments/synth" },
-	{ "predicate": { "custom_model_data": 2011}, "model": "adriftus:item/instruments/cello" },
+
 
 
     { "predicate": { "custom_model_data": 10000}, "model": "adriftus:block/steel_block" },
