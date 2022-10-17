@@ -80,6 +80,16 @@
 	{ "predicate": { "custom_model_data": 2004}, "model": "adriftus:item/instruments/guitar" },
 	{ "predicate": { "custom_model_data": 2005}, "model": "adriftus:item/instruments/snare" },
 	{ "predicate": { "custom_model_data": 2006}, "model": "adriftus:item/instruments/string_bass" },
+	{ "predicate": { "custom_model_data": 2007}, "model": "adriftus:item/instruments/chimes" },
+	{ "predicate": { "custom_model_data": 2008}, "model": "adriftus:item/instruments/flute" },
+	{ "predicate": { "custom_model_data": 2009}, "model": "adriftus:item/instruments/harp" },
+	{ "predicate": { "custom_model_data": 2010}, "model": "adriftus:item/instruments/hi_hat" },
+	{ "predicate": { "custom_model_data": 2011}, "model": "adriftus:item/instruments/vibraphone" },
+	{ "predicate": { "custom_model_data": 2012}, "model": "adriftus:item/instruments/electric_piano" },
+	{ "predicate": { "custom_model_data": 2013}, "model": "adriftus:item/instruments/xylophone" },
+	{ "predicate": { "custom_model_data": 2014}, "model": "adriftus:item/instruments/bass_drum" },
+	{ "predicate": { "custom_model_data": 2015}, "model": "adriftus:item/instruments/synth" },
+	{ "predicate": { "custom_model_data": 2011}, "model": "adriftus:item/instruments/cello" },
 
 
     { "predicate": { "custom_model_data": 10000}, "model": "adriftus:block/steel_block" },
