@@ -62,7 +62,7 @@
         },
         {
             "type": "bitmap",
-            "file": "adriftus:custom_gui/mod_tools/mod_ender_chest_inv.png",
+            "file": "adriftus:custom_gui/mod_tools/mod_inv_ender.png",
             "ascent": 29.00,
             "height": 256,
             "chars": [

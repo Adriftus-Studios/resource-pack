@@ -3,15 +3,11 @@
   "language.region": "United States",
   "language.code": "en_us",
   "container.inventory": " ",
-  "container.crafting": " ",
-  "gui.advancements": " ",
   "item.nbt_tags": " ",
   "item.durability": " ",
-  "item.dyed": "Customized",
-  "adriftus.user.display_name": "%s",
-  "adriftus.lore.staff_only": "",
-  "adriftus.pack.identify": "User",
-  "adriftus.pack.version": "1.1",
-  "multiplayer.unsecureserver.toast.title": " ",
-  "multiplayer.unsecureserver.toast": " "
+  "adriftus.user.display_name": "%s %s",
+  "adriftus.lore.staff_only": "%s",
+  "adriftus.pack.identify": "Staff",
+  "adriftus.pack.version": "1.1"
 }
+

@@ -1,6 +1,0 @@
-Everything in the grimdark namespace is the work of Kalam0n:
-https://www.planetminecraft.com/texture-pack/grimdark-armor/
-https://www.planetminecraft.com/texture-pack/grimdark-battlepack/
-
-Textures usage is permitted by the author, without re-distribution.
-You MUST download the contents of this directory for personal usage from the above links.

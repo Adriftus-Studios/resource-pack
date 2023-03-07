@@ -36,7 +36,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:misc/hunger.png",
-            "ascent": 8,
+            "ascent": 7,
             "height": 7,
             "chars": [
                 "\u1001"
@@ -45,7 +45,7 @@
         {
             "type": "bitmap",
             "file": "adriftus:misc/saturation.png",
-            "ascent": 8,
+            "ascent": 7,
             "height": 7,
             "chars": [
                 "\u1002"

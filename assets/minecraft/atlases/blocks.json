@@ -1,0 +1,86 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "models",
+            "prefix": "models/"
+        },
+        {
+            "type": "directory",
+            "source": "furniture",
+            "prefix": "furniture/"
+        },
+        {
+            "type": "directory",
+            "source": "logos",
+            "prefix": "logos/"
+        },
+        {
+            "type": "directory",
+            "source": "custom",
+            "prefix": "custom/"
+        },
+        {
+            "type": "directory",
+            "source": "custom_chat",
+            "prefix": "custom_chat/"
+        },
+        {
+            "type": "directory",
+            "source": "effects",
+            "prefix": "effects/"
+        },
+        {
+            "type": "directory",
+            "source": "waystones",
+            "prefix": "waystones/"
+        },
+        {
+            "type": "directory",
+            "source": "statues",
+            "prefix": "statues/"
+        },
+        {
+            "type": "directory",
+            "source": "plushes",
+            "prefix": "plushes/"
+        },
+        {
+            "type": "directory",
+            "source": "holograms",
+            "prefix": "holograms/"
+        },
+        {
+            "type": "directory",
+            "source": "custom_gui",
+            "prefix": "custom_gui/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "blocks",
+            "prefix": "blocks/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:hat_axolotl_cyan"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:hat_axolotl_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:altar"
+        }
+    ]
+}

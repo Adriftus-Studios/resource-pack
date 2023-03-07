@@ -126,7 +126,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/A.png",
+        "file": "adriftus:adriftus_font/a.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -135,7 +135,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/B.png",
+        "file": "adriftus:adriftus_font/b.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -144,7 +144,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/C.png",
+        "file": "adriftus:adriftus_font/c.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -153,7 +153,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/D.png",
+        "file": "adriftus:adriftus_font/d.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -162,7 +162,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/E.png",
+        "file": "adriftus:adriftus_font/e.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -171,7 +171,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/F.png",
+        "file": "adriftus:adriftus_font/f.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -180,7 +180,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/G.png",
+        "file": "adriftus:adriftus_font/g.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -189,7 +189,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/H.png",
+        "file": "adriftus:adriftus_font/h.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -198,7 +198,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/I.png",
+        "file": "adriftus:adriftus_font/i.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -207,7 +207,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/J.png",
+        "file": "adriftus:adriftus_font/j.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -216,7 +216,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/K.png",
+        "file": "adriftus:adriftus_font/k.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -225,7 +225,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/L.png",
+        "file": "adriftus:adriftus_font/l.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -234,7 +234,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/M.png",
+        "file": "adriftus:adriftus_font/m.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -243,7 +243,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/N.png",
+        "file": "adriftus:adriftus_font/n.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -252,7 +252,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/O.png",
+        "file": "adriftus:adriftus_font/o.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -261,7 +261,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/P.png",
+        "file": "adriftus:adriftus_font/p.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -270,7 +270,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/Q.png",
+        "file": "adriftus:adriftus_font/q.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -279,7 +279,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/R.png",
+        "file": "adriftus:adriftus_font/r.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -288,7 +288,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/S.png",
+        "file": "adriftus:adriftus_font/s.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -297,7 +297,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/T.png",
+        "file": "adriftus:adriftus_font/t.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -306,7 +306,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/U.png",
+        "file": "adriftus:adriftus_font/u.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -315,7 +315,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/V.png",
+        "file": "adriftus:adriftus_font/v.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -324,7 +324,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/W.png",
+        "file": "adriftus:adriftus_font/w.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -333,7 +333,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/X.png",
+        "file": "adriftus:adriftus_font/x.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -342,7 +342,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/Y.png",
+        "file": "adriftus:adriftus_font/y.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -351,7 +351,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/Z.png",
+        "file": "adriftus:adriftus_font/z.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -360,7 +360,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/A.png",
+        "file": "adriftus:adriftus_font/a.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -369,7 +369,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/B.png",
+        "file": "adriftus:adriftus_font/b.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -378,7 +378,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/C.png",
+        "file": "adriftus:adriftus_font/c.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -387,7 +387,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/D.png",
+        "file": "adriftus:adriftus_font/d.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -396,7 +396,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/E.png",
+        "file": "adriftus:adriftus_font/e.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -405,7 +405,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/F.png",
+        "file": "adriftus:adriftus_font/f.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -414,7 +414,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/G.png",
+        "file": "adriftus:adriftus_font/g.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -423,7 +423,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/H.png",
+        "file": "adriftus:adriftus_font/h.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -432,7 +432,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/I.png",
+        "file": "adriftus:adriftus_font/i.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -441,7 +441,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/J.png",
+        "file": "adriftus:adriftus_font/j.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -450,7 +450,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/K.png",
+        "file": "adriftus:adriftus_font/k.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -459,7 +459,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/L.png",
+        "file": "adriftus:adriftus_font/l.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -468,7 +468,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/M.png",
+        "file": "adriftus:adriftus_font/m.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -477,7 +477,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/N.png",
+        "file": "adriftus:adriftus_font/n.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -486,7 +486,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/O.png",
+        "file": "adriftus:adriftus_font/o.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -495,7 +495,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/P.png",
+        "file": "adriftus:adriftus_font/p.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -504,7 +504,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/Q.png",
+        "file": "adriftus:adriftus_font/q.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -513,7 +513,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/R.png",
+        "file": "adriftus:adriftus_font/r.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -522,7 +522,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/S.png",
+        "file": "adriftus:adriftus_font/s.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -531,7 +531,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/T.png",
+        "file": "adriftus:adriftus_font/t.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -540,7 +540,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/U.png",
+        "file": "adriftus:adriftus_font/u.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -549,7 +549,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/V.png",
+        "file": "adriftus:adriftus_font/v.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -558,7 +558,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/W.png",
+        "file": "adriftus:adriftus_font/w.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -567,7 +567,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/X.png",
+        "file": "adriftus:adriftus_font/x.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -576,7 +576,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/Y.png",
+        "file": "adriftus:adriftus_font/y.png",
         "ascent": -28,
         "height": 6,
         "chars": [
@@ -585,7 +585,7 @@
     },
     {
         "type": "bitmap",
-        "file": "adriftus:adriftus_font/Z.png",
+        "file": "adriftus:adriftus_font/z.png",
         "ascent": -28,
         "height": 6,
         "chars": [

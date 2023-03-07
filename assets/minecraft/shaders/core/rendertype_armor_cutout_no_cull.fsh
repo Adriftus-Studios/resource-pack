@@ -23,7 +23,7 @@ void main() {
     vec4 color;
     vec4 emissive = texture(Sampler0, emissiveUV);
     vec4 overlay = texture(Sampler0, overlayUV);
-
+    
     if (emissive.a > 0.1) {
       color = texture(Sampler0, uv);
     }
